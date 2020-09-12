@@ -162,17 +162,19 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/09/07/health/coronavirus-mental-health-long-hauler.html)
+    [](/2020/09/11/science/genetic-cancer-research-race.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/09/05/science/05VIRUS-MENTAL1/05VIRUS-MENTAL1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/09/11/science/11GENOME1/11GENOME1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## For Long-Haulers, Covid-19 Takes a Toll on Mind as Well as Body
+    ## Cancer Projects to Diversify Genetic Research Receive New Grants
     
-    “It makes you depressed, anxious that it’s never going to go away.”
+    Because much cancer research and clinical trials have been based on
+    white populations, efforts to explore the ways race and ethnicity
+    influence disease are underway.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -190,6 +192,85 @@ story](#after-mid1)
     </div>
 
 2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/es/2020/09/09/espanol/ciencia-y-tecnologia/salud-mental-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/09/05/science/09Mental-ES-00/05VIRUS-MENTAL1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## ¿Qué efectos mentales tiene una prolongada convalecencia de COVID-19?
+    
+    “Te hace sentir deprimida, ansiosa porque crees que no va a acabar
+    nunca”.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Emma Goldberg</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Read in
+    English](https://www.nytimes3xbfgragh.onion/2020/09/07/health/coronavirus-mental-health-long-hauler.html "Read in English")
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/09/07/health/coronavirus-mental-health-long-hauler.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/09/05/science/05VIRUS-MENTAL1/05VIRUS-MENTAL1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## For Long-Haulers, Covid-19 Takes a Toll on Mind as Well as Body
+    
+    “It makes you depressed, anxious that it’s never going to go away.”
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Emma Goldberg</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Leer en
+    español](https://www.nytimes3xbfgragh.onion/es/2020/09/09/espanol/ciencia-y-tecnologia/salud-mental-coronavirus.html "Read in Spanish")
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
     
     <div class="css-1cp3ece">
     
@@ -224,7 +305,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -261,7 +342,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -295,7 +376,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -329,7 +410,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -366,7 +447,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -402,7 +483,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -423,78 +504,6 @@ story](#after-mid1)
     Rhiana Gunn-Wright, a climate policy director and architect of the
     Green New Deal, explains the connections between the pandemic and
     the climate crisis.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Emma
-    Goldberg</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/20/us/medical-interpreter-covid-hospitals-coronavirus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/17/us/IHW-NEXTSTEPS-MARTATRANSLATOR/IHW-NEXTSTEPS-MARTATRANSLATOR-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">In Her Words</span>
-    
-    ## Why a Medical Interpreter Felt ‘Disposable’ Amid Covid-19
-    
-    For Marta Rodriguez, helping very sick patients understand their
-    prognosis has become routine — but it hasn’t become any easier.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Emma
-    Goldberg</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/08/movies/director-ava-duvernay-movies-police-protests.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/02/10/us/6ihw-duvernay/6ihw-duvernay-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">In her words</span>
-    
-    ## Ava DuVernay’s Fight for Change, Onscreen and Off
-    
-    The award-winning film director on the role of artists in a time of
-    widespread unrest, and how film can help hold police to account.
     
     <div class="css-1nqbnmb ea5icrr0">
     

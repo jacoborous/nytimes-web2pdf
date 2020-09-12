@@ -135,18 +135,18 @@ Results</span>
 
 <div class="css-l9svim">
 
-### [<span class="css-pa1jbp"><span class="css-1rxm0ex">The Coronavirus</span><span class="css-1rxm0ex"> Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=cd4570f0-f27f-11ea-b780-1bb5a09dbead&variant=undefined)
+### [<span class="css-pa1jbp"><span class="css-1rxm0ex">The Coronavirus</span><span class="css-1rxm0ex"> Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=4fc43c30-f52f-11ea-8b0e-139dcc2f4b62&variant=undefined)
 
-  - <span class="css-ousu42"><span class="css-12clwdu">live</span>[Latest
-    Updates](https://www.nytimes3xbfgragh.onion/2020/09/09/world/covid-19-coronavirus.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=cd4570f1-f27f-11ea-b780-1bb5a09dbead&variant=undefined)</span>
-  - <span class="css-ousu42">[Maps and
-    Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=cd4570f2-f27f-11ea-b780-1bb5a09dbead&variant=undefined)</span>
-  - <span class="css-ousu42">[Vaccine
-    Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=cd4570f3-f27f-11ea-b780-1bb5a09dbead&variant=undefined)</span>
-  - <span class="css-ousu42">[Eviction
-    Moratorium](https://www.nytimes3xbfgragh.onion/2020/09/02/your-money/eviction-moratorium-covid.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=cd4570f4-f27f-11ea-b780-1bb5a09dbead&variant=undefined)</span>
-  - <span class="css-ousu42">[American
-    Hunger](https://www.nytimes3xbfgragh.onion/interactive/2020/09/02/magazine/food-insecurity-hunger-us.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=cd4570f5-f27f-11ea-b780-1bb5a09dbead&variant=undefined)</span>
+  - <span class="css-1qkutce"><span class="css-12clwdu">live</span>[Latest
+    Updates](https://www.nytimes3xbfgragh.onion/2020/09/12/world/covid-19-coronavirus.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=4fc43c31-f52f-11ea-8b0e-139dcc2f4b62&variant=undefined)</span>
+  - <span class="css-1qkutce">[Maps and
+    Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=4fc46340-f52f-11ea-8b0e-139dcc2f4b62&variant=undefined)</span>
+  - <span class="css-1qkutce">[Vaccine
+    Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=4fc46341-f52f-11ea-8b0e-139dcc2f4b62&variant=undefined)</span>
+  - <span class="css-1qkutce">[F.D.A. Regulators’
+    Self-Defense](https://www.nytimes3xbfgragh.onion/2020/09/10/us/politics/fda-coronavirus-vaccine.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=4fc46342-f52f-11ea-8b0e-139dcc2f4b62&variant=undefined)</span>
+  - <span class="css-1qkutce">[Surprise Test
+    Fees](https://www.nytimes3xbfgragh.onion/2020/09/09/upshot/coronavirus-surprise-test-fees.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=4fc46343-f52f-11ea-8b0e-139dcc2f4b62&variant=undefined)</span>
 
 </div>
 
@@ -297,7 +297,7 @@ Zimmer</span>](https://www.nytimes3xbfgragh.onion/by/carl-zimmer)
 On Friday, a team of Russian scientists
 [published](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736\(20\)31866-3/fulltext)
 the first report on their [Covid-19
-vaccine](https://www.nytimes3xbfgragh.onion/2020/09/08/health/9-drug-companies-pledge-coronavirus-vaccine.html),
+vaccine](https://www.nytimes3xbfgragh.onion/2020/09/10/health/covid-astrazeneca-vaccine-trans.html),
 which had been roundly criticized because of President Vladimir Putin’s
 decision last month to approve it before clinical trials had proved it
 safe and effective.
@@ -376,42 +376,41 @@ protein.
 
 <div class="css-17ih8de interactive-body">
 
-<div id="styln-briefing-block" data-asset-id="QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzA0MTc1MmJmLWNmNmQtNTIyZC1iYWQ1LWQxYmNkZmQyMTZmMg==">
+<div id="styln-briefing-block" data-asset-id="QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzJiYjYwYTJiLTY3NjItNTg3NC1iMGVhLWY4NzRhMjE3NTQyZA==">
 
 <div class="briefing-block-header-section">
 
-# [Latest Updates: The Coronavirus Outbreak](https://www.nytimes3xbfgragh.onion/2020/09/09/world/covid-19-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+# [Latest Updates: The Coronavirus Outbreak](https://www.nytimes3xbfgragh.onion/2020/09/11/world/covid-19-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 <div class="briefing-block-ts">
 
-Updated 2020-09-09T09:25:52.418Z
+Updated 2020-09-12T12:04:20.515Z
 
 </div>
 
 </div>
 
-  - [As drugmakers pledge to thoroughly vet a vaccine, one company
-    pauses its trials for a safety
-    review.](https://www.nytimes3xbfgragh.onion/2020/09/09/world/covid-19-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-70cea8bb)
-  - [Facing a surge in cases, Britain plans to limit most gatherings to
-    six
-    people.](https://www.nytimes3xbfgragh.onion/2020/09/09/world/covid-19-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-4438dd7)
-  - [Quarantine breakdowns at colleges in the U.S. are leaving some at
-    risk.](https://www.nytimes3xbfgragh.onion/2020/09/09/world/covid-19-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-11cec4c0)
+  - [Fauci cautions the virus could disrupt life in the U.S. until
+    ‘maybe even towards the end
+    of 2021.’](https://www.nytimes3xbfgragh.onion/2020/09/11/world/covid-19-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-dfb8a16)
+  - [From Asia to Africa, China promotes its vaccine candidates to win
+    friends.](https://www.nytimes3xbfgragh.onion/2020/09/11/world/covid-19-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-7104d154)
+  - [The other way the virus will kill:
+    hunger.](https://www.nytimes3xbfgragh.onion/2020/09/11/world/covid-19-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-393ad215)
 
 <div class="briefing-block-footer">
 
 <div class="briefing-block-footer-meta">
 
 [See more
-updates](https://www.nytimes3xbfgragh.onion/2020/09/09/world/covid-19-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+updates](https://www.nytimes3xbfgragh.onion/2020/09/11/world/covid-19-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
 <div class="briefing-block-briefinglinks">
 
 <span>More live coverage:</span>
-[Markets](https://www.nytimes3xbfgragh.onion/live/2020/09/08/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+[Markets](https://www.nytimes3xbfgragh.onion/live/2020/09/11/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
@@ -527,7 +526,7 @@ volunteers.”
 
 <div class="css-1eoytci">
 
-![](https://static01.graylady3jvrrxbe.onion/images/2020/09/03/us/coronavirus-vaccine-tracker-promo-1599144009786/coronavirus-vaccine-tracker-promo-1599144009786-articleLarge.png)
+![](https://static01.graylady3jvrrxbe.onion/images/2020/09/10/us/coronavirus-vaccine-tracker-promo-1599751853248/coronavirus-vaccine-tracker-promo-1599751853248-articleLarge.png)
 
 </div>
 
@@ -574,144 +573,7 @@ AstraZeneca, they claimed, only produced antibody levels equal to that
 in convalescent plasma.
 
 It is not clear why the paper presents a different picture. The authors
-of the study did not respond to a request for
-comment.
-
-<div id="NYT_MAIN_CONTENT_3_REGION" class="css-9tf9ac">
-
-<div>
-
-<div id="styln-prism-freeform-1594220623585" class="section interactive-content interactive-size-medium css-1ftcdic">
-
-<div class="css-17ih8de interactive-body">
-
-<div id="prism-freeform-block-62914" class="css-19mumt8" data-role="complementary" data-storyline="The Coronavirus Outbreak" data-truncated="true" tabindex="0">
-
-<div class="css-a8d9oz">
-
-<div class="css-eb027h">
-
-[](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-
-### The Coronavirus Outbreak ›
-
-#### Frequently Asked Questions
-
-Updated September 4, 2020
-
-  - #### What are the symptoms of coronavirus?
-    
-      - In the beginning, the coronavirus [seemed like it was primarily
-        a respiratory
-        illness](https://www.nytimes3xbfgragh.onion/article/coronavirus-facts-history.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq#link-6817bab5) —
-        many patients had fever and chills, were weak and tired, and
-        coughed a lot, though some people don’t show many symptoms at
-        all. Those who seemed sickest had pneumonia or acute respiratory
-        distress syndrome and received supplemental oxygen. By now,
-        doctors have identified many more symptoms and syndromes. In
-        April, [the C.D.C. added to the list of early
-        signs](https://www.nytimes3xbfgragh.onion/2020/04/27/health/coronavirus-symptoms-cdc.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq) sore
-        throat, fever, chills and muscle aches. Gastrointestinal upset,
-        such as diarrhea and nausea, has also been observed. Another
-        telltale sign of infection may be a sudden, profound diminution
-        of one’s [sense of smell and
-        taste.](https://www.nytimes3xbfgragh.onion/2020/03/22/health/coronavirus-symptoms-smell-taste.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq) Teenagers
-        and young adults in some cases have developed painful red and
-        purple lesions on their fingers and toes — nicknamed “Covid toe”
-        — but few other serious symptoms.
-
-  - #### Why is it safer to spend time together outside?
-    
-      - [Outdoor
-        gatherings](https://www.nytimes3xbfgragh.onion/2020/05/15/us/coronavirus-what-to-do-outside.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq) lower
-        risk because wind disperses viral droplets, and sunlight can
-        kill some of the virus. Open spaces prevent the virus from
-        building up in concentrated amounts and being inhaled, which can
-        happen when infected people exhale in a confined space for long
-        stretches of time, said Dr. Julian W. Tang, a virologist at the
-        University of Leicester.
-
-  - #### Why does standing six feet away from others help?
-    
-      - The coronavirus spreads primarily through droplets from your
-        mouth and nose, especially when you cough or sneeze. The C.D.C.,
-        one of the organizations using that measure, [bases its
-        recommendation of six
-        feet](https://www.nytimes3xbfgragh.onion/2020/04/14/health/coronavirus-six-feet.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq) on
-        the idea that most large droplets that people expel when they
-        cough or sneeze will fall to the ground within six feet. But six
-        feet has never been a magic number that guarantees complete
-        protection. Sneezes, for instance, can launch droplets a lot
-        farther than six feet, [according to a recent
-        study](https://jamanetwork.com/journals/jama/fullarticle/2763852).
-        It's a rule of thumb: You should be safest standing six feet
-        apart outside, especially when it's windy. But keep a mask on at
-        all times, even when you think you’re far enough apart.
-
-  - #### I have antibodies. Am I now immune?
-    
-      - As of right now,[ that seems likely, for at least several
-        months.](https://www.nytimes3xbfgragh.onion/2020/07/22/health/covid-antibodies-herd-immunity.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq) There
-        have been frightening accounts of people suffering what seems to
-        be a second bout of Covid-19. But experts say these patients may
-        have a drawn-out course of infection, with the virus taking a
-        slow toll weeks to months after initial exposure. People
-        infected with the coronavirus typically
-        [produce](https://www.nature.com/articles/s41586-020-2456-9) immune
-        molecules called antibodies, which are [protective proteins made
-        in response to an
-        infection](https://www.nytimes3xbfgragh.onion/2020/05/07/health/coronavirus-antibody-prevalence.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)[.
-        These antibodies
-        may](https://www.nytimes3xbfgragh.onion/2020/05/07/health/coronavirus-antibody-prevalence.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq) last
-        in the body [only two to three
-        months](https://www.nature.com/articles/s41591-020-0965-6),
-        which may seem worrisome, but that’s perfectly normal after an
-        acute infection subsides, said Dr. Michael Mina, an immunologist
-        at Harvard University. It may be possible to get the coronavirus
-        again, but it’s highly unlikely that it would be possible in a
-        short window of time from initial infection or make people
-        sicker the second time.
-
-  - #### What are my rights if I am worried about going back to work?
-    
-      - Employers have to provide [a safe
-        workplace](https://www.osha.gov/SLTC/covid-19/standards.html) with
-        policies that protect everyone equally. [And if one of your
-        co-workers tests positive for the coronavirus, the
-        C.D.C.](https://www.nytimes3xbfgragh.onion/article/coronavirus-money-unemployment.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq) has
-        said that [employers should tell their
-        employees](https://www.cdc.gov/coronavirus/2019-ncov/community/guidance-business-response.html) --
-        without giving you the sick employee’s name -- that they may
-        have been exposed to the
-virus.
-
-<div id="styln-survey-component-62914" class="styln-survey-component" data-surveyname="faq" data-surveystoryline="coronavirus">
-
-</div>
-
-</div>
-
-<div class="css-6mllg9">
-
-</div>
-
-<div class="css-pmm6ed">
-
-<span class="css-5gimkt"></span>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
+of the study did not respond to a request for comment.
 
 John Moore, a virologist at Weill Cornell Medicine in New York who was
 not involved in the study, said that it was too early to make any

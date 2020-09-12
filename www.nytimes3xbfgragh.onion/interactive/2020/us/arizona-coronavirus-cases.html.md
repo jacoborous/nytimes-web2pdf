@@ -123,18 +123,18 @@ Count</span>
 
 <div class="css-l9svim">
 
-### [<span class="css-pa1jbp"><span class="css-1rxm0ex">The Coronavirus</span><span class="css-1rxm0ex"> Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=5ef6a150-f4b9-11ea-b745-fdde6a7fe5f7&variant=undefined)
+### [<span class="css-pa1jbp"><span class="css-1rxm0ex">The Coronavirus</span><span class="css-1rxm0ex"> Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=498f2f50-f52f-11ea-9778-8912d13d57cf&variant=undefined)
 
   - <span class="css-1qkutce"><span class="css-12clwdu">live</span>[Latest
-    Updates](https://www.nytimes3xbfgragh.onion/2020/09/11/world/covid-19-coronavirus.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=5ef6a151-f4b9-11ea-b745-fdde6a7fe5f7&variant=undefined)</span>
+    Updates](https://www.nytimes3xbfgragh.onion/2020/09/12/world/covid-19-coronavirus.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=498f2f51-f52f-11ea-9778-8912d13d57cf&variant=undefined)</span>
   - <span class="css-1qkutce">[Maps and
-    Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=5ef6a152-f4b9-11ea-b745-fdde6a7fe5f7&variant=undefined)</span>
+    Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=498f2f52-f52f-11ea-9778-8912d13d57cf&variant=undefined)</span>
   - <span class="css-1qkutce">[Vaccine
-    Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=5ef6a153-f4b9-11ea-b745-fdde6a7fe5f7&variant=undefined)</span>
+    Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=498f5660-f52f-11ea-9778-8912d13d57cf&variant=undefined)</span>
   - <span class="css-1qkutce">[F.D.A. Regulators’
-    Self-Defense](https://www.nytimes3xbfgragh.onion/2020/09/10/us/politics/fda-coronavirus-vaccine.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=5ef6a154-f4b9-11ea-b745-fdde6a7fe5f7&variant=undefined)</span>
+    Self-Defense](https://www.nytimes3xbfgragh.onion/2020/09/10/us/politics/fda-coronavirus-vaccine.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=498f5661-f52f-11ea-9778-8912d13d57cf&variant=undefined)</span>
   - <span class="css-1qkutce">[Surprise Test
-    Fees](https://www.nytimes3xbfgragh.onion/2020/09/09/upshot/coronavirus-surprise-test-fees.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=5ef6c860-f4b9-11ea-b745-fdde6a7fe5f7&variant=undefined)</span>
+    Fees](https://www.nytimes3xbfgragh.onion/2020/09/09/upshot/coronavirus-surprise-test-fees.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=498f5662-f52f-11ea-9778-8912d13d57cf&variant=undefined)</span>
 
 </div>
 
@@ -174,7 +174,7 @@ story](#after-top)
 <div class="css-1vegfwe interactive-byline-container">
 
 By <span class="css-1baulvz last-byline" itemprop="name">The New York
-Times</span>Updated September 12, 2020, 12:33 A.M.
+Times</span>Updated September 12, 2020, 10:37 A.M.
 E.T.
 
 </div>
@@ -450,7 +450,7 @@ available
 
 [Map](#map)[By county](#county)[New cases](#cases)[Tips](#tips)[Latest
 news
-»](https://www.nytimes3xbfgragh.onion/2020/09/11/world/covid-19-coronavirus.html)
+»](https://www.nytimes3xbfgragh.onion/2020/09/12/world/covid-19-coronavirus.html)
 
 </div>
 
@@ -895,7 +895,7 @@ in last<br />
 </div>
 </div>
 </div>
-<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/491875afa3298f8daa04797f059de38d8307c8cc/build/heatmaps/nyt_world/usa/arizona.svg" alt="Arizona heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/dc9015512110e68e5a8253678d9addff3b2167f7/build/heatmaps/nyt_world/usa/arizona.svg" alt="Arizona heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
@@ -909,7 +909,7 @@ in last<br />
 <td><span>5 </span></td>
 <td><span>1.1 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/491875afa3298f8daa04797f059de38d8307c8cc/build/heatmaps/nyt_world/usa/usa_04/pinal.svg" alt="Pinal heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/dc9015512110e68e5a8253678d9addff3b2167f7/build/heatmaps/nyt_world/usa/usa_04/pinal.svg" alt="Pinal heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
@@ -923,7 +923,7 @@ in last<br />
 <td><span>2 </span></td>
 <td><span>3.7 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/491875afa3298f8daa04797f059de38d8307c8cc/build/heatmaps/nyt_world/usa/usa_04/gila.svg" alt="Gila heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/dc9015512110e68e5a8253678d9addff3b2167f7/build/heatmaps/nyt_world/usa/usa_04/gila.svg" alt="Gila heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
@@ -937,7 +937,7 @@ in last<br />
 <td><span>7 </span></td>
 <td><span>0.7 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/491875afa3298f8daa04797f059de38d8307c8cc/build/heatmaps/nyt_world/usa/usa_04/pima.svg" alt="Pima heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/dc9015512110e68e5a8253678d9addff3b2167f7/build/heatmaps/nyt_world/usa/usa_04/pima.svg" alt="Pima heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
@@ -951,7 +951,7 @@ in last<br />
 <td><span>2 </span></td>
 <td><span>5.1 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/491875afa3298f8daa04797f059de38d8307c8cc/build/heatmaps/nyt_world/usa/usa_04/graham.svg" alt="Graham heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/dc9015512110e68e5a8253678d9addff3b2167f7/build/heatmaps/nyt_world/usa/usa_04/graham.svg" alt="Graham heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
@@ -965,7 +965,7 @@ in last<br />
 <td><span>4 </span></td>
 <td><span>2.8 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/491875afa3298f8daa04797f059de38d8307c8cc/build/heatmaps/nyt_world/usa/usa_04/coconino.svg" alt="Coconino heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/dc9015512110e68e5a8253678d9addff3b2167f7/build/heatmaps/nyt_world/usa/usa_04/coconino.svg" alt="Coconino heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
@@ -979,7 +979,7 @@ in last<br />
 <td><span>— </span></td>
 <td><span>— </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/491875afa3298f8daa04797f059de38d8307c8cc/build/heatmaps/nyt_world/usa/usa_04/la_paz.svg" alt="La Paz heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/dc9015512110e68e5a8253678d9addff3b2167f7/build/heatmaps/nyt_world/usa/usa_04/la_paz.svg" alt="La Paz heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
@@ -993,7 +993,7 @@ in last<br />
 <td><span>— </span></td>
 <td><span>— </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/491875afa3298f8daa04797f059de38d8307c8cc/build/heatmaps/nyt_world/usa/usa_04/apache.svg" alt="Apache heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/dc9015512110e68e5a8253678d9addff3b2167f7/build/heatmaps/nyt_world/usa/usa_04/apache.svg" alt="Apache heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
@@ -1007,7 +1007,7 @@ in last<br />
 <td><span>6 </span></td>
 <td><span>2.8 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/491875afa3298f8daa04797f059de38d8307c8cc/build/heatmaps/nyt_world/usa/usa_04/mohave.svg" alt="Mohave heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/dc9015512110e68e5a8253678d9addff3b2167f7/build/heatmaps/nyt_world/usa/usa_04/mohave.svg" alt="Mohave heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
@@ -1021,7 +1021,7 @@ in last<br />
 <td><span>6 </span></td>
 <td><span>2.8 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/491875afa3298f8daa04797f059de38d8307c8cc/build/heatmaps/nyt_world/usa/usa_04/yuma.svg" alt="Yuma heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/dc9015512110e68e5a8253678d9addff3b2167f7/build/heatmaps/nyt_world/usa/usa_04/yuma.svg" alt="Yuma heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
@@ -1035,7 +1035,7 @@ in last<br />
 <td><span>4 </span></td>
 <td><span>3.6 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/491875afa3298f8daa04797f059de38d8307c8cc/build/heatmaps/nyt_world/usa/usa_04/navajo.svg" alt="Navajo heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/dc9015512110e68e5a8253678d9addff3b2167f7/build/heatmaps/nyt_world/usa/usa_04/navajo.svg" alt="Navajo heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 </tbody>
@@ -1411,7 +1411,7 @@ GitHub](https://github.com/nytimes/covid-19-data).
 <div class="card svelte-x09994">
 
 ![Thumbnail for Latest Maps and
-Data](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/491875afa3298f8daa04797f059de38d8307c8cc/images/orphan_usa-threeByTwoSmallAt2X.png)
+Data](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/dc9015512110e68e5a8253678d9addff3b2167f7/images/orphan_usa-threeByTwoSmallAt2X.png)
 
 <div class="card-text svelte-x09994">
 
@@ -1429,7 +1429,7 @@ county
 <div class="card svelte-x09994">
 
 ![Thumbnail for Deaths Above
-Normal](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/491875afa3298f8daa04797f059de38d8307c8cc/images/footer-thumbs/deaths-us.jpg)
+Normal](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/dc9015512110e68e5a8253678d9addff3b2167f7/images/footer-thumbs/deaths-us.jpg)
 
 <div class="card-text svelte-x09994">
 
@@ -1447,7 +1447,7 @@ U.S.
 <div class="card svelte-x09994">
 
 ![Thumbnail for Cities and Metro
-Areas](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/491875afa3298f8daa04797f059de38d8307c8cc/images/footer-thumbs/metros.png)
+Areas](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/dc9015512110e68e5a8253678d9addff3b2167f7/images/footer-thumbs/metros.png)
 
 <div class="card-text svelte-x09994">
 
@@ -1465,7 +1465,7 @@ worse
 <div class="card svelte-x09994">
 
 ![Thumbnail for
-Testing](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/491875afa3298f8daa04797f059de38d8307c8cc/images/footer-thumbs/testing.png)
+Testing](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/dc9015512110e68e5a8253678d9addff3b2167f7/images/footer-thumbs/testing.png)
 
 <div class="card-text svelte-x09994">
 
@@ -1483,7 +1483,7 @@ enough?
 <div class="card svelte-x09994">
 
 ![Thumbnail for Nursing
-Homes](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/491875afa3298f8daa04797f059de38d8307c8cc/images/footer-thumbs/nursing-homes.png)
+Homes](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/dc9015512110e68e5a8253678d9addff3b2167f7/images/footer-thumbs/nursing-homes.png)
 
 <div class="card-text svelte-x09994">
 
@@ -1543,7 +1543,7 @@ state
 <div class="card svelte-x09994">
 
 ![Thumbnail for Latest Maps and
-Data](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/491875afa3298f8daa04797f059de38d8307c8cc/images/orphan_world-threeByTwoSmallAt2X.png)
+Data](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/dc9015512110e68e5a8253678d9addff3b2167f7/images/orphan_world-threeByTwoSmallAt2X.png)
 
 <div class="card-text svelte-x09994">
 
@@ -1561,7 +1561,7 @@ country
 <div class="card svelte-x09994">
 
 ![Thumbnail for Deaths Above
-Normal](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/491875afa3298f8daa04797f059de38d8307c8cc/images/footer-thumbs/deaths-world.jpg)
+Normal](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/dc9015512110e68e5a8253678d9addff3b2167f7/images/footer-thumbs/deaths-world.jpg)
 
 <div class="card-text svelte-x09994">
 
@@ -1585,7 +1585,7 @@ world
 <div class="card svelte-x09994">
 
 ![Thumbnail for
-Vaccines](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/491875afa3298f8daa04797f059de38d8307c8cc/images/footer-thumbs/vaccines.png)
+Vaccines](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/dc9015512110e68e5a8253678d9addff3b2167f7/images/footer-thumbs/vaccines.png)
 
 <div class="card-text svelte-x09994">
 
@@ -1603,7 +1603,7 @@ development
 <div class="card svelte-x09994">
 
 ![Thumbnail for
-Treatments](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/491875afa3298f8daa04797f059de38d8307c8cc/images/footer-thumbs/treatments.png)
+Treatments](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/dc9015512110e68e5a8253678d9addff3b2167f7/images/footer-thumbs/treatments.png)
 
 <div class="card-text svelte-x09994">
 

@@ -71,7 +71,7 @@ Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 <div class="css-epjblv">
 
 <span class="css-17xtcya">[U.S.](/section/us)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Illinois
-Coronavirus Map and Case
+Covid Map and Case
 Count</span>
 
 </div>
@@ -123,18 +123,18 @@ Count</span>
 
 <div class="css-l9svim">
 
-### [<span class="css-pa1jbp"><span class="css-1rxm0ex">The Coronavirus</span><span class="css-1rxm0ex"> Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=754e2ce0-f2c8-11ea-a96b-f1b6e8bed79f&variant=undefined)
+### [<span class="css-pa1jbp"><span class="css-1rxm0ex">The Coronavirus</span><span class="css-1rxm0ex"> Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=960258c0-f526-11ea-8346-0d97807681ff&variant=undefined)
 
-  - <span class="css-ousu42"><span class="css-12clwdu">live</span>[Latest
-    Updates](https://www.nytimes3xbfgragh.onion/2020/09/09/world/covid-19-coronavirus.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=754e2ce1-f2c8-11ea-a96b-f1b6e8bed79f&variant=undefined)</span>
-  - <span class="css-ousu42">[Maps and
-    Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=754e2ce2-f2c8-11ea-a96b-f1b6e8bed79f&variant=undefined)</span>
-  - <span class="css-ousu42">[Vaccine
-    Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=754e2ce3-f2c8-11ea-a96b-f1b6e8bed79f&variant=undefined)</span>
-  - <span class="css-ousu42">[Eviction
-    Moratorium](https://www.nytimes3xbfgragh.onion/2020/09/02/your-money/eviction-moratorium-covid.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=754e53f0-f2c8-11ea-a96b-f1b6e8bed79f&variant=undefined)</span>
-  - <span class="css-ousu42">[Surprise Test
-    Fees](https://www.nytimes3xbfgragh.onion/2020/09/09/upshot/coronavirus-surprise-test-fees.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=754e53f1-f2c8-11ea-a96b-f1b6e8bed79f&variant=undefined)</span>
+  - <span class="css-1qkutce"><span class="css-12clwdu">live</span>[Latest
+    Updates](https://www.nytimes3xbfgragh.onion/2020/09/12/world/covid-19-coronavirus.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=960258c1-f526-11ea-8346-0d97807681ff&variant=undefined)</span>
+  - <span class="css-1qkutce">[Maps and
+    Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=96027fd0-f526-11ea-8346-0d97807681ff&variant=undefined)</span>
+  - <span class="css-1qkutce">[Vaccine
+    Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=96027fd1-f526-11ea-8346-0d97807681ff&variant=undefined)</span>
+  - <span class="css-1qkutce">[F.D.A. Regulators’
+    Self-Defense](https://www.nytimes3xbfgragh.onion/2020/09/10/us/politics/fda-coronavirus-vaccine.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=96027fd2-f526-11ea-8346-0d97807681ff&variant=undefined)</span>
+  - <span class="css-1qkutce">[Surprise Test
+    Fees](https://www.nytimes3xbfgragh.onion/2020/09/09/upshot/coronavirus-surprise-test-fees.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=96027fd3-f526-11ea-8346-0d97807681ff&variant=undefined)</span>
 
 </div>
 
@@ -169,12 +169,12 @@ story](#after-top)
 
 <div id="site-content" data-role="main">
 
-# Illinois Coronavirus Map and Case Count
+# Illinois Covid Map and Case Count
 
 <div class="css-1vegfwe interactive-byline-container">
 
 By <span class="css-1baulvz last-byline" itemprop="name">The New York
-Times</span>Updated September 9, 2020, 12:11 P.M.
+Times</span>Updated September 12, 2020, 10:37 A.M.
 E.T.
 
 </div>
@@ -226,7 +226,7 @@ COUNTRIES
 STATES
 
 <span class="svelte-1m5f6tq">  </span>
-[Testing](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-testing.html)
+[Colleges](https://www.nytimes3xbfgragh.onion/interactive/2020/us/covid-college-cases-tracker.html)
 
 </div>
 
@@ -265,7 +265,7 @@ Virginia](https://www.nytimes3xbfgragh.onion/interactive/2020/us/west-virginia-c
 
 <div id="cases-top-presentation" class="g-container">
 
-<div class="g-asset g-svelte mini-cases-by-day" style="max-width: 335px">
+<div class="g-asset g-svelte mini-cases-by-day" style="max-width: 360px">
 
 <div class="g-svelte" data-component="2">
 
@@ -318,43 +318,43 @@ cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 16.145833333333336%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 15.897435897435896%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 31.770833333333336%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 31.282051282051277%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 47.91666666666667%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 47.179487179487175%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 63.54166666666667%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 62.564102564102555%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 79.6875%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 78.46153846153845%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 95.83333333333334%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 94.35897435897435%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Sept.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 97.13541666666667%; top: -3.000000000000014%">
+<div class="pancake-point svelte-11ba04d" style="left: 95.64102564102564%; top: -3.000000000000014%">
 
 <span class="annotation left svelte-cf0pcx mini" style="width: 7.1em">Backlogged
 cases
@@ -362,14 +362,14 @@ released</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 37.239583333333336%; top: 0%">
+<div class="pancake-point svelte-11ba04d" style="left: 36.666666666666664%; top: 0%">
 
 <span class="annotation left svelte-cf0pcx mini" style="width: auto">New
 cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 60.93750000000001%; top: 82.7123432809465%">
+<div class="pancake-point svelte-11ba04d" style="left: 59.99999999999999%; top: 82.7123432809465%">
 
 <span class="annotation above svelte-cf0pcx mini" style="width: auto">7-day
 average</span>
@@ -382,9 +382,6 @@ average</span>
 
 </div>
 
-<span class="anomaly-key g-credit svelte-1iuahvx">Day with data
-reporting anomaly.</span>
-
 </div>
 
 </div>
@@ -393,41 +390,48 @@ reporting anomaly.</span>
 
 <div class="g-svelte" data-component="3">
 
-<div class="counts svelte-9rb9hv">
+<div class="counts svelte-8rsupl">
 
-<div class="count svelte-9rb9hv">
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th>Total reported</th>
+<th>On Sept. 11</th>
+<th>14-day change</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><span class="svelte-8rsupl">Cases</span></td>
+<td><span class="svelte-8rsupl">260,949</span></td>
+<td><span class="svelte-8rsupl">2,376</span></td>
+<td><span class="svelte-8rsupl">–9%</span>
+<div class="chart-container svelte-8rsupl">
 
-<div class="label svelte-9rb9hv">
+</div></td>
+</tr>
+<tr class="even">
+<td><span class="svelte-8rsupl">Deaths</span></td>
+<td><span class="svelte-8rsupl">8,522</span></td>
+<td><span class="svelte-8rsupl">42</span></td>
+<td><span class="svelte-8rsupl">–5%</span>
+<div class="chart-container svelte-8rsupl">
 
-Total cases
+</div></td>
+</tr>
+</tbody>
+</table>
 
-</div>
+<div class="note svelte-8rsupl">
 
-<div class="num svelte-9rb9hv">
-
-255,304
-
-</div>
-
-</div>
-
-<div class="count svelte-9rb9hv">
-
-<div class="label svelte-9rb9hv">
-
-Deaths
-
-</div>
-
-<div class="num svelte-9rb9hv">
-
-8,433
-
-</div>
-
-</div>
-
-<div class="note svelte-9rb9hv">
+Day with data reporting anomaly.
 
 Includes confirmed and probable cases where
 available
@@ -456,20 +460,20 @@ available
 
 [Map](#map)[By county](#county)[New cases](#cases)[Tips](#tips)[Latest
 news
-»](https://www.nytimes3xbfgragh.onion/2020/09/09/world/covid-19-coronavirus.html)
+»](https://www.nytimes3xbfgragh.onion/2020/09/12/world/covid-19-coronavirus.html)
 
 </div>
 
 </div>
 
-At least 14 new coronavirus deaths and 1,580 new cases were reported in
-Illinois on Sept. 8. Over the past week, there have been an average of
-2,302 cases per day, an increase of 15 percent from the average two
-weeks earlier.
+At least 42 new coronavirus deaths and 2,376 new cases were reported in
+Illinois on Sept. 11. Over the past week, there have been an average of
+1,814 cases per day, a decrease of 9 percent from the average two weeks
+earlier.
 
-As of Wednesday afternoon, there have been at least 255,304 cases and
-8,433 deaths in Illinois since the beginning of the pandemic, according
-to a New York Times
+As of Saturday morning, there have been at least 260,949 cases and 8,522
+deaths in Illinois since the beginning of the pandemic, according to a
+New York Times
 database.
 
 <div id="map" class="g-asset g-graphic g-constrain-source g-state-map g-map g-asset-width-bleed" style="">
@@ -882,166 +886,166 @@ in last<br />
 <tbody>
 <tr class="odd">
 <td><span>Illinois </span></td>
-<td><span>255,304 </span></td>
-<td><span>2,015 </span></td>
-<td><span>8,433 </span></td>
+<td><span>260,949 </span></td>
+<td><span>2,059 </span></td>
+<td><span>8,522 </span></td>
 <td><span>67 </span></td>
-<td><span>16,114 </span></td>
-<td><span>127 </span></td>
-<td><span>132 </span></td>
-<td><span>1.0 </span></td>
+<td><span>12,696 </span></td>
+<td><span>100 </span></td>
+<td><span>136 </span></td>
+<td><span>1.1 </span></td>
 <td><div class="chart svelte-ig1tx7">
 <div class="chart-container svelte-ig1tx7">
 <div class="pancake-chart svelte-1gzh5rp">
 <div class="pancake-point svelte-11ba04d" style="left: 0%; top: 100%">
 <span class="first x-label svelte-ig1tx7">March 1</span>
 </div>
-<div class="pancake-point svelte-11ba04d" style="left: 100%; top: 100%">
-<span class="last x-label svelte-ig1tx7">Sept. 8</span>
+<div class="pancake-point svelte-11ba04d" style="left: 99.99999999999999%; top: 100%">
+<span class="last x-label svelte-ig1tx7">Sept. 11</span>
 </div>
 </div>
 </div>
-<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/43fcb791025f22f223a2a28a589bc32d81edd2c0/build/heatmaps/nyt_world/usa/illinois.svg" alt="Illinois heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/dc9015512110e68e5a8253678d9addff3b2167f7/build/heatmaps/nyt_world/usa/illinois.svg" alt="Illinois heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
-<td><span>Champaign </span></td>
-<td><span>3,628 </span></td>
-<td><span>1,730 </span></td>
-<td><span>20 </span></td>
-<td><span>10 </span></td>
-<td><span>1,130 </span></td>
-<td><span>539 </span></td>
-<td><span>— </span></td>
-<td><span>— </span></td>
-<td><div class="chart svelte-ig1tx7">
-<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/43fcb791025f22f223a2a28a589bc32d81edd2c0/build/heatmaps/nyt_world/usa/usa_17/champaign.svg" alt="Champaign heatmap" class="svelte-ig1tx7" />
-</div></td>
-</tr>
-<tr class="odd">
 <td><span>Crawford </span></td>
-<td><span>177 </span></td>
-<td><span>948 </span></td>
+<td><span>216 </span></td>
+<td><span>1,157 </span></td>
 <td><span>1 </span></td>
 <td><span>5 </span></td>
-<td><span>97 </span></td>
-<td><span>520 </span></td>
-<td><span>1 </span></td>
-<td><span>5.4 </span></td>
+<td><span>105 </span></td>
+<td><span>562 </span></td>
+<td><span>— </span></td>
+<td><span>— </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/43fcb791025f22f223a2a28a589bc32d81edd2c0/build/heatmaps/nyt_world/usa/usa_17/crawford.svg" alt="Crawford heatmap" class="svelte-ig1tx7" />
-</div></td>
-</tr>
-<tr class="even">
-<td><span>McLean </span></td>
-<td><span>2,662 </span></td>
-<td><span>1,552 </span></td>
-<td><span>17 </span></td>
-<td><span>10 </span></td>
-<td><span>793 </span></td>
-<td><span>462 </span></td>
-<td><span>1 </span></td>
-<td><span>0.6 </span></td>
-<td><div class="chart svelte-ig1tx7">
-<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/43fcb791025f22f223a2a28a589bc32d81edd2c0/build/heatmaps/nyt_world/usa/usa_17/mclean.svg" alt="McLean heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/dc9015512110e68e5a8253678d9addff3b2167f7/build/heatmaps/nyt_world/usa/usa_17/crawford.svg" alt="Crawford heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
-<td><span>Lawrence </span></td>
-<td><span>205 </span></td>
-<td><span>1,308 </span></td>
-<td><span>— </span></td>
-<td><span>— </span></td>
-<td><span>69 </span></td>
-<td><span>440 </span></td>
-<td><span>— </span></td>
-<td><span>— </span></td>
-<td><div class="chart svelte-ig1tx7">
-<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/43fcb791025f22f223a2a28a589bc32d81edd2c0/build/heatmaps/nyt_world/usa/usa_17/lawrence.svg" alt="Lawrence heatmap" class="svelte-ig1tx7" />
-</div></td>
-</tr>
-<tr class="even">
 <td><span>McDonough </span></td>
-<td><span>336 </span></td>
-<td><span>1,132 </span></td>
+<td><span>378 </span></td>
+<td><span>1,273 </span></td>
 <td><span>15 </span></td>
 <td><span>51 </span></td>
-<td><span>121 </span></td>
-<td><span>408 </span></td>
+<td><span>100 </span></td>
+<td><span>337 </span></td>
 <td><span>— </span></td>
 <td><span>— </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/43fcb791025f22f223a2a28a589bc32d81edd2c0/build/heatmaps/nyt_world/usa/usa_17/mcdonough.svg" alt="McDonough heatmap" class="svelte-ig1tx7" />
-</div></td>
-</tr>
-<tr class="odd">
-<td><span>Jasper </span></td>
-<td><span>166 </span></td>
-<td><span>1,727 </span></td>
-<td><span>7 </span></td>
-<td><span>73 </span></td>
-<td><span>34 </span></td>
-<td><span>354 </span></td>
-<td><span>— </span></td>
-<td><span>— </span></td>
-<td><div class="chart svelte-ig1tx7">
-<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/43fcb791025f22f223a2a28a589bc32d81edd2c0/build/heatmaps/nyt_world/usa/usa_17/jasper.svg" alt="Jasper heatmap" class="svelte-ig1tx7" />
-</div></td>
-</tr>
-<tr class="even">
-<td><span>Greene </span></td>
-<td><span>160 </span></td>
-<td><span>1,234 </span></td>
-<td><span>1 </span></td>
-<td><span>8 </span></td>
-<td><span>45 </span></td>
-<td><span>347 </span></td>
-<td><span>— </span></td>
-<td><span>— </span></td>
-<td><div class="chart svelte-ig1tx7">
-<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/43fcb791025f22f223a2a28a589bc32d81edd2c0/build/heatmaps/nyt_world/usa/usa_17/greene.svg" alt="Greene heatmap" class="svelte-ig1tx7" />
-</div></td>
-</tr>
-<tr class="odd">
-<td><span>Clinton </span></td>
-<td><span>869 </span></td>
-<td><span>2,314 </span></td>
-<td><span>19 </span></td>
-<td><span>51 </span></td>
-<td><span>129 </span></td>
-<td><span>343 </span></td>
-<td><span>2 </span></td>
-<td><span>5.3 </span></td>
-<td><div class="chart svelte-ig1tx7">
-<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/43fcb791025f22f223a2a28a589bc32d81edd2c0/build/heatmaps/nyt_world/usa/usa_17/clinton.svg" alt="Clinton heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/dc9015512110e68e5a8253678d9addff3b2167f7/build/heatmaps/nyt_world/usa/usa_17/mcdonough.svg" alt="McDonough heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
 <td><span>Effingham </span></td>
-<td><span>664 </span></td>
-<td><span>1,952 </span></td>
+<td><span>726 </span></td>
+<td><span>2,135 </span></td>
 <td><span>1 </span></td>
 <td><span>3 </span></td>
-<td><span>115 </span></td>
-<td><span>338 </span></td>
+<td><span>110 </span></td>
+<td><span>323 </span></td>
 <td><span>— </span></td>
 <td><span>— </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/43fcb791025f22f223a2a28a589bc32d81edd2c0/build/heatmaps/nyt_world/usa/usa_17/effingham.svg" alt="Effingham heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/dc9015512110e68e5a8253678d9addff3b2167f7/build/heatmaps/nyt_world/usa/usa_17/effingham.svg" alt="Effingham heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
-<td><span>Stark </span></td>
-<td><span>41 </span></td>
-<td><span>768 </span></td>
-<td><span>1 </span></td>
-<td><span>19 </span></td>
-<td><span>18 </span></td>
-<td><span>337 </span></td>
-<td><span>1 </span></td>
-<td><span>18.7 </span></td>
+<td><span>Champaign </span></td>
+<td><span>3,876 </span></td>
+<td><span>1,848 </span></td>
+<td><span>20 </span></td>
+<td><span>10 </span></td>
+<td><span>651 </span></td>
+<td><span>310 </span></td>
+<td><span>— </span></td>
+<td><span>— </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/43fcb791025f22f223a2a28a589bc32d81edd2c0/build/heatmaps/nyt_world/usa/usa_17/stark.svg" alt="Stark heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/dc9015512110e68e5a8253678d9addff3b2167f7/build/heatmaps/nyt_world/usa/usa_17/champaign.svg" alt="Champaign heatmap" class="svelte-ig1tx7" />
+</div></td>
+</tr>
+<tr class="even">
+<td><span>Clinton </span></td>
+<td><span>922 </span></td>
+<td><span>2,455 </span></td>
+<td><span>19 </span></td>
+<td><span>51 </span></td>
+<td><span>113 </span></td>
+<td><span>301 </span></td>
+<td><span>2 </span></td>
+<td><span>5.3 </span></td>
+<td><div class="chart svelte-ig1tx7">
+<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/dc9015512110e68e5a8253678d9addff3b2167f7/build/heatmaps/nyt_world/usa/usa_17/clinton.svg" alt="Clinton heatmap" class="svelte-ig1tx7" />
+</div></td>
+</tr>
+<tr class="odd">
+<td><span>Wayne </span></td>
+<td><span>171 </span></td>
+<td><span>1,055 </span></td>
+<td><span>3 </span></td>
+<td><span>19 </span></td>
+<td><span>46 </span></td>
+<td><span>284 </span></td>
+<td><span>1 </span></td>
+<td><span>6.2 </span></td>
+<td><div class="chart svelte-ig1tx7">
+<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/dc9015512110e68e5a8253678d9addff3b2167f7/build/heatmaps/nyt_world/usa/usa_17/wayne.svg" alt="Wayne heatmap" class="svelte-ig1tx7" />
+</div></td>
+</tr>
+<tr class="even">
+<td><span>Logan </span></td>
+<td><span>378 </span></td>
+<td><span>1,321 </span></td>
+<td><span>1 </span></td>
+<td><span>3 </span></td>
+<td><span>72 </span></td>
+<td><span>252 </span></td>
+<td><span>— </span></td>
+<td><span>— </span></td>
+<td><div class="chart svelte-ig1tx7">
+<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/dc9015512110e68e5a8253678d9addff3b2167f7/build/heatmaps/nyt_world/usa/usa_17/logan.svg" alt="Logan heatmap" class="svelte-ig1tx7" />
+</div></td>
+</tr>
+<tr class="odd">
+<td><span>Marion </span></td>
+<td><span>403 </span></td>
+<td><span>1,083 </span></td>
+<td><span>— </span></td>
+<td><span>— </span></td>
+<td><span>92 </span></td>
+<td><span>247 </span></td>
+<td><span>— </span></td>
+<td><span>— </span></td>
+<td><div class="chart svelte-ig1tx7">
+<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/dc9015512110e68e5a8253678d9addff3b2167f7/build/heatmaps/nyt_world/usa/usa_17/marion.svg" alt="Marion heatmap" class="svelte-ig1tx7" />
+</div></td>
+</tr>
+<tr class="even">
+<td><span>Greene </span></td>
+<td><span>182 </span></td>
+<td><span>1,403 </span></td>
+<td><span>2 </span></td>
+<td><span>15 </span></td>
+<td><span>30 </span></td>
+<td><span>231 </span></td>
+<td><span>1 </span></td>
+<td><span>7.7 </span></td>
+<td><div class="chart svelte-ig1tx7">
+<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/dc9015512110e68e5a8253678d9addff3b2167f7/build/heatmaps/nyt_world/usa/usa_17/greene.svg" alt="Greene heatmap" class="svelte-ig1tx7" />
+</div></td>
+</tr>
+<tr class="odd">
+<td><span>Lawrence </span></td>
+<td><span>210 </span></td>
+<td><span>1,339 </span></td>
+<td><span>— </span></td>
+<td><span>— </span></td>
+<td><span>35 </span></td>
+<td><span>223 </span></td>
+<td><span>— </span></td>
+<td><span>— </span></td>
+<td><div class="chart svelte-ig1tx7">
+<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/dc9015512110e68e5a8253678d9addff3b2167f7/build/heatmaps/nyt_world/usa/usa_17/lawrence.svg" alt="Lawrence heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 </tbody>
@@ -1148,43 +1152,43 @@ cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 16.145833333333336%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 15.897435897435896%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 31.770833333333336%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 31.282051282051277%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 47.91666666666667%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 47.179487179487175%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 63.54166666666667%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 62.564102564102555%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 79.6875%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 78.46153846153845%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 95.83333333333334%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 94.35897435897435%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Sept.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 97.13541666666667%; top: -3.000000000000014%">
+<div class="pancake-point svelte-11ba04d" style="left: 95.64102564102564%; top: -3.000000000000014%">
 
 <span class="annotation left svelte-cf0pcx" style="width: 7.1em">Backlogged
 cases
@@ -1192,14 +1196,14 @@ released</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 37.239583333333336%; top: 0%">
+<div class="pancake-point svelte-11ba04d" style="left: 36.666666666666664%; top: 0%">
 
 <span class="annotation left svelte-cf0pcx" style="width: auto">New
 cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 60.93750000000001%; top: 82.7123432809465%">
+<div class="pancake-point svelte-11ba04d" style="left: 59.99999999999999%; top: 82.7123432809465%">
 
 <span class="annotation above svelte-cf0pcx" style="width: auto">7-day
 average</span>
@@ -1208,7 +1212,7 @@ average</span>
 
 </div>
 
-<span class="break svelte-1iuahvx" style="left: 97.39583333333334%; top: 0%; width: 0.52%"></span>
+<span class="break svelte-1iuahvx" style="left: 95.89743589743588%; top: 0%; width: 0.51%"></span>
 
 </div>
 
@@ -1295,43 +1299,43 @@ deaths</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 16.145833333333336%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 15.897435897435896%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 31.770833333333336%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 31.282051282051277%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 47.91666666666667%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 47.179487179487175%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 63.54166666666667%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 62.564102564102555%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 79.6875%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 78.46153846153845%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 95.83333333333334%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 94.35897435897435%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Sept.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 51.302083333333336%; top: -2.525252525252526%">
+<div class="pancake-point svelte-11ba04d" style="left: 50.51282051282051%; top: -2.525252525252526%">
 
 <span class="annotation left svelte-cf0pcx" style="width: 7.1em">Probable
 data
@@ -1339,14 +1343,14 @@ released</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 95.57291666666667%; top: 79.29292929292929%">
+<div class="pancake-point svelte-11ba04d" style="left: 99.23076923076923%; top: 78.78787878787878%">
 
 <span class="annotation left svelte-cf0pcx" style="width: auto">New
 deaths</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 20.3125%; top: 73.37662337662337%">
+<div class="pancake-point svelte-11ba04d" style="left: 20%; top: 73.37662337662337%">
 
 <span class="annotation above svelte-cf0pcx" style="width: auto">7-day
 average</span>
@@ -1355,7 +1359,7 @@ average</span>
 
 </div>
 
-<span class="break svelte-1iuahvx" style="left: 51.56250000000001%; top: 0%; width: 0.52%"></span>
+<span class="break svelte-1iuahvx" style="left: 50.76923076923077%; top: 0%; width: 0.51%"></span>
 
 </div>
 
@@ -1453,20 +1457,20 @@ GitHub](https://github.com/nytimes/covid-19-data).
 
 <div class="g-svelte" data-component="11">
 
-<div class="nav-wrap svelte-15xraff">
+<div class="nav-wrap svelte-x09994">
 
 ### United States
 
-<div class="top svelte-15xraff">
+<div class="top svelte-x09994">
 
 [](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html)
 
-<div class="card svelte-15xraff">
+<div class="card svelte-x09994">
 
 ![Thumbnail for Latest Maps and
-Data](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/43fcb791025f22f223a2a28a589bc32d81edd2c0/images/orphan_usa-threeByTwoSmallAt2X.png)
+Data](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/dc9015512110e68e5a8253678d9addff3b2167f7/images/orphan_usa-threeByTwoSmallAt2X.png)
 
-<div class="card-text svelte-15xraff">
+<div class="card-text svelte-x09994">
 
 #### Latest Maps and Data
 
@@ -1479,12 +1483,12 @@ county
 
 [](https://www.nytimes3xbfgragh.onion/interactive/2020/05/05/us/coronavirus-death-toll-us.html)
 
-<div class="card svelte-15xraff">
+<div class="card svelte-x09994">
 
 ![Thumbnail for Deaths Above
-Normal](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/43fcb791025f22f223a2a28a589bc32d81edd2c0/images/footer-thumbs/deaths-us.jpg)
+Normal](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/dc9015512110e68e5a8253678d9addff3b2167f7/images/footer-thumbs/deaths-us.jpg)
 
-<div class="card-text svelte-15xraff">
+<div class="card-text svelte-x09994">
 
 #### Deaths Above Normal
 
@@ -1497,12 +1501,12 @@ U.S.
 
 [](https://www.nytimes3xbfgragh.onion/interactive/2020/04/23/upshot/five-ways-to-monitor-coronavirus-outbreak-us.html)
 
-<div class="card svelte-15xraff">
+<div class="card svelte-x09994">
 
 ![Thumbnail for Cities and Metro
-Areas](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/43fcb791025f22f223a2a28a589bc32d81edd2c0/images/footer-thumbs/metros.png)
+Areas](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/dc9015512110e68e5a8253678d9addff3b2167f7/images/footer-thumbs/metros.png)
 
-<div class="card-text svelte-15xraff">
+<div class="card-text svelte-x09994">
 
 #### Cities and Metro Areas
 
@@ -1515,12 +1519,12 @@ worse
 
 [](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-testing.html)
 
-<div class="card svelte-15xraff">
+<div class="card svelte-x09994">
 
 ![Thumbnail for
-Testing](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/43fcb791025f22f223a2a28a589bc32d81edd2c0/images/footer-thumbs/testing.png)
+Testing](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/dc9015512110e68e5a8253678d9addff3b2167f7/images/footer-thumbs/testing.png)
 
-<div class="card-text svelte-15xraff">
+<div class="card-text svelte-x09994">
 
 #### Testing
 
@@ -1533,12 +1537,12 @@ enough?
 
 [](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-nursing-homes.html)
 
-<div class="card svelte-15xraff">
+<div class="card svelte-x09994">
 
 ![Thumbnail for Nursing
-Homes](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/43fcb791025f22f223a2a28a589bc32d81edd2c0/images/footer-thumbs/nursing-homes.png)
+Homes](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/dc9015512110e68e5a8253678d9addff3b2167f7/images/footer-thumbs/nursing-homes.png)
 
-<div class="card-text svelte-15xraff">
+<div class="card-text svelte-x09994">
 
 #### Nursing Homes
 
@@ -1551,12 +1555,12 @@ facilities
 
 [](https://www.nytimes3xbfgragh.onion/interactive/2020/us/covid-college-cases-tracker.html)
 
-<div class="card svelte-15xraff">
+<div class="card svelte-x09994">
 
 ![Thumbnail for Colleges and
-Universities](https://static01.graylady3jvrrxbe.onion/images/2020/09/04/us/covid-college-cases-tracker-promo-1599194588528/covid-college-cases-tracker-promo-1599194588528-threeByTwoSmallAt2X.png)
+Universities](https://static01.graylady3jvrrxbe.onion/images/2020/09/11/us/covid-college-cases-tracker-promo-1599836255642/covid-college-cases-tracker-promo-1599836255642-threeByTwoSmallAt2X.png)
 
-<div class="card-text svelte-15xraff">
+<div class="card-text svelte-x09994">
 
 #### Colleges and Universities
 
@@ -1569,17 +1573,17 @@ schools
 
 [](https://www.nytimes3xbfgragh.onion/interactive/2020/us/states-reopen-map-coronavirus.html)
 
-<div class="card svelte-15xraff">
+<div class="card svelte-x09994">
 
 ![Thumbnail for
 Reopening](https://static01.graylady3jvrrxbe.onion/images/2020/04/24/us/states-reopen-map-coronavirus-promo-1587778728210/states-reopen-map-coronavirus-promo-1587778728210-threeByTwoSmallAt2X-v96.png)
 
-<div class="card-text svelte-15xraff">
+<div class="card-text svelte-x09994">
 
 #### Reopening
 
-Which states are open and
-closed
+What is open and closed in each
+state
 
 </div>
 
@@ -1589,16 +1593,16 @@ closed
 
 ### World
 
-<div class="top svelte-15xraff">
+<div class="top svelte-x09994">
 
 [](https://www.nytimes3xbfgragh.onion/interactive/2020/world/coronavirus-maps.html)
 
-<div class="card svelte-15xraff">
+<div class="card svelte-x09994">
 
 ![Thumbnail for Latest Maps and
-Data](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/43fcb791025f22f223a2a28a589bc32d81edd2c0/images/orphan_world-threeByTwoSmallAt2X.png)
+Data](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/dc9015512110e68e5a8253678d9addff3b2167f7/images/orphan_world-threeByTwoSmallAt2X.png)
 
-<div class="card-text svelte-15xraff">
+<div class="card-text svelte-x09994">
 
 #### Latest Maps and Data
 
@@ -1611,12 +1615,12 @@ country
 
 [](https://www.nytimes3xbfgragh.onion/interactive/2020/04/21/world/coronavirus-missing-deaths.html)
 
-<div class="card svelte-15xraff">
+<div class="card svelte-x09994">
 
 ![Thumbnail for Deaths Above
-Normal](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/43fcb791025f22f223a2a28a589bc32d81edd2c0/images/footer-thumbs/deaths-world.jpg)
+Normal](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/dc9015512110e68e5a8253678d9addff3b2167f7/images/footer-thumbs/deaths-world.jpg)
 
-<div class="card-text svelte-15xraff">
+<div class="card-text svelte-x09994">
 
 #### Deaths Above Normal
 
@@ -1631,16 +1635,16 @@ world
 
 ### Health
 
-<div class="top svelte-15xraff">
+<div class="top svelte-x09994">
 
 [](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html)
 
-<div class="card svelte-15xraff">
+<div class="card svelte-x09994">
 
 ![Thumbnail for
-Vaccines](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/43fcb791025f22f223a2a28a589bc32d81edd2c0/images/footer-thumbs/vaccines.png)
+Vaccines](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/dc9015512110e68e5a8253678d9addff3b2167f7/images/footer-thumbs/vaccines.png)
 
-<div class="card-text svelte-15xraff">
+<div class="card-text svelte-x09994">
 
 #### Vaccines
 
@@ -1653,12 +1657,12 @@ development
 
 [](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-drugs-treatments.html)
 
-<div class="card svelte-15xraff">
+<div class="card svelte-x09994">
 
 ![Thumbnail for
-Treatments](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/43fcb791025f22f223a2a28a589bc32d81edd2c0/images/footer-thumbs/treatments.png)
+Treatments](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/dc9015512110e68e5a8253678d9addff3b2167f7/images/footer-thumbs/treatments.png)
 
-<div class="card-text svelte-15xraff">
+<div class="card-text svelte-x09994">
 
 #### Treatments
 

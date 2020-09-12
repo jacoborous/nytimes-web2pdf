@@ -156,8 +156,8 @@ Universes</span>
     
     </div>
     
-    [Election
-    Updates](https://www.nytimes3xbfgragh.onion/live/2020/09/11/us/trump-vs-biden?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    [New York Times
+    Poll](https://www.nytimes3xbfgragh.onion/2020/09/12/us/politics/biden-trump-poll-wisconsin-minnesota.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
     
     </div>
 
@@ -182,8 +182,8 @@ Universes</span>
     
     </div>
     
-    [Key
-    Dates](https://www.nytimes3xbfgragh.onion/interactive/2019/us/elections/2020-presidential-election-calendar.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    [Voting
+    Deadlines](https://www.nytimes3xbfgragh.onion/interactive/2019/us/elections/2020-presidential-election-calendar.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
     
     </div>
 
@@ -570,7 +570,7 @@ complicity?
 
 <div class="css-zkk2wn">
 
-Updated  Sept. 11, 2020
+Updated  Sept. 12, 2020
 
 </div>
 
@@ -588,12 +588,12 @@ Updated  Sept. 11, 2020
         
         </div>
         
-        Joe Biden and President Trump put [hostilities on hold today to
-        travel to ground zero and then to Shanksville, Pa., where they
-        separately honored 9/11
-        victims](https://www.nytimes3xbfgragh.onion/2020/09/11/us/politics/shanksville-trump-biden.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide).
+        President Trump has failed to erase Joseph R. Biden Jr.’s lead
+        across a set of key swing states, [according to a
+        poll](https://www.nytimes3xbfgragh.onion/2020/09/12/us/politics/biden-trump-poll-wisconsin-minnesota.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide) conducted
+        by The Times and Siena College.
 
-  - ## How to Win 270
+  - ## Paths to 270
     
       - 
         
@@ -606,7 +606,7 @@ Updated  Sept. 11, 2020
         states](https://www.nytimes3xbfgragh.onion/interactive/2020/us/elections/election-states-biden-trump.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide) to
         see potential outcomes.
 
-  - ## Voting by Mail
+  - ## Voting Deadlines
     
       - 
         
@@ -614,9 +614,13 @@ Updated  Sept. 11, 2020
         
         </div>
         
-        Will you have enough time to vote by mail in your state? Yes,
-        but it’s risky to procrastinate. [Check your state’s
-        deadline.](https://www.nytimes3xbfgragh.onion/interactive/2020/08/31/us/politics/vote-by-mail-deadlines.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide)
+        Early voting for the presidential election starts in
+        September in some states. Take a look at [key
+        dates](https://www.nytimes3xbfgragh.onion/interactive/2019/us/elections/2020-presidential-election-calendar.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide)[where
+        you
+        liv](https://www.nytimes3xbfgragh.onion/interactive/2019/us/elections/2020-presidential-election-calendar.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide)[e](https://www.nytimes3xbfgragh.onion/interactive/2019/us/elections/2020-presidential-election-calendar.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide).
+        If you’re voting by mail, [it’s risky to
+        procrastinate](https://www.nytimes3xbfgragh.onion/interactive/2020/08/31/us/politics/vote-by-mail-deadlines.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide).
     
       - 
         

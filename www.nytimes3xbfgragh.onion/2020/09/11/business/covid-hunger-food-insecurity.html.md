@@ -74,18 +74,18 @@ Hunger</span>
 
 <div class="css-l9svim">
 
-### [<span class="css-pa1jbp"><span class="css-1rxm0ex">The Coronavirus</span><span class="css-1rxm0ex"> Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?name=styln-coronavirus-markets&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=75e51e10-f52b-11ea-9a16-5d2ad197bf40&variant=undefined)
+### [<span class="css-pa1jbp"><span class="css-1rxm0ex">The Coronavirus</span><span class="css-1rxm0ex"> Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?name=styln-coronavirus-markets&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=50c431f0-f52d-11ea-a21f-29f6111ec990&variant=undefined)
 
   - <span class="css-1qkutce"><span class="css-12clwdu">live</span>[Latest
-    Updates](https://www.nytimes3xbfgragh.onion/2020/09/12/world/covid-19-coronavirus.html?name=styln-coronavirus-markets&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=75e51e11-f52b-11ea-9a16-5d2ad197bf40&variant=undefined)</span>
+    Updates](https://www.nytimes3xbfgragh.onion/2020/09/12/world/covid-19-coronavirus.html?name=styln-coronavirus-markets&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=50c431f1-f52d-11ea-a21f-29f6111ec990&variant=undefined)</span>
   - <span class="css-1qkutce">[Maps and
-    Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?name=styln-coronavirus-markets&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=75e54520-f52b-11ea-9a16-5d2ad197bf40&variant=undefined)</span>
+    Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?name=styln-coronavirus-markets&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=50c431f2-f52d-11ea-a21f-29f6111ec990&variant=undefined)</span>
   - <span class="css-1qkutce">[Vaccine
-    Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?name=styln-coronavirus-markets&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=75e54521-f52b-11ea-9a16-5d2ad197bf40&variant=undefined)</span>
+    Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?name=styln-coronavirus-markets&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=50c431f3-f52d-11ea-a21f-29f6111ec990&variant=undefined)</span>
   - <span class="css-1qkutce">[F.D.A. Regulators’
-    Self-Defense](https://www.nytimes3xbfgragh.onion/2020/09/10/us/politics/fda-coronavirus-vaccine.html?name=styln-coronavirus-markets&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=75e54522-f52b-11ea-9a16-5d2ad197bf40&variant=undefined)</span>
+    Self-Defense](https://www.nytimes3xbfgragh.onion/2020/09/10/us/politics/fda-coronavirus-vaccine.html?name=styln-coronavirus-markets&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=50c431f4-f52d-11ea-a21f-29f6111ec990&variant=undefined)</span>
   - <span class="css-1qkutce">[Surprise Test
-    Fees](https://www.nytimes3xbfgragh.onion/2020/09/09/upshot/coronavirus-surprise-test-fees.html?name=styln-coronavirus-markets&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=75e54523-f52b-11ea-9a16-5d2ad197bf40&variant=undefined)</span>
+    Fees](https://www.nytimes3xbfgragh.onion/2020/09/09/upshot/coronavirus-surprise-test-fees.html?name=styln-coronavirus-markets&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=50c431f5-f52d-11ea-a21f-29f6111ec990&variant=undefined)</span>
 
 </div>
 
@@ -576,7 +576,7 @@ August.](https://www.nytimes3xbfgragh.onion/live/2020/09/11/business/stock-marke
 
 <div class="briefing-block-update-time">
 
-[25h
+[26h
 ago](https://www.nytimes3xbfgragh.onion/live/2020/09/11/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#warner-bros-pushes-the-release-of-wonder-woman-1984-to-christmas)
 
 </div>

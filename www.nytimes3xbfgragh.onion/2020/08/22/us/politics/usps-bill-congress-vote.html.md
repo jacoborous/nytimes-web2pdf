@@ -149,27 +149,14 @@ Mail</span>
 
   - 
     
-    <div id="live_container" class="nytslm_li_loud">
-    
-    <div id="live" class="nytslm_li_live_loud">
-    
-    </div>
-    
-    [New Hampshire
-    Results](https://www.nytimes3xbfgragh.onion/interactive/2020/09/08/us/elections/results-new-hampshire-primary-elections.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-    
-    </div>
-
-  - 
-    
     <div id="default_container" class="nytslm_li_loud">
     
     <div id="default" class="nytslm_li_default_loud">
     
     </div>
     
-    [Election
-    Updates](https://www.nytimes3xbfgragh.onion/live/2020/09/08/us/trump-vs-biden?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    [New York Times
+    Poll](https://www.nytimes3xbfgragh.onion/2020/09/12/us/politics/biden-trump-poll-wisconsin-minnesota.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
     
     </div>
 
@@ -194,8 +181,8 @@ Mail</span>
     
     </div>
     
-    [Voting by
-    Mail](https://www.nytimes3xbfgragh.onion/interactive/2020/08/31/us/politics/vote-by-mail-deadlines.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    [Voting
+    Deadlines](https://www.nytimes3xbfgragh.onion/interactive/2019/us/elections/2020-presidential-election-calendar.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
     
     </div>
 
@@ -207,8 +194,8 @@ Mail</span>
     
     </div>
     
-    [Key
-    Dates](https://www.nytimes3xbfgragh.onion/interactive/2019/us/elections/2020-presidential-election-calendar.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    [Voting by
+    Mail](https://www.nytimes3xbfgragh.onion/interactive/2020/08/31/us/politics/vote-by-mail-deadlines.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
     
     </div>
 
@@ -731,7 +718,7 @@ not.
 
 <div class="css-zkk2wn">
 
-Updated  Sept. 8, 2020
+Updated  Sept. 12, 2020
 
 </div>
 
@@ -749,12 +736,12 @@ Updated  Sept. 8, 2020
         
         </div>
         
-        President Trump and his party are using a playbook that aims to
-        alarm people about crime in their backyards. It didn’t work in
-        2018, but [both parties think it could resonate more this
-        year](https://www.nytimes3xbfgragh.onion/2020/09/08/us/politics/trump-republicans-fear-strategy.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide).
+        President Trump has failed to erase Joseph R. Biden Jr.’s lead
+        across a set of key swing states, [according to a
+        poll](https://www.nytimes3xbfgragh.onion/2020/09/12/us/politics/biden-trump-poll-wisconsin-minnesota.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide) conducted
+        by The Times and Siena College.
 
-  - ## How to Win 270
+  - ## Paths to 270
     
       - 
         
@@ -767,7 +754,7 @@ Updated  Sept. 8, 2020
         states](https://www.nytimes3xbfgragh.onion/interactive/2020/us/elections/election-states-biden-trump.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide) to
         see potential outcomes.
 
-  - ## Voting by Mail
+  - ## Voting Deadlines
     
       - 
         
@@ -775,9 +762,13 @@ Updated  Sept. 8, 2020
         
         </div>
         
-        Will you have enough time to vote by mail in your state? Yes,
-        but it’s risky to procrastinate. [Check your state’s
-        deadline.](https://www.nytimes3xbfgragh.onion/interactive/2020/08/31/us/politics/vote-by-mail-deadlines.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide)
+        Early voting for the presidential election starts in
+        September in some states. Take a look at [key
+        dates](https://www.nytimes3xbfgragh.onion/interactive/2019/us/elections/2020-presidential-election-calendar.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide)[where
+        you
+        liv](https://www.nytimes3xbfgragh.onion/interactive/2019/us/elections/2020-presidential-election-calendar.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide)[e](https://www.nytimes3xbfgragh.onion/interactive/2019/us/elections/2020-presidential-election-calendar.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide).
+        If you’re voting by mail, [it’s risky to
+        procrastinate](https://www.nytimes3xbfgragh.onion/interactive/2020/08/31/us/politics/vote-by-mail-deadlines.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide).
     
       - 
         

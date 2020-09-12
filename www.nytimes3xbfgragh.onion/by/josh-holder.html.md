@@ -191,7 +191,7 @@ story](#after-mid1)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/27/us/biden-trump-states-to-win-election-promo-1598548262763/biden-trump-states-to-win-election-promo-1598548262763-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/09/10/us/election-states-biden-trump-promo-1599792487661/election-states-biden-trump-promo-1599792487661-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     

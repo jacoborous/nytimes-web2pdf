@@ -135,18 +135,18 @@ Need</span>
 
 <div class="css-l9svim">
 
-### [<span class="css-pa1jbp"><span class="css-1rxm0ex">Wildfires</span><span class="css-1rxm0ex"> in the West</span></span>](https://www.nytimes3xbfgragh.onion/spotlight/california-wildfires?name=styln-california-wildfires&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=9e615840-f52b-11ea-8531-a121d852b25e&variant=undefined)
+### [<span class="css-pa1jbp"><span class="css-1rxm0ex">Wildfires</span><span class="css-1rxm0ex"> in the West</span></span>](https://www.nytimes3xbfgragh.onion/spotlight/california-wildfires?name=styln-california-wildfires&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=ae3633f0-f52e-11ea-90d3-2f0ff35b997f&variant=undefined)
 
   - <span class="css-1qkutce"><span class="css-12clwdu">live</span>[Fires
-    Updates](https://www.nytimes3xbfgragh.onion/2020/09/12/us/wildfires-live-updates.html?name=styln-california-wildfires&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=9e617f50-f52b-11ea-8531-a121d852b25e&variant=undefined)</span>
+    Updates](https://www.nytimes3xbfgragh.onion/2020/09/12/us/wildfires-live-updates.html?name=styln-california-wildfires&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=ae365b00-f52e-11ea-90d3-2f0ff35b997f&variant=undefined)</span>
   - <span class="css-1qkutce">[Maps of the
-    Fires](https://www.nytimes3xbfgragh.onion/interactive/2020/us/fires-map-tracker.html?name=styln-california-wildfires&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=9e617f51-f52b-11ea-8531-a121d852b25e&variant=undefined)</span>
-  - <span class="css-1qkutce">[Photos](https://www.nytimes3xbfgragh.onion/article/wildfires-photos-california-oregon-washington-state.html?name=styln-california-wildfires&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=9e617f52-f52b-11ea-8531-a121d852b25e&variant=undefined)</span>
+    Fires](https://www.nytimes3xbfgragh.onion/interactive/2020/us/fires-map-tracker.html?name=styln-california-wildfires&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=ae365b01-f52e-11ea-90d3-2f0ff35b997f&variant=undefined)</span>
+  - <span class="css-1qkutce">[Photos](https://www.nytimes3xbfgragh.onion/article/wildfires-photos-california-oregon-washington-state.html?name=styln-california-wildfires&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=ae365b02-f52e-11ea-90d3-2f0ff35b997f&variant=undefined)</span>
   - <span class="css-1qkutce">[A Climate
-    Reckoning](https://www.nytimes3xbfgragh.onion/2020/09/10/us/climate-change-california-wildfires.html?name=styln-california-wildfires&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=9e617f53-f52b-11ea-8531-a121d852b25e&variant=undefined)</span>
+    Reckoning](https://www.nytimes3xbfgragh.onion/2020/09/10/us/climate-change-california-wildfires.html?name=styln-california-wildfires&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=ae365b03-f52e-11ea-90d3-2f0ff35b997f&variant=undefined)</span>
   - <span class="css-1qkutce">[Answers to Your
-    Questions](https://www.nytimes3xbfgragh.onion/article/wildfires-california-oregon-washington.html?name=styln-california-wildfires&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=9e617f54-f52b-11ea-8531-a121d852b25e&variant=undefined)</span>
-  - <span class="css-1qkutce">[Newsletter](https://www.nytimes3xbfgragh.onion/2020/09/09/us/california-wildfires.html?name=styln-california-wildfires&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=9e617f55-f52b-11ea-8531-a121d852b25e&variant=undefined)</span>
+    Questions](https://www.nytimes3xbfgragh.onion/article/wildfires-california-oregon-washington.html?name=styln-california-wildfires&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=ae365b04-f52e-11ea-90d3-2f0ff35b997f&variant=undefined)</span>
+  - <span class="css-1qkutce">[Newsletter](https://www.nytimes3xbfgragh.onion/2020/09/09/us/california-wildfires.html?name=styln-california-wildfires&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=ae365b05-f52e-11ea-90d3-2f0ff35b997f&variant=undefined)</span>
 
 </div>
 

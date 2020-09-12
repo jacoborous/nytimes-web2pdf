@@ -135,18 +135,18 @@ Normal</span>
 
 <div class="css-l9svim">
 
-### [<span class="css-pa1jbp"><span class="css-1rxm0ex">The Coronavirus</span><span class="css-1rxm0ex"> Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=30ab99e0-f52c-11ea-82ba-61bb0b8b9915&variant=undefined)
+### [<span class="css-pa1jbp"><span class="css-1rxm0ex">The Coronavirus</span><span class="css-1rxm0ex"> Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=814d02b0-f52e-11ea-89a3-d9fd6cbe23e4&variant=undefined)
 
   - <span class="css-1qkutce"><span class="css-12clwdu">live</span>[Latest
-    Updates](https://www.nytimes3xbfgragh.onion/2020/09/12/world/covid-19-coronavirus.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=30ab99e1-f52c-11ea-82ba-61bb0b8b9915&variant=undefined)</span>
+    Updates](https://www.nytimes3xbfgragh.onion/2020/09/12/world/covid-19-coronavirus.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=814d29c0-f52e-11ea-89a3-d9fd6cbe23e4&variant=undefined)</span>
   - <span class="css-1qkutce">[Maps and
-    Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=30abc0f0-f52c-11ea-82ba-61bb0b8b9915&variant=undefined)</span>
+    Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=814d29c1-f52e-11ea-89a3-d9fd6cbe23e4&variant=undefined)</span>
   - <span class="css-1qkutce">[Vaccine
-    Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=30abc0f1-f52c-11ea-82ba-61bb0b8b9915&variant=undefined)</span>
+    Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=814d29c2-f52e-11ea-89a3-d9fd6cbe23e4&variant=undefined)</span>
   - <span class="css-1qkutce">[F.D.A. Regulators’
-    Self-Defense](https://www.nytimes3xbfgragh.onion/2020/09/10/us/politics/fda-coronavirus-vaccine.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=30abc0f2-f52c-11ea-82ba-61bb0b8b9915&variant=undefined)</span>
+    Self-Defense](https://www.nytimes3xbfgragh.onion/2020/09/10/us/politics/fda-coronavirus-vaccine.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=814d29c3-f52e-11ea-89a3-d9fd6cbe23e4&variant=undefined)</span>
   - <span class="css-1qkutce">[Surprise Test
-    Fees](https://www.nytimes3xbfgragh.onion/2020/09/09/upshot/coronavirus-surprise-test-fees.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=30abc0f3-f52c-11ea-82ba-61bb0b8b9915&variant=undefined)</span>
+    Fees](https://www.nytimes3xbfgragh.onion/2020/09/09/upshot/coronavirus-surprise-test-fees.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=814d29c4-f52e-11ea-89a3-d9fd6cbe23e4&variant=undefined)</span>
 
 </div>
 

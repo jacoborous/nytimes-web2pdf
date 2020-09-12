@@ -176,6 +176,150 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/live/2020/09/11/us/trump-vs-biden/the-department-of-homeland-security-formed-after-9-11-is-accused-of-distorting-intelligence-to-please-trump)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/09/11/us/politics/11elections-briefing-homelandsecurity2/merlin_176462889_4b322196-c003-416d-b995-384393d3686c-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## The Department of Homeland Security, formed after 9/11, is accused of distorting intelligence to please Trump.
+    
+    This was featured in live coverage.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Zolan Kanno-Youngs <span>and</span>
+    Adam
+    Goldman</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/09/11/us/politics/whistle-blower-homeland-security.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/09/11/us/politics/11dc-dhs1/11dc-dhs1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Whistle-Blower’s Complaint Ignites a Smoldering Homeland Security Agency
+    
+    The agency created to share information across governments is
+    accused of distorting its intelligence to play down the threats
+    posed by Russia and white supremacists.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Zolan Kanno-Youngs <span>and</span>
+    Adam
+    Goldman</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/09/09/us/elections/a-whistle-blower-accuses-top-homeland-security-officials-of-playing-down-threats-from-russia-and-white-supremacists.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/09/09/us/politics/09elections-briefing-dcwolf/merlin_176372592_481a1623-6d33-4ed1-8266-68e4fadfa8b2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## A whistle-blower accuses top Homeland Security officials of playing down threats from Russia and white supremacists.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Zolan Kanno-Youngs <span>and</span>
+    Nicholas
+    Fandos</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/09/09/us/politics/homeland-security-russia-trump.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/09/10/us/politics/10dc-wolf-p1/09dc-wolf-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## D.H.S. Downplayed Threats From Russia and White Supremacists, Whistle-Blower Says
+    
+    Brian Murphy, the former head of the Department of Homeland
+    Security’s intelligence division, accused senior leaders of
+    warping the agency around President Trump’s political interests.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Zolan Kanno-Youngs <span>and</span>
+    Nicholas
+    Fandos</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [阅读简体中文版](https://cn.nytimes3xbfgragh.onion/usa/20200910/homeland-security-russia-trump/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes3xbfgragh.onion/usa/20200910/homeland-security-russia-trump/zh-hant/ "Read in Traditional Chinese")
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/09/04/us/politics/kelly-trump.html)
     
     <div class="css-79elbk">
@@ -205,7 +349,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -241,7 +385,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -274,7 +418,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -309,7 +453,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -344,7 +488,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -366,131 +510,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Zolan
-    Kanno-Youngs</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/live/2020/08/27/us/rnc-fact-check/we-have-already-built-300-miles-of-border-wall-and-we-are-adding-10-new-miles-every-single-week-the-wall-will-soon-be-complete-a)
-    
-    ## “We have already built 300 miles of border wall, and we are adding 10 new miles every single week. The wall will soon be complete, and it is working beyond our wildest expectations.”
-    
-    This was featured in live coverage.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Zolan
-    Kanno-Youngs</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/27/us/elections/some-of-the-immigrants-trump-naturalized-on-tuesday-didnt-know-they-were-being-broadcast.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/26/us/politics/26trump-image1-copy/26trump-image1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Some of the immigrants Trump naturalized on Tuesday didn’t know they were being broadcast.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Zolan Kanno-Youngs <span>and</span>
-    Michael D.
-    Shear</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/live/2020/08/26/us/rnc-convention-election/some-of-the-immigrants-trump-naturalized-on-tuesday-didnt-know-they-were-being-broadcast)
-    
-    ## Some of the immigrants Trump naturalized on Tuesday didn’t know they were being broadcast.
-    
-    This was featured in live coverage.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Zolan Kanno-Youngs <span>and</span>
-    Michael D.
-    Shear</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/26/us/politics/trump-naturalization-ceremony-rnc.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/26/us/politics/26dc-citizenship/26dc-citizenship-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Trump Takes Night Off From Anti-Immigrant Talk to Swear In U.S. Citizens
-    
-    Five new American citizens were stunned to be naturalized at a White
-    House ceremony during the Republican National Convention. Some said
-    they did not know they were being broadcast until friends called to
-    tell them.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Zolan Kanno-Youngs <span>and</span>
-    Michael D. Shear</span>
+    By <span class="css-1n7hynb">Zolan Kanno-Youngs</span>
     
     </div>
     
