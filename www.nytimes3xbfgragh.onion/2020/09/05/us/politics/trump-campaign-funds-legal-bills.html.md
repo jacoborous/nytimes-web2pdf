@@ -1,0 +1,1328 @@
+<div id="app">
+
+<div>
+
+<div>
+
+<div>
+
+<div class="NYTAppHideMasthead css-1q2w90k e1suatyy0">
+
+<div class="section css-ui9rw0 e1suatyy2">
+
+<div class="css-eph4ug er09x8g0">
+
+<div class="css-6n7j50">
+
+</div>
+
+<span class="css-1dv1kvn">Sections</span>
+
+<div class="css-10488qs">
+
+<span class="css-1dv1kvn">SEARCH</span>
+
+</div>
+
+[Skip to content](#site-content)[Skip to site
+index](#site-index)
+
+</div>
+
+<div id="masthead-section-label" class="css-1wr3we4 eaxe0e00">
+
+[Politics](https://www.nytimes3xbfgragh.onion/section/politics)
+
+</div>
+
+<div class="css-10698na e1huz5gh0">
+
+</div>
+
+</div>
+
+<div id="masthead-bar-one" class="section hasLinks css-15hmgas e1csuq9d3">
+
+<div class="css-uqyvli e1csuq9d0">
+
+</div>
+
+<div class="css-1uqjmks e1csuq9d1">
+
+</div>
+
+<div class="css-9e9ivx">
+
+[](https://myaccount.nytimes3xbfgragh.onion/auth/login?response_type=cookie&client_id=vi)
+
+</div>
+
+<div class="css-1bvtpon e1csuq9d2">
+
+[Today’s
+Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div data-aria-hidden="false">
+
+<div id="site-content" data-role="main">
+
+<div>
+
+<div class="css-1aor85t" style="opacity:0.000000001;z-index:-1;visibility:hidden">
+
+<div class="css-1hqnpie">
+
+<div class="css-epjblv">
+
+<span class="css-17xtcya">[Politics](/section/politics)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">How
+Trump Draws on Campaign Funds to Pay Legal
+Bills</span>
+
+</div>
+
+<div class="css-k008qs">
+
+<div class="css-1iwv8en">
+
+<span class="css-18z7m18"></span>
+
+<div>
+
+</div>
+
+</div>
+
+<span class="css-1n6z4y">https://nyti.ms/31YiVCu</span>
+
+<div class="css-1705lsu">
+
+<div class="css-4xjgmj">
+
+<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+
+  - 
+  - 
+  - 
+  - 
+    
+    <div class="css-6n7j50">
+    
+    </div>
+
+  - 
+  - 
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-13pd83m">
+
+<div id="NYT_TOP_BANNER_REGION">
+
+<div>
+
+<div id="styln-prism-electionsMenu-1598278667774" class="section css-l08pwh interactive-content interactive-size-medium">
+
+<div class="css-17ih8de interactive-body">
+
+<div class="nytslm_innerContainer">
+
+<div class="nytslm_title">
+
+</div>
+
+  - 
+    
+    <div id="live_container" class="nytslm_li_loud">
+    
+    <div id="live" class="nytslm_li_live_loud">
+    
+    </div>
+    
+    [New Hampshire
+    Results](https://www.nytimes3xbfgragh.onion/interactive/2020/09/08/us/elections/results-new-hampshire-primary-elections.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    
+    </div>
+
+  - 
+    
+    <div id="default_container" class="nytslm_li_loud">
+    
+    <div id="default" class="nytslm_li_default_loud">
+    
+    </div>
+    
+    [Election
+    Updates](https://www.nytimes3xbfgragh.onion/live/2020/09/08/us/trump-vs-biden?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    
+    </div>
+
+  - 
+    
+    <div id="default_container" class="nytslm_li_loud">
+    
+    <div id="default" class="nytslm_li_default_loud">
+    
+    </div>
+    
+    [Paths
+    to 270](https://www.nytimes3xbfgragh.onion/interactive/2020/us/elections/election-states-biden-trump.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    
+    </div>
+
+  - 
+    
+    <div id="default_container" class="nytslm_li_loud">
+    
+    <div id="default" class="nytslm_li_default_loud">
+    
+    </div>
+    
+    [Voting by
+    Mail](https://www.nytimes3xbfgragh.onion/interactive/2020/08/31/us/politics/vote-by-mail-deadlines.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    
+    </div>
+
+  - 
+    
+    <div id="default_container" class="nytslm_li_loud">
+    
+    <div id="default" class="nytslm_li_default_loud">
+    
+    </div>
+    
+    [Key
+    Dates](https://www.nytimes3xbfgragh.onion/interactive/2019/us/elections/2020-presidential-election-calendar.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    
+    </div>
+
+  - 
+    
+    <div id="default_container" class="nytslm_li_loud">
+    
+    <div id="default" class="nytslm_li_default_loud">
+    
+    </div>
+    
+    [Politics
+    Newsletter](https://www.nytimes3xbfgragh.onion/newsletters/politics?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    
+    </div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="top-wrapper" class="css-1sy8kpn">
+
+<div id="top-slug" class="css-l9onyx">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
+
+<div>
+
+<div id="sponsor-wrapper" class="css-1hyfx7x">
+
+<div id="sponsor-slug" class="css-19vbshk">
+
+Supported by
+
+</div>
+
+[Continue reading the main
+story](#after-sponsor)
+
+<div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
+
+</div>
+
+<div id="after-sponsor">
+
+</div>
+
+</div>
+
+<div class="css-186x18t">
+
+</div>
+
+<div class="css-1vkm6nb ehdk2mb0">
+
+# How Trump Draws on Campaign Funds to Pay Legal Bills
+
+</div>
+
+As he has done with other aspects of the presidency, Donald J. Trump has
+redefined the practice in ways that have unsettled even some
+Republicans.
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">President
+Trump at a campaign rally in August in Londonderry, N.H.. He and his
+affiliated political entities have spent at least $58.4 million in
+donations on legal and compliance work since 2015, according to one
+tally.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Doug
+Mills/The New York
+Times</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/09/05/us/politics/05dc-trump-legal1-sub/merlin_176308608_73f17538-97cc-4da8-907b-f2811b4a59e6-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+</div>
+
+<div class="css-18e8msd">
+
+<div class="css-vp77d3 epjyd6m0">
+
+<div class="css-hus3qt ey68jwv0" data-aria-hidden="true">
+
+[![Eric
+Lipton](https://static01.graylady3jvrrxbe.onion/images/2018/12/06/multimedia/author-eric-lipton/author-eric-lipton-thumbLarge.png
+"Eric Lipton")](https://www.nytimes3xbfgragh.onion/by/eric-lipton)
+
+</div>
+
+<div class="css-1baulvz">
+
+By [<span class="css-1baulvz last-byline" itemprop="name">Eric
+Lipton</span>](https://www.nytimes3xbfgragh.onion/by/eric-lipton)
+
+</div>
+
+</div>
+
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    Published Sept. 5, 2020Updated Sept. 6,
+    2020
+    
+    </div>
+
+  - 
+    
+    <div class="css-4xjgmj">
+    
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    
+      - 
+      - 
+      - 
+      - 
+        
+        <div class="css-6n7j50">
+        
+        </div>
+    
+      - 
+      - 
+    
+    </div>
+    
+    </div>
+
+</div>
+
+</div>
+
+<div class="section meteredContent css-1r7ky0e" name="articleBody" itemprop="articleBody">
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+WASHINGTON — President Trump was proudly litigious before his victory in
+2016 and has remained so in the White House. But one big factor has
+changed: He has drawn on campaign donations as a piggy bank for his
+legal expenses to a degree far greater than any of his predecessors.
+
+In New York, Mr. Trump dispatched a team of lawyers to [seek
+damages](https://int.graylady3jvrrxbe.onion/data/documenttools/101616-2017-jessica-denson-v-jessica-denson-exhibit-s-17-arbitration-files/b5ecf44c5ac0c015/full.pdf)
+of more than $1 million from a former campaign worker after she claimed
+she had been the target of sexual discrimination and harassment by
+another aide. The lawyers have been paid $1.5 million by the Trump
+campaign for work on the case and others related to the president.
+
+In Washington, Mr. Trump and his campaign affiliates hired lawyers to
+assist members of his staff and family — including a onetime bodyguard,
+his oldest son and his son-in-law — as they were pulled into
+investigations related to Russia and Ukraine. The Republican National
+Committee has paid at least $2.5 million in legal bills to the firms
+that did this and other legal work.
+
+In California, Mr. Trump sued to block a law that would have forced him
+to release his taxes if he wanted to run for re-election. The Trump
+campaign and the Republican National Committee have paid the law firm
+handling this case, among others, $1.8 million.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Mr. Trump’s tendency to turn to the courts — and the legal issues that
+have stemmed from norm-breaking characteristics of his presidency —
+helps explain how he and his affiliated political entities have spent at
+least $58.4 million in donations on legal and compliance work since
+2015, according to a tally by The New York Times and the nonpartisan
+Campaign Finance Institute.
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+By comparison, [President Barack
+Obama](https://www.fec.gov/data/disbursements/?data_type=processed&committee_id=C00431445&committee_id=C00451393&committee_id=C00494740&min_date=01%2F01%2F2007&max_date=08%2F30%2F2012&disbursement_description=compliance&disbursement_description=legal)
+and the [Democratic National
+Committee](https://www.fec.gov/data/disbursements/?data_type=processed&committee_id=C00010603&two_year_transaction_period=2008&two_year_transaction_period=2010&two_year_transaction_period=2012&two_year_transaction_period=2014&min_date=07%2F01%2F2008&max_date=12%2F31%2F2012&disbursement_description=legal+&disbursement_description=compliance)
+spent $10.7 million on legal and compliance expenses during the
+equivalent period starting in 2007. [President George W.
+Bush](https://transition.fec.gov/press/summaries/2000/tables/presidential/Pres2_2000_24m.pdf)
+also [spent much
+less](https://www.fec.gov/data/disbursements/?data_type=processed&committee_id=C00343509&committee_id=C00386987&committee_id=C00388579&committee_id=C00404343&min_date=01%2F01%2F2001&max_date=12%2F31%2F2004&disbursement_description=compliance&disbursement_description=legal),
+even taking into account [his legal spending on the recount
+fight](http://www.politicalmoneyline.com/noaccess.aspx) that went to the
+Supreme Court, records show.
+
+The spending on behalf of Mr. Trump covers not only legal work that
+would be relatively routine for any president or candidate and some of
+the costs related to the Russia inquiry and his impeachment, but also
+cases in which he has a personal stake, including attempts to enforce
+nondisclosure agreements and protect his business interests.
+
+Many of the bills being paid by donors to Mr. Trump and his party have
+come from the Republican National Committee’s “recount account.” It is a
+[special fund created
+after 2014](https://www.fec.gov/help-candidates-and-committees/registering-political-party/national-party-accounts-certain-expenses/)
+when Congress — at the request of campaign finance lawyers and leaders
+of both parties — allowed [much larger
+contributions](https://www.fec.gov/resources/cms-content/documents/contribution_limits_chart_2019-2020.pdf)
+by individuals to the political parties, totaling $106,500 per person,
+compared with the normal $2,800 limit.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+It is impossible to know based on Federal Election Commission filings
+how much of the $58.4 million in total legal bills went to routine legal
+work. Payments from the political committees to lawyers and law firms
+are not itemized by case, so the filings do not break down how much
+donor money went to pay for specific legal actions. A spokesman for the
+Trump family would not say how much Mr. Trump had paid out of his own
+pocket or his company’s in legal fights, including Mr. Trump’s attempt
+to block access to his personal financial records.
+
+It is also hard to differentiate between legal clashes the president has
+initiated and those in which he is the target of opponents. And a
+growing portion of the overall legal spending has come recently as his
+campaign has stepped up its efforts to battle Democratic actions to make
+voting easier.
+
+But an examination of spending by his various campaign arms documents
+how the intermingling of his presidency, business interests, campaigns,
+defense against the Russia investigation, impeachment and eagerness to
+penalize rivals have led to millions of dollars in donor money going to
+help bankroll litigation.
+
+Drawing on donations to pay many legal expenses is permitted by campaign
+finance law. But as he has done with other aspects of the presidency,
+Mr. Trump has redefined the practice in ways that have unsettled even
+some Republicans, who point in particular to examples like his efforts
+to enforce nondisclosure agreements with former staff members.
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">The
+president has drawn heavily from a special Republican National Committee
+account to help pay legal
+bills.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Travis
+Dove for The New York
+Times</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/28/us/politics/00dc-trump-legal2-sub/merlin_176106129_09f52f7c-e098-4f89-890f-718b78bcb1d7-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+“Vindicating President Trump’s personal interests is now so intertwined
+with the interests of the Republican Party they are one and the same —
+and that includes the legal fights the party is paying for now,” said
+Matthew T. Sanderson, who [has served as a campaign finance
+lawyer](https://www.law.virginia.edu/faculty/adjunct-profile/ms9fc/2517710)
+to presidential candidates including Rand Paul, Rick Perry and John
+McCain.
+
+A spokesman for Mr. Trump declined to comment. But a spokeswoman for the
+Republican National Committee said it was Democrats and other liberals
+who were driving this blitz of spending.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+“The R.N.C. is more than happy to cover the costs of defending the
+president from the Democrats’ baseless litigation and partisan
+impeachment sham,” said the spokeswoman, Mandi Merritt.
+
+The filings do not address the value of work for which he has not been
+charged, like Rudolph W. Giuliani’s unpaid position as his personal
+lawyer. Nor do they account for the legal support Mr. Trump, as
+president, receives from the Justice Department, which has helped defend
+him on issues that blur the line between his public and private roles,
+like the constitutional prohibition on a president receiving benefits
+from other governments and efforts to obtain his tax returns and
+financial records.
+
+The advent of the special recount account for legal expenses has fueled
+an explosion of available cash for both political parties. But because
+the Federal Election Commission has given [little
+guidance](https://www.fec.gov/help-candidates-and-committees/registering-political-party/national-party-accounts-certain-expenses/)
+over how money put into these accounts can be spent, the political
+parties have used them on a variety of seemingly unrelated purposes,
+including charter airplane flights, [records
+show](https://docquery.fec.gov/cgi-bin/fecimg/?201901319144412101).
+
+Perkins Coie, a prominent firm that handles Democratic candidates, has
+been [paid $17
+million](https://www.fec.gov/data/disbursements/?data_type=processed&committee_id=C00010603&committee_id=C00571133&committee_id=C00711069&recipient_name=PERKINS+COIE&recipient_name=perkins+coie&min_date=07%2F01%2F2016&disbursement_description=legal&disbursement_description=compliance)
+just by the Democratic National Committee in the last four years,
+benefiting as well from this new flow of large donations to the party.
+
+In Mr. Trump’s case, the reliance on high-dollar donations had led to
+questions about whether contributors from casinos, Wall Street, coal and
+other industries expect something in return.
+
+Republican donors [who have sent large amounts of
+money](https://www.fec.gov/data/receipts/individual-contributions/?committee_id=C00003418&two_year_transaction_period=2020&min_date=01%2F01%2F2019&max_date=12%2F31%2F2020&min_amount=106%2C500&max_amount=106%2C500)
+since 2019 to this special R.N.C. legal account include Joseph Craft,
+who is the chief executive of a coal mining company that has benefited
+from Mr. Trump’s regulatory actions. They also include [Stephen A.
+Schwarzman](https://www.nytimes3xbfgragh.onion/2020/04/03/business/dealbook/trump-coronavirus-advisors.html),
+the chief executive of the Blackstone Group, and [Thomas J. Barrack
+Jr.](https://www.nytimes3xbfgragh.onion/2019/07/28/us/politics/thomas-barrack-foreign-lobbying.html),
+both private equity investors who have long been close to the president,
+and members of [the Fertitta
+family](https://www.forbes.com/profile/fertitta/#755ed51d34b4) of Las
+Vegas, who own a casino there.
+
+Ms. Merritt, the Republican committee spokeswoman, rejected any
+suggestion that the donations were made to try to influence Mr. Trump.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+“That is an absurd and unfounded allegation,” she said. “Our donors are
+highly motivated by Democrats’ radical attempts to try and take away the
+voice of the American people by gaming the election through the courts,
+and fully support our fight to uphold election integrity, fight back
+against impeachment, and challenge Democrats’ attacks on the
+president.”
+
+## Seeking to Silence Critics
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:257.77777777777777px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Supporters
+of Mr. Trump during a campaign event in August in Yuma, Ariz. Campaign
+donations have been used to finance a range of legal
+disputes.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Doug
+Mills/The New York Times</span></span>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+All presidents are enmeshed in litigation related to their official
+duties, and Mr. Trump’s 2020 campaign and the Republican National
+Committee are fighting an array of topics related to the election,
+including [litigation about mail-in
+ballot](https://www.nytimes3xbfgragh.onion/2020/08/08/us/politics/voting-nov-3-election.html)s
+and voting rights.
+
+But for Mr. Trump, who has always preferred to use other people’s money
+in his business ventures, the reliance on campaign funds as a legal
+kitty extends to issues that are of concern to him personally.
+
+The biggest payments have gone to the Jones Day law firm, which has
+received a total of $18.8 million from Mr. Trump’s campaign, the
+Republican National Committee and America First Action, a super PAC
+closely affiliated with Mr. Trump. Most of that spending — $11.5 million
+— came from Mr. Trump’s campaign, reflecting the firm’s heavy load of
+campaign-related work as well as cases more personally tied to Mr.
+Trump.
+
+Among the 20 suits Jones Day has been involved in include one filed by
+demonstrators who claimed they were beaten at [a Kentucky political
+rally](https://law.justia.com/cases/federal/appellate-courts/ca6/17-6290/17-6290-2018-09-11.html),
+a [filing in federal
+court](https://www.courtlistener.com/recap/gov.uscourts.dcd.187894.1.0.pdf)claiming
+that Mr. Trump and his allies helped distribute information obtained by
+Russian hackers during the 2016 election and one from a [Missouri man
+who
+claimed](https://int.graylady3jvrrxbe.onion/data/documenttools/rodney-brown-v/26436b775d5dfb03/full.pdf)
+he was arrested after he simply laughed while at a Trump rally. A
+spokesman for the firm declined to comment.
+
+Smaller amounts have gone to boutique law firms, such as that of [Daniel
+K. Hagood](https://sorrelshagood.com/danhagood/), a Texas lawyer whose
+website says he specializes in “representing companies and individual
+entangled in the criminal justice system.” He [has been paid
+$254,331](https://www.fec.gov/data/disbursements/?data_type=processed&recipient_name=DANIEL+K.+HAGOOD&recipient_name=daniel+hagood)
+this year by America First Action, a super PAC associated with Mr.
+Trump. Neither Mr. Hagood nor America First Action would answer
+questions about the work he was doing.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Campaign funds also were used to fight a lawsuit filed by an aide to Mr.
+Trump’s 2016 presidential campaign [who
+claimed](https://www.courtlistener.com/docket/14567515/johnson-v-trump/)
+that Mr. Trump had inappropriately kissed her, with
+[$196,229](https://www.fec.gov/data/disbursements/?data_type=processed&committee_id=C00580100&recipient_name=+HARRISON+LLP&recipient_name=Ford+&recipient_name=harrison&max_date=04%2F12%2F2031&disbursement_description=compliance&disbursement_description=legal)
+paid to a Florida firm, [Ford &
+Harrison](https://www.courtlistener.com/docket/14567515/parties/johnson-v-trump/),
+and to a Los Angeles-based lawyer, Charles J. Harder, who has been paid
+a [total of $3.4
+million](https://www.fec.gov/data/disbursements/?data_type=processed&committee_id=C00580100&recipient_name=Harder&two_year_transaction_period=2020&two_year_transaction_period=2018&two_year_transaction_period=2016).
+(Mr. Trump
+[prevailed](https://www.courtlistener.com/recap/gov.uscourts.flmd.360631/gov.uscourts.flmd.360631.96.0.pdf)
+in [this case](https://www.leagle.com/decision/infdco20190614c71).)
+
+One major area of spending, records show, has been an attempt to enforce
+nondisclosure or nondisparagement agreements with former aides who have
+accused Mr. Trump or members of his staff of wrongdoing.
+
+Mr. Harder, who is frequently hired by Mr. Trump’s campaign, is perhaps
+[best
+known](https://www.nytimes3xbfgragh.onion/2016/05/30/business/media/gawker-case-calls-attention-to-a-go-to-hollywood-lawyer.html)
+for his work on behalf of the professional wrestler Hulk Hogan [in a
+lawsuit filed
+in 2012](https://www.nytimes3xbfgragh.onion/2016/03/19/business/media/gawker-hulk-hogan-verdict.html)
+against the website Gawker, which ended up causing its bankruptcy.
+
+Another key lawyer in this effort is Lawrence S. Rosen, who works out of
+Mr. Trump’s 40 Wall Street office building in Manhattan and has handled
+real estate legal disputes and other issues for Mr. Trump for decades.
+Bills from Mr. Rosen’s firm to the Trump campaign [total $1.5
+million](https://www.fec.gov/data/disbursements/?data_type=processed&committee_id=C00580100&recipient_name=hornik+rosen&two_year_transaction_period=2020&two_year_transaction_period=2018&two_year_transaction_period=2016).
+
+Together, they have taken up more than a dozen cases for Mr. Trump, many
+of which have a particularly personal
+flavor.
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:271.31111111111113px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Omarosa
+Manigault Newman, a former White House aide, spoke publicly in a way
+that Mr. Trump considered critical of him, leading to a legal
+fight.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Pablo
+Martinez Monsivais/Associated Press</span></span>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+They include legal actions involving [Jessica
+Denson](https://int.graylady3jvrrxbe.onion/data/documenttools/101616-2017-jessica-denson-v-jessica-denson-exhibit-s-17-arbitration-files/b5ecf44c5ac0c015/full.pdf),
+a Los Angeles-based actress who took a job at Trump Tower in New York as
+a supervisor of the campaign’s national phone bank; [Omarosa Manigault
+Newman](https://int.graylady3jvrrxbe.onion/data/documenttools/trump-v-omarosa-arbitration-claim/19adad0d6fe57d07/full.pdf),
+a former guest on “The Apprentice” reality show who later became a White
+House aide, and [Cliff
+Sims](https://int.graylady3jvrrxbe.onion/data/documenttools/2019-02-sims-complaint2-11/5897bc7416fcc0ad/full.pdf),
+a former White House communications aide. Each of them spoke publicly in
+a way that Mr. Trump considered critical of him or his campaign. In each
+case, the president asserted that they had violated nondisclosure
+agreements.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Mr. Rosen also represented the campaign in a lawsuit that [involved
+a 2016 campaign
+aide](https://int.graylady3jvrrxbe.onion/data/documenttools/delgado-v-trump-lawrence-rosen-representing-for-trump/50b8cb15faec3842/full.pdf)
+who became pregnant during an affair with her boss, Jason Miller, and
+was then dismissed after Mr. Miller reportedly told her she could not be
+seen “waddling around the White House pregnant,” [the lawsuit
+says](https://www.courtlistener.com/docket/16624382/delgado-v-donald-j-trump-for-president-inc/).
+
+Mr. Harder also worked on lawsuits on behalf of Mr. Trump’s campaign
+against news organizations including The Washington Post, The New York
+Times and CNN, claiming they published
+“[false](https://int.graylady3jvrrxbe.onion/data/documenttools/draft-nyt-complaint-ny-state-court/5cc46831ddc43630/full.pdf)
+and
+[defamatory](https://int.graylady3jvrrxbe.onion/data/documenttools/complaint-wash-post-final/9685ced9fb0761c5/full.pdf)
+[statements](https://int.graylady3jvrrxbe.onion/data/documenttools/complaint-cnn/615d77f7192b4f85/full.pdf)”
+about the president in opinion pieces.
+
+Lawyers defending the former Trump aides said the use of campaign funds
+to bankroll Mr. Trump’s legal efforts is part of a long-running strategy
+to intimidate and silence his critics.
+
+“It is the weaponization of lawsuits that are frivolous.” said John
+Phillips, a Florida lawyer representing Ms. Manigault Newman. “And they
+are intended to suppress First Amendment speech. No other president in
+this history of the United States has ever resorted to anything like
+this.”
+
+Defending himself against lawsuits by individuals who claim they were
+assaulted at campaign events has also consumed a significant chunk of
+campaign funds. Those include long-running lawsuits filed by [a
+Massachusetts peace activist, Rod
+Webber](https://rodwebber.wordpress.com/govt/), who [sued Mr.
+Trump](https://www.courtlistener.com/docket/14587089/webber-v-deck/)’s
+campaign after he claimed he was thrown “head first into a table” after
+he had tried to ask a question of Mr. Trump in 2015 during an event in
+New Hampshire. The Trump campaign [has
+paid](https://www.fec.gov/data/disbursements/?data_type=processed&recipient_name=cleveland+waters&two_year_transaction_period=2020&two_year_transaction_period=2018&two_year_transaction_period=2016)
+$101,828 to a New Hampshire-based firm, Cleveland, Water and Bass, that
+has been handling the case since last year.
+
+Others include the lawsuit Mr. Trump and his campaign jointly filed in
+California last summer in a [successful
+effort](https://int.graylady3jvrrxbe.onion/data/documenttools/tax-return-law-california-supreme-court/fad5a640e70d5bc1/full.pdf)
+to overturn the state’s requirement that he release his income tax
+return if he wanted to be on the presidential ballot in
+California.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+## The Russia and Impeachment Cases
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:257.77777777777777px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Jay Sekulow,
+one of Mr. Trump’s personal lawyers, leaving the Capitol in February
+after closing arguments in the Senate impeachment trial. He also seeks
+to influence the government on other matters, like abortion
+policy.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Erin
+Schaff/The New York Times</span></span>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+The investigations of Mr. Trump by the special counsel and congressional
+Democrats have also generated large legal tabs that have been picked up
+in part by the president’s political operation. That includes paying for
+lawyers to help represent members of his family who were targeted in
+lawsuits or were called to testify,
+[including](https://www.fec.gov/data/disbursements/?data_type=processed&recipient_name=alan+futerfas&two_year_transaction_period=2020&two_year_transaction_period=2018&two_year_transaction_period=2016)
+[Donald Trump
+Jr](https://www.judiciary.senate.gov/imo/media/doc/Trump%20Jr%20Transcript_redacted.pdf).,
+and
+[Jared](https://cases.justia.com/federal/district-courts/new-york/nysdce/1:2018cv03501/492363/221/0.pdf)
+[Kushner](https://www.fec.gov/data/disbursements/?data_type=processed&committee_id=C00580100&recipient_name=Winston+%26+Strawn&two_year_transaction_period=2020&two_year_transaction_period=2018&two_year_transaction_period=2016).
+
+Campaign donations have gone to pay legal bills for [Hope
+Hicks](https://www.justsecurity.org/wp-content/uploads/2019/08/hope-hicks-response-chair-nadler-house-judiciary.pdf),
+[a White House
+adviser](https://www.fec.gov/data/disbursements/?data_type=processed&committee_id=C00003418&committee_id=C00580100&recipient_name=TROUT+CACHERIS+&two_year_transaction_period=2020&two_year_transaction_period=2018&two_year_transaction_period=2016);
+[Keith
+Schiller](https://www.dni.gov/files/HPSCI_Transcripts/2019-04-12-KeithS-MTR.pdf),
+[the former
+bodyguard](https://www.fec.gov/data/disbursements/?data_type=processed&committee_id=C00580100&recipient_name=Schertler+Onorato&two_year_transaction_period=2020&two_year_transaction_period=2018&two_year_transaction_period=2016)
+for Mr. Trump; [Boris
+Epshteyn](https://www.dni.gov/files/HPSCI_Transcripts/2019-01-16-BorisE-MTR.pdf),
+[a former Sinclair Broadcast Group
+commentator](https://www.fec.gov/data/disbursements/?data_type=processed&committee_id=C00580100&recipient_name=amolsch&two_year_transaction_period=2020&two_year_transaction_period=2018&two_year_transaction_period=2016)
+who now serves as a Trump campaign adviser and [Corey R.
+Lewandowski](https://www.dni.gov/files/HPSCI_Transcripts/2019-03-26-CoreyL1803-MTR.pdf),
+Mr. Trump’s [former campaign
+manager](https://www.fec.gov/data/disbursements/?data_type=processed&committee_id=C00580100&recipient_name=mintz+levin&two_year_transaction_period=2020&two_year_transaction_period=2018&two_year_transaction_period=2016).
+
+The case of Michael D. Cohen, Mr. Trump’s former personal lawyer, showed
+the limits to the president’s willingness to foot legal bills. When Mr.
+Cohen was pulled into the investigation of Mr. Trump’s ties to Russia,
+the Trump campaign covered a large share of his legal tab.
+
+But after federal investigators [raided Mr. Cohen’s
+office](https://www.nytimes3xbfgragh.onion/2018/04/09/us/politics/fbi-raids-office-of-trumps-longtime-lawyer-michael-cohen.html),
+questions began to emerge about whether Mr. Cohen might turn on the
+president.
+
+“Most people will flip if the Government lets them out of trouble, even
+if it means lying or making up stories,” Mr. Trump [said on
+Twitter](https://twitter.com/realdonaldtrump/status/987679852345135105?lang=en)on
+April 21, 2018, four days after his campaign paid
+[$48,342](https://www.fec.gov/data/disbursements/?data_type=processed&committee_id=C00580100&recipient_name=McDermott+&two_year_transaction_period=2020&two_year_transaction_period=2018&two_year_transaction_period=2016)to
+Mr. Cohen’s lawyer, a small share of the remaining amount owed. “Sorry,
+I don’t see Michael doing that despite the horrible Witch Hunt and the
+dishonest media\!”
+
+But soon enough, [Mr. Cohen did
+flip](https://www.nytimes3xbfgragh.onion/2019/02/27/us/politics/michael-cohen-trump.html).
+The campaign then halted payments to his lawyer.
+
+The impeachment effort produced substantial spending by Mr. Trump’s
+political entities. Mr. Trump’s campaign and the Republican National
+Committee, which has been raising and spending money in coordination
+with Mr. Trump, have helped pay the legal bills from the firms of Jay
+Sekulow, Marc E. Kasowitz, Jane Raskin and Alan Dershowitz.
+
+It is not known how much they charged, or whether all the payments to
+them stem from their work on impeachment. But Trump-affiliated campaign
+entities have paid these lawyers and their firms $2 million since 2018,
+Federal Election Commission [records
+show.](https://www.fec.gov/data/disbursements/?data_type=processed&committee_id=C00003418&committee_id=C00580100&committee_id=C00637512&recipient_name=CONSTITUTIONAL+LITIGATION&recipient_name=Raskin&recipient_name=alan+dershowitz&recipient_name=kasowitz&two_year_transaction_period=2020&two_year_transaction_period=2018&min_date=07%2F01%2F2018&max_date=09%2F02%2F2020)
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+There is no record of payments to Mr. Giuliani, the former New York
+mayor, who has been providing legal services free of charge to Mr. Trump
+since 2018. In [his financial disclosure
+report](https://assets.documentcloud.org/documents/7011742/Trump-Donald-J-2020Annual-278.pdf)
+filed in July, Mr. Trump said the value of the work done by Mr. Giuliani
+“is
+unascertainable.”
+
+## Potential Conflicts of Interest
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:257.77777777777777px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Rudolph W.
+Giuliani, another of Mr. Trump’s personal lawyers, has a collection of
+clients whose agendas he has pushed while representing the
+president.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Doug
+Mills/The New York Times</span></span>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Mr. Trump has sometimes used lawyers who also have intervened with the
+federal government on behalf of other clients, including appeals made
+directly to him.
+
+Mr. Sekulow, for example, [has run a nonprofit
+group](https://static.aclj.org/2019-ACLJ-AR.pdf) that pressed the
+government to stop abortion funding and [has also
+urged](https://aclj.org/religious-liberty/radio-recap-trump-admin-stop-government-discrimination-of-religion)the
+Trump administration to exempt churches from certain federal policies,
+such as hiring rules. Mr. Sekulow said the dual roles did not represent
+a conflict because his work for Mr. Trump was done through a [separate
+law
+firm](https://www.supremecourt.gov/DocketPDF/19/19-635/127982/20200108154615118_Vance%20Blanket%20Consent.pdf).
+
+Mr. Giuliani also has [a collection of
+clients](https://www.nytimes3xbfgragh.onion/2018/12/12/us/politics/giuliani-consulting-abroad.html)
+whose agenda he has pushed including [a Venezuelan businessman under
+criminal
+investigation](https://www.nytimes3xbfgragh.onion/2019/11/26/us/politics/giuliani-venezuelan-businessman.html)
+in the United States.
+
+William S. Consovoy, a lawyer who has done extensive work for Mr. Trump
+paid with campaign funds, including [challenging the California
+law](http://cdn.cnn.com/cnn/2019/images/08/06/1.-.complaint.pdf) that
+tried to force Mr. Trump to release his tax return before he could run
+for re-election, is also [suing the Justice
+Department](https://www.pacermonitor.com/public/case/23450681/UHAUL_INTERNATIONAL,_INC_et_al_v_US_DEPARTMENT_OF_JUSTICE_et_al)
+on behalf of corporate clients such as U-Haul International. Mr.
+Consovoy and Mr. Giuliani did not respond to requests for comment.
+
+The role of the Justice Department in litigation involving Mr. Trump has
+also drawn attention.
+
+The department automatically represents the president of the United
+States when he is sued. But during Mr. Trump’s tenure, it has supported
+Mr. Trump’s legal team in lawsuits filed on behalf of Mr. Trump against
+other parties, litigation that is intended to protect Mr. Trump’s
+personal financial interests.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+The Justice Department said it was obligated to protect the independence
+of the office of the president, noting [in one legal
+filing](https://www.supremecourt.gov/DocketPDF/19/19-715/130825/20200203173620062_19-715tsacUnitedStates.pdf)
+that Mr. Trump, as president, “occupies a unique position in the
+constitutional scheme” and that he should be exempt from subpoenas
+seeking his personal financial information.
+
+At least 10 department lawyers [were
+named](https://www.supremecourt.gov/DocketPDF/19/19-715/130825/20200203173620062_19-715tsacUnitedStates.pdf)
+on [legal
+briefs](https://www.supremecourt.gov/opinions/19pdf/19-635_o7jq.pdf)
+[filed](http://cdn.cnn.com/cnn/2019/images/08/19/courtdocument0819.pdf)
+as Mr. Trump has tried to block institutions including Deutsche Bank
+from releasing his financial records. Another 10 department lawyers
+[were
+listed](https://s3.amazonaws.com/storage.citizensforethics.org/wp-content/uploads/2017/01/25152311/2018-5-29-128-Trump-Brief.pdf)
+on
+[filings](http://oag.dc.gov/sites/default/files/2018-03/Defendants-Motion-to-Dismiss.pdf)
+[made in
+lawsuits](https://www.courtlistener.com/recap/gov.uscourts.dcd.187220.15.0.pdf)
+as Mr. Trump had violated the Constitution’s emoluments clause by taking
+money from foreign governments at his hotels and clubs.
+
+Justice Department lawyers have also been involved in cases in which the
+president sought to restrain former aides who had written books about
+him, [including one by John R.
+Bolton](https://int.graylady3jvrrxbe.onion/data/documenthelper/7030-john-bolton-lawsuit/ce3b8c4bf5f6687fa454/optimized/full.pdf#page=1),
+the former national security adviser.
+
+Robert Weissman, the president of Public Citizen, a nonprofit group that
+has tracked ethical issues during the Trump administration, said the use
+of campaign and federal government funds to finance legal actions
+captured a dizzying array of themes his group has sought to highlight.
+
+The legal work, he said, is being used to defend violence at political
+rallies, chill the free speech of former aides and fight allegations of
+unethical actions by Mr. Trump himself. And it is being paid for in part
+by large individual donors who could seek help from Mr. Trump in dealing
+with government actions that affect their own interests at a time when
+the Justice Department has moved from simply defending the president to
+helping protect his personal finances, he said.
+
+“It is an astounding nexus of corruption,” Mr. Weissman said. “And the
+legal system in the United States is the one that is supposed to be
+defending justice.”
+
+Kitty Bennett contributed
+research.
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+</div>
+
+<div id="NYT_BELOW_MAIN_CONTENT_REGION">
+
+<div>
+
+<div id="styln-prism-electionsGuide-1598278655668" class="section css-l08pwh interactive-content interactive-size-medium">
+
+<div class="css-17ih8de interactive-body">
+
+<div id="election-guide-id" class="css-1sk2qve">
+
+<div id="election-guide-container" class="css-1ltpamx">
+
+# Our 2020 Election Guide
+
+<div class="css-zkk2wn">
+
+Updated  Sept. 8, 2020
+
+</div>
+
+-----
+
+<div class="css-1yyoic1">
+
+</div>
+
+  - ## The Latest
+    
+      - 
+        
+        <div class="css-ods21c">
+        
+        </div>
+        
+        President Trump and his party are using a playbook that aims to
+        alarm people about crime in their backyards. It didn’t work in
+        2018, but [both parties think it could resonate more this
+        year](https://www.nytimes3xbfgragh.onion/2020/09/08/us/politics/trump-republicans-fear-strategy.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide).
+
+  - ## How to Win 270
+    
+      - 
+        
+        <div class="css-ods21c">
+        
+        </div>
+        
+        Joe Biden and Donald Trump need 270 electoral votes to reach the
+        White House. Try building [your own coalition of battleground
+        states](https://www.nytimes3xbfgragh.onion/interactive/2020/us/elections/election-states-biden-trump.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide) to
+        see potential outcomes.
+
+  - ## Voting by Mail
+    
+      - 
+        
+        <div class="css-ods21c">
+        
+        </div>
+        
+        Will you have enough time to vote by mail in your state? Yes,
+        but it’s risky to procrastinate. [Check your state’s
+        deadline.](https://www.nytimes3xbfgragh.onion/interactive/2020/08/31/us/politics/vote-by-mail-deadlines.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide)
+    
+      - 
+        
+        <div class="css-ods21c">
+        
+        </div>
+        
+        <div class="css-1bzoy3k">
+        
+        [![](data:image/png;base64,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)](https://www.nytimes3xbfgragh.onion/interactive/2020/us/elections/joe-biden.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide)
+        
+        # Joe Biden
+        
+        ## Democrat
+        
+        [![](data:image/png;base64,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)](https://www.nytimes3xbfgragh.onion/interactive/2020/us/elections/donald-trump.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide)
+        
+        # Donald Trump
+        
+        ## Republican
+        
+        </div>
+
+  - 
+    
+    <div id="election-guide-promotional">
+    
+    ## Keep Up With Our Coverage
+    
+      - 
+        
+        <div class="css-ods21c">
+        
+        </div>
+        
+        Get an
+        [email](https://www.nytimes3xbfgragh.onion/newsletters/politics?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide) recapping
+        the day’s news
+    
+      - 
+        
+        <div class="css-ods21c">
+        
+        </div>
+        
+        Download our mobile app on
+        [iOS](https://apps.apple.com/us/app/nytimes/id284862083?ls=1&mat_click_id=5c79ae7455014fd1bd66b5610c05b8f2-20191112-16948&referrer=mat_click_id%3D5c79ae7455014fd1bd66b5610c05b8f2-20191112-16948%26link_click_id%3D722930677036718082) and
+        [Android](http://a.localytics.com/android?id=com.nytimes.android&referrer=utm_source%3Dother_nyt_mobile_web%26utm_medium%3DWeb%2520page%26utm_term%3DGeneral%2520Mobile%2520Page%26utm_campaign%3DNYT%2520Mobile%2520General%2520Page) and
+        turn on Breaking News and Politics alerts
+    
+    </div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+<div id="bottom-wrapper" class="css-1ede5it">
+
+<div id="bottom-slug" class="css-l9onyx">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-bottom)
+
+<div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+</div>
+
+<div id="after-bottom">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+## Site Index
+
+<div>
+
+</div>
+
+## Site Information Navigation
+
+  - [© <span>2020</span> <span>The New York Times
+    Company</span>](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014792127-Copyright-notice)
+
+<!-- end list -->
+
+  - [NYTCo](https://www.nytco.com/)
+  - [Contact
+    Us](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115015385887-Contact-Us)
+  - [Work with us](https://www.nytco.com/careers/)
+  - [Advertise](https://nytmediakit.com/)
+  - [T Brand Studio](http://www.tbrandstudio.com/)
+  - [Your Ad
+    Choices](https://www.nytimes3xbfgragh.onion/privacy/cookie-policy#how-do-i-manage-trackers)
+  - [Privacy](https://www.nytimes3xbfgragh.onion/privacy)
+  - [Terms of
+    Service](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014893428-Terms-of-service)
+  - [Terms of
+    Sale](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014893968-Terms-of-sale)
+  - [Site
+    Map](https://spiderbites.nytimes3xbfgragh.onion)
+  - [Help](https://help.nytimes3xbfgragh.onion/hc/en-us)
+  - [Subscriptions](https://www.nytimes3xbfgragh.onion/subscription?campaignId=37WXW)
+
+</div>
+
+</div>
+
+</div>
+
+</div>

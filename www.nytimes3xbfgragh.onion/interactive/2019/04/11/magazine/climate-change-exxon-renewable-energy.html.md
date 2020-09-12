@@ -1,0 +1,823 @@
+<div id="suggestions" class="suggestions messenger nocontent robots-nocontent" style="display:none;">
+
+<div class="message-bed">
+
+<div class="message-container last-message-container">
+
+<div class="message">
+
+<span class="message-content"> **<span class="message-title">NYTimes.com
+no longer supports Internet Explorer 9 or earlier. Please upgrade your
+browser.</span> [LEARN MORE
+»](http://www.nytimes3xbfgragh.onion/content/help/site/ie9-support.html)
+</span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="shell" class="shell">
+
+<div class="container">
+
+<div class="quick-navigation button-group">
+
+**<span class="button-text">Sections</span>
+
+**<span class="button-text">Home</span>
+
+**<span class="button-text">Search</span>
+
+</div>
+
+<div class="branding">
+
+## [<span class="visually-hidden">The New York Times</span>](http://www.nytimes3xbfgragh.onion/)
+
+### <span class="label-text"> [Magazine](https://www.nytimes3xbfgragh.onion/section/magazine) </span>
+
+</div>
+
+<div class="story-meta">
+
+###### <span class="kicker-label"> [Magazine](https://www.nytimes3xbfgragh.onion/section/magazine) </span> <span class="pipe">|</span>How Big Business Is Hedging Against the Apocalypse
+
+</div>
+
+<div class="user-tools">
+
+<div id="sharetools-masthead" class="sharetools theme-classic sharetools-masthead" data-aria-label="tools" data-role="group" data-shares="facebook,twitter,email,show-all,save" data-url="https://www.nytimes3xbfgragh.onion/interactive/2019/04/11/magazine/climate-change-exxon-renewable-energy.html" data-title="How Big Business Is Hedging Against the Apocalypse" data-author="By Jesse Barron" data-media="https://static01.graylady3jvrrxbe.onion/images/icons/t_logo_291_black.png" data-description="Investors are finally paying attention to climate change — though not in the way you might hope." data-publish-date="April 11, 2019">
+
+<div class="ad sharetools-inline-article-ad hidden nocontent robots-nocontent">
+
+</div>
+
+</div>
+
+<div class="user-tools-button-group button-group">
+
+</div>
+
+</div>
+
+</div>
+
+<div class="search-flyout-panel flyout-panel">
+
+**<span class="visually-hidden">Close search</span>
+
+## Site Search Navigation
+
+<div class="control">
+
+<div class="label-container visually-hidden">
+
+Search NYTimes.com
+
+</div>
+
+<div class="field-container">
+
+**<span id="clear-search-input" class="visually-hidden">Clear this text
+input</span>
+
+<div class="auto-suggest" style="display: none;">
+
+</div>
+
+Go
+
+</div>
+
+</div>
+
+</div>
+
+<div id="notification-modals" class="notification-modals">
+
+</div>
+
+<span class="story-short-url"><https://nyti.ms/2X4aUa0></span>
+
+## Site Navigation
+
+## Site Mobile Navigation
+
+<div id="page" class="page">
+
+<div id="main" class="main" data-role="main">
+
+<div class="story-meta">
+
+# How Big Business Is Hedging Against the Apocalypse
+
+<div class="story-meta-footer interactive-meta-footer">
+
+<div class="interactive-byline">
+
+<span class="byline" itemprop="author creator" itemscope="" itemtype="http://schema.org/Person">
+By
+<span class="byline-author" data-byline-name="JESSE BARRON" itemprop="name">JESSE
+BARRON</span> </span> APRIL 11, 2019
+
+</div>
+
+<span class="summary-text">Investors are finally paying attention to
+climate change — though not in the way you might
+hope.</span>
+
+</div>
+
+</div>
+
+<div id="climate-change-exxon-renewable-energy" class="interactive-graphic">
+
+<div class="topnav" data-slug="14mag-exxon">
+
+<div class="topnav__wrapper">
+
+<div class="topnav__kicker">
+
+<span>The Climate Issue</span>
+
+</div>
+
+<div class="topnav__contents">
+
+  - [What Survival Looks Like After the Oceans
+    Rise](https://www.nytimes3xbfgragh.onion/interactive/2019/04/11/magazine/climate-change-bangladesh-scavenging.html)
+  - [Climate Chaos Is Coming — and the Pinkertons Are
+    Ready](https://www.nytimes3xbfgragh.onion/interactive/2019/04/10/magazine/climate-change-pinkertons.html)
+  - [How Big Business Is Hedging Against the
+    Apocalypse](https://www.nytimes3xbfgragh.onion/interactive/2019/04/11/magazine/climate-change-exxon-renewable-energy.html)
+  - [The Next Reckoning: Capitalism and Climate
+    Change](https://www.nytimes3xbfgragh.onion/interactive/2019/04/09/magazine/climate-change-capitalism.html)
+  - [The Problem With Putting a Price on the End of the
+    World](https://www.nytimes3xbfgragh.onion/interactive/2019/04/09/magazine/climate-change-politics-economics.html)
+  - [Climate Change Could Destroy His Home in Peru. So He Sued an Energy
+    Company in
+    Germany.](https://www.nytimes3xbfgragh.onion/interactive/2019/04/09/magazine/climate-change-peru-law.html)
+
+</div>
+
+</div>
+
+[](#)
+[](#)
+
+![](https://static01.graylady3jvrrxbe.onion/newsgraphics/2019/04/09/climate2019/51f6a9588f2c17e118fdd8781dfa8806f5d62a95/caret.svg)
+
+</div>
+
+<div class="rad-article" data-slug="14mag-exxon">
+
+<div class="rad-cover full-bleed vertical" style="background-color:#FFFFFF">
+
+![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+<div class="rad-header-wrapper">
+
+# How Big Business Is Hedging Against the Apocalypse
+
+Investors are finally paying attention to climate change — though not in
+the way you might hope.
+
+<span class="rad-byline">By JESSE BARRON</span> APRIL 11, 2019
+<span class="rad-byline rad-second-byline"></span>
+
+</div>
+
+</div>
+
+<div class="rad-story-body">
+
+<span class="dropcap">R</span>ex Tillerson stood under a 32-foot pipe
+organ at the Morton H. Meyerson Symphony Center in Dallas, explaining
+how the world worked. It was May 2015, in the middle of an oil-price
+crash, and Exxon Mobil’s earnings had fallen 46 percent compared with
+the same quarter the year before. But Tillerson, then Exxon’s chief
+executive, told his shareholders to be confident in the future. Oil and
+gas furnished billions of people, including the very poor, with cheap,
+reliable fuel — a fact not easily negated by a weak fiscal quarter. “Our
+view reflects the reality,” Tillerson said, “that abundant energy
+enables modern life.”
+
+Later that morning, a Capuchin Franciscan friar rose to speak. A
+so-called faith-based investor, Michael Crosby belonged to a tight
+circle of religious leaders who bought stock in public companies in the
+hope of exerting a moral influence on them. While Tillerson, head of one
+of the largest oil companies in the world and a power broker in
+international geopolitics, was accustomed to ignoring protesters, Crosby
+proved more tactical than most. He submitted a motion to appoint a
+climate-change expert to Exxon’s board, which gave him the floor for
+several minutes. Then he laid into Tillerson for having uttered “not one
+word or syllable” about climate change. He asked why Saudi Arabia
+invested in solar panels while Exxon spent nothing. “You’re living out
+of the past,” he told Tillerson.
+
+At Exxon’s annual meetings — as in most rooms where important business
+happens — people speak in the subdued patter of corporate jargon,
+language that camouflages the reality it describes. So in the 2,000-seat
+auditorium, it would have taken a moment to appreciate the gravity of
+what Crosby was actually describing, which was not a few numbers on a
+balance sheet but something closer to the fate of the species. Global
+energy consumption is rocketing upward every year: The Energy
+Information Administration expects it [to climb another 28
+percent](https://www.eia.gov/todayinenergy/detail.php?id=32912) within a
+generation. Hydropower, wind and solar contribute about 22 percent of
+the total, and their share grows yearly. But the net amount of energy
+generated by hydrocarbons is growing yearly, too. It’s all rising
+because demand is rising. Global hydrocarbon producers, meanwhile, have
+so much product in reserve that burning even half of it would leave us
+with slightly worse than heads-or-tails odds of staying under the
+two-degree-Celsius threshold that, according to climate models, could
+bring mass famine, drought, flooding and fires.
+
+*\[[One storied American institution is ready for the coming climate
+chaos: the
+Pinkertons](https://www.nytimes3xbfgragh.onion/interactive/2019/04/10/magazine/climate-change-pinkertons.html).\]*
+
+From his spot beneath the pipe organ, Tillerson regarded the friar.
+“Like it or not,” he said, the world would depend on fossil fuels “for
+the next several decades” — well into the middle of the century. This
+was Tillerson’s line whenever people asked him about the future of
+hydrocarbons: Remind them how dependent they are and paint alternatives
+as childlike fantasies. Tillerson said the motion for a climate-change
+expert would be defeated. Turning to renewables, he dismissed them as a
+sucker’s bet. “Quite frankly, Father Crosby,” he said, “we choose not to
+lose money on purpose.” The crowd at the Symphony Center showered him
+with applause.
+
+Three years later, an Irishman named Declan Flanagan, chief executive of
+the renewables company Lincoln Clean Energy, was addressing his own
+shareholders in Copenhagen when he delivered a cryptic announcement.
+Lincoln, he said, was going to build a solar farm in the Permian Basin —
+the heart of West Texas oil country — with funding put up by a
+“blue-chip counterparty.” Flanagan let this hang for a moment in the
+room while he breezed through a jargony update on regulatory matters.
+Finally he returned to the story. “I mentioned the blue-chip
+counterparty,” he reminded his listeners. “*That*,” he said in his
+strong Irish accent, “is Exxon
+Mobil.”
+
+<div id="interactive-14mag-exxon-pullquote1" class="rad-interactive large" data-id="100000006454167" data-slug="14mag-exxon-pullquote1">
+
+<div class="rad-interactive-wrapper">
+
+## 
+
+<div id="FT100000006454167">
+
+</div>
+
+</div>
+
+</div>
+
+Between Exxon’s meeting in Dallas and Flanagan’s announcement in
+Copenhagen, the oil giant had installed a new chief executive —
+Tillerson having exited for a brief sojourn in Washington — but had not
+experienced a change of heart. No decision had been made to execute a
+bootleg turn away from hydrocarbons. Exxon’s executives, like everyone
+in the energy business, had watched as the cost of renewable power
+tumbled ever lower in Texas, where a lattice of high-tension power lines
+carried electricity from the bright, windy plains of the far West and
+the Panhandle to the thirsty cities below. Far from feeling worried,
+Exxon saw an opportunity. Fracking is a very electricity-intensive
+method of extracting hydrocarbons. By using solar energy for just a
+portion of its operations in Texas, Exxon could save on electricity
+costs and keep more cash. It could profit by turning renewable power
+back into the hydrocarbon power it existed to replace.
+
+Exxon’s arrangement in Texas reflects, in miniature, our national state
+of indecision about the best approach to climate change. Depending on
+whom you ask, climate change doesn’t exist, or is an engineering
+problem, or requires global mobilization, or could be solved by simply
+nudging the free market into action. Absent a coherent strategy,
+opportunists can step in and benefit in wily ways from the shifting
+landscape. Tax-supported renewables in Texas take coal plants offline,
+but they also support oil extraction. Technology advances, but not the
+system underneath. Faced with this volatile and chaotic situation, the
+system does what it does best: It searches out profits in the short
+term.
+
+**Unlike almost every** other future event, climate change is 100
+percent certain to happen. What we don’t know is everything else: where,
+or how, or when, or what the changes mean for Facebook or Pfizer or
+notes of Chinese-government debt. Navigating these thickets of
+complexity is theoretically what Wall Street excels at; the industry
+prides itself on its ability to price risk for the whole economy, to
+determine companies’ values based on their likelihood of generating
+earnings. But traders are compensated on their quarterly or yearly
+performance, not on their distant foresight. It takes confidence to walk
+into your boss’s office talking about sea levels in Mozambique in 2030,
+when your colleague has a reason to short-sell the Turkish lira this
+week. Practically no one in the financial system is directly
+incentivized in the near term to worry about the biggest risk
+conceivable.
+
+The simplest response is to keep investing in companies that, like
+Exxon, conduct their business as usual while adapting where they can.
+Another response is to forget about the immediate term and go long on
+more sustainable bets. Al Gore, for instance, whiles away his hours
+running a climate-focused fund called Generation Investment Management.
+On a slightly higher plane sit the gigantic banks and mutual funds,
+which continue to invest traditionally but use “climate analytics” to
+see where their portfolios might contain problems, like public utilities
+that could be bankrupted by wildfires.
+
+*\[[Read David Leonhardt on the economics of climate
+change](https://www.nytimes3xbfgragh.onion/interactive/2019/04/09/magazine/climate-change-politics-economics.html).\]*
+
+Other strategies display more cleverness. Electric vehicles and green
+power grids require, for their batteries, valuable minerals and metals.
+Spot prices for nickel and cobalt fluctuate by double-digit percentages
+on commodities exchanges, while investors eye shares in lithium mines.
+Anticipating future food crises, strategists at Merrill Lynch advise
+clients to snap up vertical farms and “smart hydroponics”; anticipating
+water shortages, they also recommend investing in Chinese
+wastewater-recycling businesses.
+
+As the earth becomes hotter, the air becomes less dense. In June 2017 in
+Phoenix, airlines grounded multiple jets because their wings couldn’t
+achieve lift in the 119-degree heat. Assuming more 119-degree days,
+aerospace companies like MTU Aero Engines and Rolls-Royce are
+“lightweighting” some of their machines to adapt. In Australia, an
+agribusiness conglomerate waits for family farms to fold for lack of
+rainfall, then considers buying their land at a discount. With drought
+conditions, the chief executive told The Australian Financial Review
+last year, “we are seeing more opportunities than would have been there
+normally.” A real estate manager in Dallas told a Bloomberg reporter
+that he purchased hotels right before Hurricane Harvey to take advantage
+of the need for short-term housing, and made a 25 to 30 percent return.
+The Harvard endowment has bought up vineyards in California, acquiring
+their water rights in the midst of a long drought.
+
+By the middle of the century, the climate of the Southeastern United
+States will most likely be tropical, no longer ideal for peach trees but
+perfect for the Aedes aegypti species of disease-bearing mosquito. In
+response, some investors are going long on firms conducting clinical
+trials for dengue and Zika vaccines: One asset manager told me he knew
+of multiple “Zika strategies.” Pharmaceutical companies foresee robust
+demand for antimalarials, products typically confined to poor countries;
+they can look forward to a market in the rich parts of the globe. In
+Miami, where the expensive neighborhoods lie low near the water, there
+may be a wave of “widespread relocations,” [researchers
+warn](https://iopscience.iop.org/article/10.1088/1748-9326/aabb32), as
+the flight from the coast serves to “gentrify higher-elevation
+communities” like Little Haiti. One study warns that speculators may
+already be “hedging on South Florida’s gradual exodus” to the central
+and northern parts of the state. In Greenland, mining companies buy
+previously useless land rights in order to extract the minerals that
+melting ice will shortly expose. In addition to uranium and molybdenum —
+a silvery metal used in steel alloys — the miners expect to find rich
+reserves of oil, which they fully expect to burn.
+
+The Greenland play was best reported by McKenzie Funk, whose 2014 book,
+“Windfall,” profiles the first generation of climate profiteers.
+Schemers prowl these pages. A London “climate-change fund” invests in
+Russian farmland, whose value is expected to spike amid “drought-fueled
+global food crises.” Betting on the same thing, a former partner of
+A.I.G. flies to Sudan to strike a farmland-lease deal with a rebel
+general. A former C.I.A. analyst buys “billions of gallons of water” in
+the American Southwest and Australia. An Israeli entrepreneur goes long
+on desalination plants (some powered by coal, Funk notes).
+
+What is odd about many of these climate plays, which rely on such
+complex assumptions about the future, is how myopic they seem. They
+assume that the world will change around a stable, fixed point. American
+weather will curdle to such a degree that Tennessee will become an
+incubator for malaria, yet Wall Street banks and patent lawyers will
+saunter along as usual. Rising oceans will submerge coastal financial
+centers beneath several feet of saltwater, yet commodities markets will
+pay top dollar for Greenlandic uranium. Taken individually, these
+assumptions sound dubious. But as a whole, they mirror what’s happening
+on Wall Street. Each successive year incinerates the temperature figures
+of the previous one, yet the stock market continues to break records.
+
+**An unsettling fact** of Wall Street today is that some of the same
+people who accurately predicted the housing bubble are now describing
+another bubble, whose collapse will make the financial crisis of 2008
+look mild. Perhaps the most famous is Jeremy Grantham, a founder of the
+Boston-based asset-management firm G.M.O. and a commander of the British
+Empire. In 2005, Grantham began to write letters to his investors saying
+that the housing market appeared overleveraged; in 2007, he warned of
+“the first truly global bubble.” His latest prediction overshadows the
+preceding one. We are, he says, in the midst of a historic period of
+mispricing. Because the global economy depends on hydrocarbons,
+practically every asset in the world relates in some way to oil and gas.
+Grantham believes hydrocarbons will be priced, or regulated, into
+submission. In light of that belief, not only oil companies’ stock but
+practically everything else on the market looks falsely inflated.
+
+*\[[Read about new legal strategies to make the world’s biggest
+polluters pay for climate
+change](https://www.nytimes3xbfgragh.onion/interactive/2019/04/09/magazine/climate-change-peru-law.html).\]*
+
+In the last few years, Grantham has committed all but 2 percent of his
+personal fortune to funding projects — energy storage, pesticides,
+lightweight cars — that might help save us in the event of two degrees
+of warming. In June 2018, he gave a keynote address at an investment
+conference in Chicago. The two speeches before Grantham’s were called
+“Take a Balanced Approach to Sourcing Cash Flows” and “Making Sense of
+the Multitude of Multifactor ETFs.” Grantham called his speech [“The
+Race of Our
+Lives.”](https://www.morningstar.com/videos/870606/watch-jeremy-granthams-race-of-our-lives-speech.html)
+
+“You could call this presentation the story of carbon dioxide and Homo
+sapiens,” he began. Then he spoke for nearly an hour about glacial
+runoff, food scarcity and lithium batteries. He explained how a
+turbine’s efficiency increased exponentially with the length of its
+blades. He said that offshore wind farms in the churning North Sea could
+soon provide the cheapest power on the planet. He rose to a
+techno-utopian pitch, speaking about our obligations to our
+grandchildren, decency over profit. Even as he spoke lucidly about
+climate change, Grantham represented a tangled and confusing paradox.
+Perched as he was at the pinnacle of the market, he was developing an
+acute sense of the market’s failure to address the problem that most
+obsessed him. Yet he continued to help oversee a $70 billion firm, which
+was the main source of his wealth. If anyone was living inside the
+tortured contradictions between the market and the climate — between our
+modern economy and its ultimate external cost — Grantham, I thought, was
+the person.
+
+When I knocked on the door of his Beacon Hill townhouse at 8:45 in the
+morning on a Friday, the door swung open, and Grantham appeared on the
+staircase, 80 and impish, wearing a dark purple sweater over a
+pink-and-green striped shirt. “Were you waiting long?” he said. I
+followed him up into a second-story living room where winter light
+flooded the bay windows, falling on a hand-painted Dutch children’s
+sleigh from the 17th century. Grantham took my coat, then seated me on
+the couch. Every so often, a heat pipe hissed somewhere behind me.
+
+When Grantham started his climate fund, the Grantham Foundation, in
+1997, many asset managers on Wall Street viewed his work as a fringe
+pursuit. “There was an undercurrent of, ‘Oh, this is a load of
+\[expletive\],’ ” he said. During the past two years, however, the
+cavalcade of hurricanes, droughts, floods and displacements has made it
+impossible to maintain the same level of denial in the polite corporate
+circles that ring Wall Street. This did not mean that climate-based
+investment strategies had become popular. It was the opposite: No one
+was willing to risk all of his or her “career units,” as Grantham called
+them, on climate.
+
+“The problem of doing it accurately is, of course, massive,” he said,
+referring to betting on climate change. “It’s a fast-moving area with
+even more uncertainty than an uncertain world. It’s the cutting edge of
+uncertainty.”
+
+Grantham’s fund is going long on lithium and copper, which he believes
+will form the vascular system of future renewable-powered supergrids.
+His confidence derives from an odd and specific conviction that “sooner
+or later, there will be a carbon tax,” and much of the market
+capitalization of the leading oil and gas companies will be erased. “You
+have a certainty,” he said. “It will happen. Or we’ll be on our way to a
+failed
+civilization.”
+
+![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+It took me a moment to process what this meant. Grantham was saying that
+a bet on a future carbon tax was a sure thing because the absence of a
+carbon tax meant civilizational catastrophe. If he were right, he could
+make billions. If he were wrong, it wouldn’t matter, because the world
+would be on fire. “Perfectly fine logic,” Grantham said, as the old
+radiators gurgled around him.
+
+If Grantham’s logic was so perfect, why didn’t everyone see it? It’s
+often said, on Wall Street, that the stock market’s prices reflect all
+available information — an idea known as “efficient market theory.” The
+idea has dominated the financial sector for half a century. If it really
+were luminously obvious that a carbon bubble was about to explode, the
+theory says that prices should reflect that — in other words, that
+Grantham had no edge and his thesis made no sense.
+
+“They say everything’s priced in,” I ventured.
+
+“Complete \[expletive\],” Grantham said. Then he embarked on a detailed
+explanation of why, summarizing John Maynard Keynes’s theory of career
+risk — “that it is better for reputation to fail conventionally than to
+succeed unconventionally” — before returning to present-day Wall Street,
+where asset managers, impelled by short-term self-interest or outright
+denial, feared to stick their necks out on climate-related bets. Faced
+with such irrational behavior, efficient market theory seemed wobbly.
+“It’s \[expletive\] because people are incompetent,” Grantham
+continued, “it’s \[expletive\] because —”
+
+Around 10 a.m., his cellphone crackled to life, and a woman’s voice
+said: “Jeremy, you have to get to your next meeting.”
+
+For a second, Grantham appeared almost mournful. He held my coat up for
+me to put my arms through. Then he dashed downstairs into the snow.
+
+**The future site of** the solar farm that Lincoln is building for
+Exxon, the Permian Basin, is hilly and semiarid, with white caliche
+roads running toward the oil rigs and the nights punctured by the flames
+of natural-gas flares. Sometimes, when the wind picks up, the highways
+smell like sulfur. In recent years, the Permian became the most
+productive oil-and-gas field in the United States, as advancements in
+horizontal drilling and fracking technology made it possible to shatter
+the tightly packed shale. Exxon, Chevron and their peers can now access
+natural gas and oil that was previously unreachable, organic material
+that was deposited by surging oceans and subsiding land some 200 million
+years ago. If the Permian were a country, it would rank among the
+largest oil states in the world.
+
+Every cliché about oil booms applies right now in the Permian: the
+18-year-olds earning six figures driving trucks, the petrochemical
+Ph.D.s living in man-camps, the overtaxed public schools and doctors’
+offices. Unemployment in Midland, where Permian energy companies have
+their headquarters and where George W. Bush was raised, hovered this
+winter around 2.2 percent, the fourth-lowest metropolitan rate in the
+country. Yet the salient feature of the landscape is not the drilling
+infrastructure. For one thing, fracking takes place underground, in
+10,000-foot tunnels, no more than eight inches in diameter and marked by
+only a single wellhead. For another, you can’t keep your eyes off the
+wind turbines, which in certain counties seem studded in every acre of
+ranch land. Texas produces more wind power than every other state in the
+country, four times as much as the runner-up, California.
+
+The Texas power grid inspires awe. Every five minutes, 24 hours a day,
+the Electric Reliability Council of Texas calculates the cheapest power
+being produced from every kind of generator in the state, then sends
+that electricity down the path of least resistance to its customers.
+From Ercot’s perspective, it doesn’t matter whether the cheapest power
+comes from a solar panel or coal, or whether the customer is a
+greenhouse or an oil rig.
+
+Last April, Texas consumed about 25.7 million megawatts of power. Of
+that, 62 percent came from hydrocarbons and 27 percent from wind and
+solar. Electricity from all power sources feeds into the Ercot grid like
+tributaries into a river. Though Exxon’s deal with Lincoln is one of the
+most visible examples of a fossil-fuel company using renewable energy,
+in reality all the Permian extraction outfits consume it, whether or not
+they intend to, simply because the grid is designed to serve it to them.
+In 2017, demand for electricity rose 8 percent in West Texas, compared
+with 1 percent for the state’s grid as a whole. Warren Lasher, the
+senior director of system planning at Ercot, told me that most of that
+change comes from oil and gas.
+
+**Frosty Gilliam, an** independent oilman in the Permian, greeted me at
+the reception desk of his office, on a sparse stretch of business
+highway in Odessa, Tex., and beckoned me into a conference room
+decorated in what he described as a “Tuscan feel,” with marble,
+hand-troweled plaster and antique lamps. Sitting across from me at the
+darkly polished table, Gilliam was small and reticent, with glinting
+eyes and short white hair.
+
+Gilliam grew up in West Texas and earned his degree at Texas A\&M in
+petroleum engineering, graduating into the oil boom of the 1980s and
+easily finding a job at Amoco, the conglomerate that descended from John
+D. Rockefeller’s Standard Oil. In the late ’80s, as many small-time
+oil-and-gas entrepreneurs used to do in Texas, Gilliam started to build
+himself a business by scraping together mineral rights. His company,
+Aghorn Energy, now controls some 1,100 wells in the Permian, making him
+a relative lightweight.
+
+*\[How is climate change affecting your area? [We want to hear from
+you](https://www.nytimes3xbfgragh.onion/2019/03/11/reader-center/climate-change.html).\]*
+
+The atmosphere in the office was convivial, and I hesitated to raise a
+question that would poison it, but after half an hour I asked how he
+thought about climate change. For 14 seconds, Gilliam stared at me
+across the table, the hint of a smirk on his mouth.
+
+“Now you’re setting me up for a bunch of hate mail,” he said.
+Personally, he didn’t believe climate change was an important issue. He
+said that when he saw data about rising sea levels or scorching
+temperatures, he suspected it was falsified or manipulated in order to
+further a political agenda. Gilliam knew that many of the big energy
+companies were investing in renewables, and he viewed their maneuvers
+skeptically. “The politically correct path is, ‘We’re going to increase
+our renewable energy production by 10 percent a year,’ O.K.? But in
+reality, they make their business selling oil and gas, right?”
+
+For the most part Gilliam spoke in the first person, stressing to me
+that he was delivering only his own opinions. Toward the end of our time
+together, though, he switched into a collective voice, to explain the
+reaction you’d arouse if you showed up in West Texas in a Tesla. “We
+wouldn’t tar and feather you,” he said. “We would just think, Well, he
+has his opinion, but our opinion is that there’s not a problem.”
+
+The tension between the individual and the species, between Gilliam and
+the “we,” runs through the heart of capitalism and always has. In
+economics, there is a theory called the Lauderdale Paradox, which the
+Scottish politician James Maitland articulated in the early 19th
+century. The theory says that capitalism undervalues public resources,
+like air and water and soil, because they are so plentiful, and
+overvalues whatever is private and scarce. A barrel of oil sells for $50
+or $60, yet the emissions from that oil appear on no one’s balance
+sheet.
+
+When the paradox was first articulated, the mill industry of England was
+transitioning from water to coal, a long and contentious process. Coal
+allowed mill owners to site factories in cities, where wages were lower,
+and to run their machines at all hours. But water was cheaper, cleaner
+and more plentiful. In newspapers and private clubs, politicians and
+journalists fervently debated the merits of each fuel source, and
+England hovered for decades on the knife’s edge between two possible
+futures, until — as the scholar Andreas Malm recounts in “Fossil
+Capital,” a history of early industrialism — the more aggressive urban
+mill owners triumphed and the country switched to hydrocarbons. Seeing
+the whole problem like that, as a result of an economic arrangement
+rather than an unsparing fate or a flaw in human character, is
+exceedingly grim but also kind of optimistic. One system can dominate
+for a while, then another can sneak up and take its place.
+
+At the far end of Gilliam’s conference table, a surveyor’s map lay open,
+its corners secured by brown leather document weights. The map depicted
+a mineral play in which Gilliam had an interest, containing perhaps a
+few hundred thousand barrels’ worth of oil. PROVISIONAL & CONFIDENTIAL
+was stamped in red along the bottom. The map depicted the typical
+hydrocarbon infrastructure, like well locations and the large container
+drums known as tank batteries, shown as blue and yellow rectangles. But
+a checkerboard of gray lines had been drawn over these features,
+dividing the 3,700 acres into clean, even squares. I asked Gilliam what
+the squares were. “Solar farm,” he said, casually.
+
+</div>
+
+<div class="rad-corrections">
+
+##### **Correction** April 12, 2019
+
+An earlier version of this article mischaracterized, in one instance,
+G.M.O., the asset-management company. It is a firm, not a fund. And the
+article misstated Jeremy Grantham’s role at the firm. He does not manage
+the firm; he helps oversee it. The article also misstated the title of a
+speech by Grantham. It was “The Race of Our Lives,” not “Protect the
+Planet, Profit From Green Causes.”
+
+</div>
+
+<div class="rad-article-credits">
+
+Jesse Barron is a writer in Los Angeles. [He last wrote for the magazine
+about the environmentalist David
+Buckel.](https://www.nytimes3xbfgragh.onion/interactive/2018/12/27/magazine/lives-they-lived-david-buckel.html)
+
+</div>
+
+</div>
+
+<div class="mag-logo-wrapper">
+
+</div>
+
+<div class="rad-series-box" data-slug="14mag-exxon">
+
+## MORE CLIMATE
+
+<div class="rad-series-link-wrapper">
+
+  - [](https://www.nytimes3xbfgragh.onion/interactive/2019/04/11/magazine/climate-change-bangladesh-scavenging.html)
+    <div class="promo-image">
+    ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    </div>
+    <div class="promo-info">
+    ### What Survival Looks Like After the Oceans Rise
+    By ANDREA
+    FRAZZETTA
+    </div>
+  - [](https://www.nytimes3xbfgragh.onion/interactive/2019/04/10/magazine/climate-change-pinkertons.html)
+    <div class="promo-image">
+    ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    </div>
+    <div class="promo-info">
+    ### Climate Chaos Is Coming — and the Pinkertons Are Ready
+    By NOAH GALLAGHER
+    SHANNON
+    </div>
+  - [](https://www.nytimes3xbfgragh.onion/interactive/2019/04/09/magazine/climate-change-capitalism.html)
+    <div class="promo-image">
+    ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    </div>
+    <div class="promo-info">
+    ### The Next Reckoning: Capitalism and Climate Change
+    By NATHANIEL
+    RICH
+    </div>
+  - [](https://www.nytimes3xbfgragh.onion/interactive/2019/04/09/magazine/climate-change-politics-economics.html)
+    <div class="promo-image">
+    ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    </div>
+    <div class="promo-info">
+    ### The Problem With Putting a Price on the End of the World
+    By DAVID
+    LEONHARDT
+    </div>
+  - [](https://www.nytimes3xbfgragh.onion/interactive/2019/04/09/magazine/climate-change-peru-law.html)
+    <div class="promo-image">
+    ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    </div>
+    <div class="promo-info">
+    ### Climate Change Could Destroy His Home in Peru. So He Sued an Energy Company in Germany.
+    By BROOKE
+JARVIS
+    </div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="related-coverage" class="section related-coverage nocontent robots-nocontent">
+
+<div class="nocontent robots-nocontent">
+
+## More on NYTimes.com
+
+</div>
+
+</div>
+
+<div id="BottomAd" class="ad bottom-ad nocontent robots-nocontent">
+
+<div class="accessibility-ad-header">
+
+Advertisement
+
+</div>
+
+</div>
+
+</div>
+
+## Site Information Navigation
+
+  - [©
+    <span itemprop="copyrightYear">2020</span><span itemprop="copyrightHolder provider sourceOrganization" itemscope="" itemtype="http://schema.org/Organization" itemid="http://www.nytimes3xbfgragh.onion"><span itemprop="name">
+    The New York Times
+    Company</span></span>](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014792127-Copyright-notice)
+  - [Home](https://www.nytimes3xbfgragh.onion)
+  - [Search](https://www.nytimes3xbfgragh.onion/search/)
+  - Accessibility concerns? Email us at <accessibility@NYTimes.com>. We
+    would love to hear from you.
+  - [Contact
+    Us](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115015385887-Contact-Us)
+  - [Work with us](https://www.nytco.com/careers/)
+  - [Advertise](https://nytmediakit.com/)
+  - [Your Ad
+    Choices](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014892108-Privacy-policy#pp)
+  - [Privacy](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014892108-Privacy-policy)
+  - [Terms of
+    Service](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014893428-Terms-of-service)
+  - [Terms of
+    Sale](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014893968-Terms-of-sale)
+
+## Site Information Navigation
+
+  - [Site Map](https://spiderbites.nytimes3xbfgragh.onion)
+  - [Help](https://help.nytimes3xbfgragh.onion/hc/en-us)
+  - [Site
+    Feedback](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115015385887-Contact-Us?redir=myacc)
+  - [Subscriptions](https://www.nytimes3xbfgragh.onion/subscription?campaignId=37WXW)
+
+</div>
+
+</div>
+
+<div id="Inv1" class="ad inv1-ad hidden">
+
+</div>
+
+<div id="Inv2" class="ad inv2-ad hidden">
+
+</div>
+
+<div id="Inv3" class="ad inv3-ad hidden">
+
+</div>
+
+<div id="ab1" class="ad ab1-ad hidden">
+
+</div>
+
+<div id="ab2" class="ad ab2-ad hidden">
+
+</div>
+
+<div id="ab3" class="ad ab3-ad hidden">
+
+</div>
+
+<div id="prop1" class="ad prop1-ad hidden">
+
+</div>
+
+<div id="prop2" class="ad prop2-ad hidden">
+
+</div>
+
+<div id="Anchor" class="ad anchor-ad hidden">
+
+</div>
+
+<div id="ADX_CLIENTSIDE" class="ad adx-clientside-ad hidden">
+
+</div>

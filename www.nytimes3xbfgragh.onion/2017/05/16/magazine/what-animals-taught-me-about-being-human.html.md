@@ -1,0 +1,532 @@
+<div id="app">
+
+<div>
+
+<div>
+
+<div>
+
+<div class="NYTAppHideMasthead css-ikk3s8 e1suatyy0">
+
+<div class="section css-133zg39 e1suatyy2">
+
+<div class="css-eph4ug er09x8g0">
+
+<div class="css-6n7j50">
+
+</div>
+
+<span class="css-1dv1kvn">Sections</span>
+
+<div class="css-10488qs">
+
+<span class="css-1dv1kvn">SEARCH</span>
+
+</div>
+
+[Skip to content](#site-content)[Skip to site
+index](#site-index)
+
+</div>
+
+<div class="css-10698na e1huz5gh0">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div data-aria-hidden="false">
+
+<div id="site-content" data-role="main">
+
+<div>
+
+<div class="css-1aor85t" style="opacity:0.000000001;z-index:-1;visibility:hidden">
+
+<div class="css-1hqnpie">
+
+<div class="css-epjblv">
+
+<span class="css-z6pdnw">What Animals Taught Me About Being
+Human</span>
+
+</div>
+
+<div class="css-k008qs">
+
+<div class="css-1iwv8en">
+
+<span class="css-18z7m18"></span>
+
+<div>
+
+<div>
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-1n6z4y">https://nyti.ms/2rllJ7y</span>
+
+<div class="css-1705lsu">
+
+<div class="css-4xjgmj">
+
+<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+
+  - 
+  - 
+  - 
+  - 
+    
+    <div class="css-6n7j50">
+    
+    </div>
+
+  - 
+  - 
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-11qgg8s">
+
+</div>
+
+<div id="fullBleedHeaderContent">
+
+<div class="css-9fsmc8">
+
+![<span class="css-i48y28 e13ogyst0" data-aria-hidden="true">A family
+photograph of the writer with house sparrows in
+1979.</span><span class="css-ach9cc e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Alisdair
+Macdonald</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2017/05/21/magazine/21openeressay2/21openeressay2-articleLarge-v3.jpg?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+<div class="css-1pumfk">
+
+The Health Issue
+
+<div class="css-1vkm6nb ehdk2mb0">
+
+# What Animals Taught Me About Being Human
+
+</div>
+
+Surrounding myself with animals to feel less alone was a mistake: The
+greatest comfort is in knowing their lives are not about us at all.
+
+</div>
+
+<div class="css-nwzfg5 e1gnum310">
+
+<span class="css-1f9pvn2 magazine">A family photograph of the writer
+with house sparrows in
+1979.</span><span class="css-ach9cc e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Alisdair
+Macdonald</span></span></span>
+
+</div>
+
+<div id="sponsor-wrapper" class="css-1hyfx7x">
+
+<div id="sponsor-slug" class="css-19vbshk">
+
+Supported by
+
+</div>
+
+[Continue reading the main
+story](#after-sponsor)
+
+<div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
+
+</div>
+
+<div id="after-sponsor">
+
+</div>
+
+</div>
+
+<div class="css-1fl1393 e1gnum311">
+
+<div class="css-18e8msd">
+
+<div class="css-vp77d3 epjyd6m0">
+
+<div class="css-1baulvz">
+
+By <span class="css-1baulvz last-byline" itemprop="name">Helen
+Macdonald</span>
+
+</div>
+
+</div>
+
+  - May 16,
+    2017
+
+  - 
+    
+    <div class="css-4xjgmj">
+    
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    
+      - 
+      - 
+      - 
+      - 
+        
+        <div class="css-6n7j50">
+        
+        </div>
+    
+      - 
+      - 
+    
+    </div>
+    
+    </div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="section meteredContent css-1r7ky0e" name="articleBody" itemprop="articleBody">
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+<span class="css-ggqk20 ethc9we0">L</span>ong ago, when I was 9 or 10, I
+wrote a school essay on what I wanted to be when I grew up. I’ll be an
+artist, and I’ll keep a pet otter, I announced confidently, before
+adding, “as long as the otter is happy.” When I got back my exercise
+book, my teacher had commented, “But how can you tell if an otter is
+happy?” I boiled with indignation. Surely, I thought, otters would be
+happy if they had a soft place to sleep, could play, go exploring, make
+a friend (that would be me) and swim around in rivers catching fish. The
+fish were my only concession to the notion that an otter’s needs might
+not match my own. It never occurred to me that I might not understand
+the things an otter wanted, or understand much of what an otter might
+be. I thought animals were just like me.
+
+I was an odd, solitary child with an early and all-consuming compulsion
+to seek out wild creatures. Perhaps this was unfinished business related
+to losing my twin at birth: a small girl searching for her missing half,
+not knowing what she was looking for. I upended rocks for centipedes and
+ants, followed butterflies between flowers, lay facedown in meadows
+breathing in the perfume of roots and decay, transfixed by the sight of
+tiny insects the size of punctuation marks making their laborious way up
+blades of grass. I pored over field guides trying to learn the names of
+all these creatures — it seemed polite, like knowing the names of my
+classmates at school. Viewed close up, the profusion of life in a few
+square feet of vegetation astonished me, radically shifting my sense of
+scale and widening my world beyond the modest familiarities of classroom
+and
+home.
+
+</div>
+
+</div>
+
+<div style="max-width:100%;margin:0 auto">
+
+<div class="css-17dprlf" data-id="100000005099794" data-slug="21mag-health-nav" style="max-width:300px">
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+The creatures I met in the fields and woods around my house came to feel
+like a secret family, though I spent a lot of time chasing and catching
+them and not thinking much about how that made them feel. I was a child
+kneeling to extract a grasshopper from the closed cage of one hand,
+solemn with the necessity of gentleness, frowning as I took in the
+details of its netted wings, heraldically marked thorax, abdomen as
+glossy and engineered as jewelry. I wasn’t just finding out what animals
+looked like, but testing my capacity to navigate that perilous space
+between harm and care that was partly about understanding how much power
+over things I might have and partly how much power I had over myself,
+knowing that I could so easily hurt them. At home I kept insects and
+amphibians in a growing collection of glass aquariums and vivariums
+arranged on bedroom shelves and windowsills. Later they were joined by
+an orphaned crow, an injured jackdaw, a badger cub and a nest of baby
+bullfinches rendered homeless by a neighbor’s hedge-pruning. Looking
+after this menagerie taught me a lot about animal husbandry, but in
+retrospect my motives were selfish. Rescuing animals made me feel good
+about myself; surrounded by them, I felt less alone.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+My parents were wonderfully accepting of these eccentricities, putting
+up with seeds scattered on kitchen countertops and bird droppings in the
+hall with great good grace. But things weren’t so easy at school. To use
+a term from developmental psychology, social cognition wasn’t my forte.
+One morning I wandered off the court in the middle of a netball match to
+identify some nearby birdcalls and was bewildered by the rage this
+induced in my team. Things like this kept happening. I wasn’t good at
+teams. Or rules. Or any of the in-jokes and complicated allegiances of
+my peer group. Unsurprisingly, I was bullied. To salve this growing,
+biting sense of difference from my peers, I began to use animals to make
+myself disappear. By concentrating hard enough on insects, or by holding
+binoculars up to my eyes to bring wild birds close, I found that I could
+make myself go away. This method of finding refuge from difficulty was
+an abiding feature of my childhood.
+
+By the time I was in my 30s, I thought I’d grown out of this habit. I
+had been a falconer for many years, which was a surprising education in
+emotional intelligence. It taught me to think clearly about the
+consequences of my actions, to understand the importance of positive
+reinforcement and gentleness in negotiating trust. To know exactly when
+the hawk had had enough, when it would rather be alone. And most of all,
+to understand that the other party in a relationship might see a
+situation differently or disagree with me for its own good reasons.
+These were lessons about respect, agency and other minds that, I am
+embarrassed to confess, I was rather late in applying to people. I
+learned them first from
+birds.
+
+</div>
+
+</div>
+
+<div style="max-width:100%;margin:0 auto">
+
+<div class="css-17dprlf" data-id="100000005099382" data-slug="21opener-pq" style="max-width:300px">
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+But when I was 37, my father died, and all these lessons were suddenly
+forgotten. I wanted to be something as fierce and inhuman as a goshawk.
+So I lived with one. Watching her soar and hunt over hillsides near my
+home, I identified so closely with the qualities I saw in her that I
+forgot my grief. But I also forgot how to be a person, and fell into a
+deep depression. A hawk turned out to be a terrible model for living a
+human life. Once again, I had tried to escape emotional difficulty by
+filling my mind with a living creature. It was a failure, a mistake that
+revealed in retrospect the deepest lesson that animals have taught me:
+how easily and unconsciously we see other lives as mirrors of our own.
+
+**Animals don’t exist** in order to teach us things, but that is what
+they have always done, and most of what they teach us is what we think
+we know about ourselves. The purpose of animals in medieval bestiaries,
+for example, was to give us lessons in how to live. I don’t know anyone
+who now thinks of pelicans as models of Christian self-sacrifice, or the
+imagined couplings of vipers and lampreys as an allegorical exhortation
+for wives to put up with unpleasant husbands. But our minds still work
+like bestiaries. We thrill at the notion that we could be as wild as a
+hawk or a weasel, possessing the inner ferocity to go after the things
+we want; we laugh at animal videos that make us yearn to experience life
+as joyfully as a bounding lamb. A photograph of the last passenger
+pigeon makes palpable the grief and fear of our own unimaginable
+extinction. We use animals as ideas to amplify and enlarge aspects of
+ourselves, turning them into simple, safe harbors for things we feel and
+often cannot express.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+None of us see animals clearly. They’re too full of the stories we’ve
+given them. Encountering them is an encounter with everything you’ve
+ever learned about them from previous sightings, from books, images,
+conversations. Even rigorous scientific studies have asked questions of
+animals in ways that reflect our human concerns. In the late 1930s, for
+example, when the Dutch and Austrian ethologists Niko Tinbergen and
+Konrad Lorenz towed models resembling flying hawks above turkey chicks,
+they were trying to prove that these birds hatched with a hard-wired
+image resembling an airborne bird of prey already in their minds that
+compelled them to freeze in terror. While later research has suggested
+it is very likely that young turkeys actually learn what to fear from
+other turkeys, the earlier experiment is still valuable, not least for
+what it says about human fears. To me it seems shaped by the historical
+anxieties of a Europe threatened for the first time by large-scale
+aerial warfare, when pronouncements were made that “the bomber will
+always get through,” no matter how tight the national defense.
+
+Simply knowing that fragment of history, and knowing that domesticated
+turkey chicks freeze when hawks fly overhead, make them more complicated
+creatures than farmyard poultry or oven-ready carcasses. For the more
+time spent researching, watching and interacting with animals, the more
+the stories they’re made of change, turning into richer stories that can
+alter not only what you think of the animal but also who you are. It has
+broadened my notion of home to think of what that concept might mean to
+a nurse shark or a migratory barn swallow; altered my notion of family
+after I learned of the breeding systems of acorn woodpeckers, in which
+several males and females together raise a nest of young. No one I know
+thinks that humans should spawn like wave-borne grunion or subsist
+entirely on flies. But the various lives of creatures have led me to
+feel there might not be only one right way to express care, to feel
+allegiance, a love for place, a way of moving through the world.
+
+You cannot know what it is like to be a bat by screwing your eyes tight,
+imagining membranous wings, finding your way through darkness by talking
+to it in tones that reply to you with the shape of the world. As the
+philosopher Thomas Nagel explained, the only way to know what it is like
+to be a bat is to be a bat. But the imagining? The attempt? That is a
+good and important thing. It forces you to think about what you don’t
+know about the creature: what it eats, where it lives, how it
+communicates with others. The effort generates questions not just about
+how being a bat is different but about how different the world might be
+for a bat. For what an animal needs or values in a place is not always
+what we need, value or even notice. Muntjac deer have eaten the
+undergrowth where nightingales once nested in the forests near my home,
+and now those birds have gone. What to my human eye is a place of
+natural beauty is, for a nightingale, something like a desert. Perhaps
+this is why I am impatient with the argument that we should value
+natural places for their therapeutic benefits. It’s true that time
+walking in a forest can be beneficial to our mental health. But valuing
+a forest for that purpose traduces what forests are. They are not there
+for us alone.
+
+For some weeks, I’ve been worried about the health of family and
+friends. Today I’ve stared at a computer screen for hours. My eyes hurt.
+My heart does, too. Feeling the need for air, I sit on the step of my
+open back door and see a rook, a sociable species of European crow,
+flying low toward my house through gray evening air. Straightaway I use
+the trick I learned as a child, and all my difficult emotions lessen as
+I imagine how the press of cooling air might feel against its wings. But
+my deepest relief doesn’t come from imagining I can feel what the rook
+feels, know what the rook knows — instead, it’s slow delight in
+recognizing that I cannot. These days I take emotional solace from
+understanding that animals are not like me, that their lives are not
+about us at all. The house it’s flying over has meaning for both of us.
+To me, it is home. To a rook? A way point on a journey, a collection of
+tiles and slopes, useful as a perch or a thing to drop walnuts on in
+autumn to make them shatter and let it winkle out the flesh inside.
+
+Then there is something else. As it passes overhead, the rook tilts its
+head to regard me briefly before flying on. And with that glance I feel
+a prickling in my skin that runs down my spine, and my sense of place
+shifts. The rook and I have shared no purpose. For one brief moment we
+noticed each other, is all. When I looked at the rook and the rook
+looked at me, I became a feature of its landscape as much as it became a
+feature of mine. Our separate lives, for that moment, coincided, and all
+my anxiety vanished in that one fugitive moment, when a bird in the sky
+on its way somewhere else pulled me back into the world by sending a
+glance across the divide.
+
+</div>
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+<div id="bottom-wrapper" class="css-1ede5it">
+
+<div id="bottom-slug" class="css-l9onyx">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-bottom)
+
+<div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+</div>
+
+<div id="after-bottom">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+## Site Index
+
+<div>
+
+</div>
+
+## Site Information Navigation
+
+  - [© <span>2020</span> <span>The New York Times
+    Company</span>](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014792127-Copyright-notice)
+
+<!-- end list -->
+
+  - [NYTCo](https://www.nytco.com/)
+  - [Contact
+    Us](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115015385887-Contact-Us)
+  - [Work with us](https://www.nytco.com/careers/)
+  - [Advertise](https://nytmediakit.com/)
+  - [T Brand Studio](http://www.tbrandstudio.com/)
+  - [Your Ad
+    Choices](https://www.nytimes3xbfgragh.onion/privacy/cookie-policy#how-do-i-manage-trackers)
+  - [Privacy](https://www.nytimes3xbfgragh.onion/privacy)
+  - [Terms of
+    Service](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014893428-Terms-of-service)
+  - [Terms of
+    Sale](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014893968-Terms-of-sale)
+  - [Site
+    Map](https://spiderbites.nytimes3xbfgragh.onion)
+  - [Help](https://help.nytimes3xbfgragh.onion/hc/en-us)
+  - [Subscriptions](https://www.nytimes3xbfgragh.onion/subscription?campaignId=37WXW)
+
+</div>
+
+</div>
+
+</div>
+
+</div>

@@ -1,0 +1,1677 @@
+<div id="app">
+
+<div>
+
+<div>
+
+<div>
+
+<div class="NYTAppHideMasthead css-1q2w90k e1suatyy0">
+
+<div class="section css-ui9rw0 e1suatyy2">
+
+<div class="css-eph4ug er09x8g0">
+
+<div class="css-6n7j50">
+
+</div>
+
+<span class="css-1dv1kvn">Sections</span>
+
+<div class="css-10488qs">
+
+<span class="css-1dv1kvn">SEARCH</span>
+
+</div>
+
+[Skip to content](#site-content)[Skip to site
+index](#site-index)
+
+</div>
+
+<div id="masthead-section-label" class="css-1wr3we4 eaxe0e00">
+
+[World](https://www.nytimes3xbfgragh.onion/section/world)
+
+</div>
+
+<div class="css-10698na e1huz5gh0">
+
+</div>
+
+</div>
+
+<div id="masthead-bar-one" class="section hasLinks css-15hmgas e1csuq9d3">
+
+<div class="css-uqyvli e1csuq9d0">
+
+</div>
+
+<div class="css-1uqjmks e1csuq9d1">
+
+</div>
+
+<div class="css-9e9ivx">
+
+[](https://myaccount.nytimes3xbfgragh.onion/auth/login?response_type=cookie&client_id=vi)
+
+</div>
+
+<div class="css-1bvtpon e1csuq9d2">
+
+[Today’s
+Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div data-aria-hidden="false">
+
+<div id="site-content" data-role="main">
+
+<div>
+
+<div class="css-1aor85t" style="opacity:0.000000001;z-index:-1;visibility:hidden">
+
+<div class="css-1hqnpie">
+
+<div class="css-epjblv">
+
+<span class="css-17xtcya">[World](/section/world)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Covid-19
+Live Updates: Political Appointees Meddled in C.D.C.’s ‘Holiest of the
+Holy’ Health
+Reports</span>
+
+</div>
+
+<div class="css-k008qs">
+
+<div class="css-1iwv8en">
+
+<span class="css-18z7m18"></span>
+
+<div>
+
+</div>
+
+</div>
+
+<span class="css-1n6z4y">https://nyti.ms/3bZ2zNy</span>
+
+<div class="css-1705lsu">
+
+<div class="css-4xjgmj">
+
+<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+
+  - 
+  - 
+  - 
+  - 
+    
+    <div class="css-6n7j50">
+    
+    </div>
+
+  - 
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-13pd83m">
+
+<div class="css-l9svim">
+
+### [<span class="css-pa1jbp"><span class="css-1rxm0ex">The Coronavirus</span><span class="css-1rxm0ex"> Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?name=styln-coronavirus&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=22545620-f52c-11ea-a21f-29f6111ec990&variant=undefined)
+
+  - <span class="css-1qkutce">[Latest
+    Updates](https://www.nytimes3xbfgragh.onion/2020/09/12/world/covid-19-coronavirus.html?name=styln-coronavirus&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=22547d30-f52c-11ea-a21f-29f6111ec990&variant=undefined)</span>
+  - <span class="css-1qkutce">[Maps and
+    Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?name=styln-coronavirus&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=2254a440-f52c-11ea-a21f-29f6111ec990&variant=undefined)</span>
+  - <span class="css-1qkutce">[Vaccine
+    Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?name=styln-coronavirus&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=2254cb50-f52c-11ea-a21f-29f6111ec990&variant=undefined)</span>
+  - <span class="css-1qkutce">[F.D.A. Regulators’
+    Self-Defense](https://www.nytimes3xbfgragh.onion/2020/09/10/us/politics/fda-coronavirus-vaccine.html?name=styln-coronavirus&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=2254cb51-f52c-11ea-a21f-29f6111ec990&variant=undefined)</span>
+  - <span class="css-1qkutce">[Surprise Test
+    Fees](https://www.nytimes3xbfgragh.onion/2020/09/09/upshot/coronavirus-surprise-test-fees.html?name=styln-coronavirus&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=2254cb52-f52c-11ea-a21f-29f6111ec990&variant=undefined)</span>
+
+</div>
+
+</div>
+
+<div id="top-wrapper" class="css-1sy8kpn">
+
+<div id="top-slug" class="css-l9onyx">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
+
+<div id="sponsor-wrapper" class="css-1hyfx7x">
+
+<div id="sponsor-slug" class="css-19vbshk">
+
+Supported by
+
+</div>
+
+[Continue reading the main
+story](#after-sponsor)
+
+<div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
+
+</div>
+
+<div id="after-sponsor">
+
+</div>
+
+</div>
+
+<div class="css-14oxmzc edomiq20">
+
+<div class="css-40v4b6">
+
+<span class="css-sgss5">LIVE UPDATES</span>
+
+</div>
+
+<span>Updated </span>
+
+<div class="css-ki347z">
+
+<span class="css-1656jku">Sept. 12, 2020, 2:53 p.m.
+ET</span><span class="css-xwx5dt"></span>
+
+</div>
+
+<span class="css-1dv1kvn" data-aria-live="polite">Sept. 12, 2020, 2:53
+p.m.
+ET</span>
+
+</div>
+
+<div class="css-1vkm6nb ehdk2mb0">
+
+# Covid-19 Live Updates: Political Appointees Meddled in C.D.C.’s ‘Holiest of the Holy’ Health Reports
+
+</div>
+
+AstraZeneca’s vaccine trials resume in Britain after a safety
+review.<span class="css-8l6xbc evw5hdy0"> </span>A new study showed that
+children infected in child-care, some asymptomatic, spread the virus to
+their families.
+
+<div class="css-192lewg e1oheyly0">
+
+Right Now
+
+Officials in North Dakota reported more than 460 new cases, its
+single-day record, and West Virginia, which has had one of the lowest
+per capita rates of cases in the U.S., also hit a record, with more than
+340
+cases.
+
+</div>
+
+<div class="section meteredContent css-1r7ky0e" name="articleBody" itemprop="articleBody">
+
+<div class="css-19qgada">
+
+### Here’s what you need to know:
+
+  - [Trump appointees at the Health and Human Services Department have
+    meddled in the C.D.C.’s weekly disease reports.](#link-472a891e)
+  - [AstraZeneca’s vaccine trials are resuming after a safety review,
+    but only in Britain.](#link-42324357)
+  - [A Utah study reports that children infected in child-care spread
+    the virus to their households.](#link-5e5e617e)
+  - [‘A nightmare’: Those who battled Covid-19’s first wave at Brooklyn
+    Hospital reflect as they brace for a
+    second.<span class="css-8l6xbc evw5hdy0"> </span>](#link-4f963cde)
+  - [Protests grow over New Zealand’s continued lockdown
+    measures.](#link-5489dc38)
+  - [How has the pandemic affected people’s honesty?](#link-6ba08dd2)
+  - [Canada reports zero Covid-19 deaths in a 24-hour
+    period.](#link-2e6d7d13)
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Michael
+Caputo, a Republican political operative and former Trump campaign
+official, was installed by the White House as the top spokesman at the
+Department of Health and Human Services in
+April. </span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Mark
+Wilson/Getty
+Images</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/09/12/us/12virus-briefing-cdc-lede/12virus-briefing-cdc-lede-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+## 
+
+<div id="link-472a891e" class="css-105iojl">
+
+</div>
+
+<div>
+
+<span height="1"></span>
+
+</div>
+
+Trump appointees at the Health and Human Services Department have
+meddled in the C.D.C.’s weekly disease reports.
+
+Political appointees at the Department of Health and Human Services have
+repeatedly asked the Centers for Disease Control and Prevention to
+revise, delay and even scuttle reports on the coronavirus that they
+believed were unflattering to President Trump.
+
+Current and former senior health officials with direct knowledge of
+phone calls, emails and other communication between the agencies
+confirmed on Saturday [a report in
+Politico](https://www.politico.com/news/2020/09/11/exclusive-trump-officials-interfered-with-cdc-reports-on-covid-19-412809)
+late Friday that the C.D.C.’s public Morbidity and Mortality Weekly
+Reports have been targeted by senior officials in the Health and Human
+Services’ communications office.
+
+The reports, which one former top health official called the “holiest of
+the holy” in agency literature, are written largely for scientists and
+public health experts, to update them on trends in infectious diseases,
+not only the coronavirus<span class="css-8l6xbc evw5hdy0"> </span>but
+also other outbreaks around the country. They are guarded so closely by
+agency staff that political appointees only see them just before they
+are published.
+
+The reports became the subject of intense scrutiny this summer by
+Michael Caputo, a Republican political operative and former Trump
+campaign official the White House<span class="css-8l6xbc evw5hdy0">
+</span>[installed as the top
+spokesman](https://www.nytimes3xbfgragh.onion/2020/04/16/us/politics/michael-caputo-hhs.html)
+at the department<span class="css-8l6xbc evw5hdy0"> </span>in April,
+despite his having no background in health.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Mr. Caputo himself said on Saturday the Politico’s report was largely
+accurate, but he denied that there was any overt pressure involved. He
+said that the primary person involved in critiquing the reports, Paul
+Alexander, an assistant professor of health research at McMaster
+University in Canada whom<span class="css-8l6xbc evw5hdy0"> </span>he
+hired to advise<span class="css-8l6xbc evw5hdy0"> </span>him on the
+science of the pandemic, simply offered direct reactions to the drafts
+of the C.D.C.’s Morbidity and Mortality Weekly Reports.
+
+“He digs into these M.M.W.R.s and makes his position known, and his
+position isn’t popular with the career scientists sometimes,” Mr. Caputo
+said of Mr. Alexander. “That’s called science. Disagreement is science.
+Nobody has been ever ordered to do anything. Some changes have been
+accepted, most have been rejected. It’s my understanding that that’s how
+science is played.”
+
+In emails obtained by Politico and confirmed to The Times by a health
+official with direct knowledge of them, Mr. Alexander accused C.D.C.
+scientists of attempting to “hurt the president,” referring to the
+weekly reports as “hit pieces on the administration.” Mr. Alexander
+asked Dr. Robert R. Redfield, the C.D.C. director, to edit reports that
+had already been published that he believed overstated the risks of the
+virus for children and undermined the administration’s efforts to
+encourage school reopenings.
+
+The meddling from H.H.S. concerned Dr. Redfield, according to one former
+senior health official, who often pushed back when Mr. Caputo called to
+pester him about the reports.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Inside the C.D.C., employees expressed outrage and demoralization on
+Saturday over the reports of
+interference.
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div id="virus-dashboard-promo-article" class="section interactive-content interactive-size-scoop css-174j8de" data-id="100000007209771">
+
+<div class="css-17ih8de interactive-body" data-sourceid="100000007209771">
+
+<div id="g-2020-03-16-coronavirus-maps-embed" class="g-story g-freebird g-max-limit" data-prd-dropzone-below-masthead="100000006938224" data-preview-slug="2020-03-16-coronavirus-maps">
+
+<div class="g-asset g-svelte g-article-embed-dashboard" style="max-width: 1200px">
+
+<div class="g-svelte" data-component="1">
+
+<div class="dashboard svelte-18urhxx">
+
+## [Tracking the Coronavirus ›](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html)
+
+<div class="grid svelte-18urhxx">
+
+<div class="section svelte-18urhxx">
+
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html)
+
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>United States ›</strong></th>
+<th>On Sept. 11</th>
+<th>14-day<br />
+change</th>
+<th>Trend</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>New cases</td>
+<td>47,646</td>
+<td>–17%</td>
+<td><div class="chart-container svelte-17tqmls" style="color: #cc0000">
+
+</div></td>
+</tr>
+<tr class="even">
+<td>New deaths</td>
+<td>1,224</td>
+<td>–20%</td>
+<td><div class="chart-container svelte-17tqmls" style="color: #333">
+
+</div></td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+<div class="section charts-wrapper svelte-18urhxx">
+
+<div class="rising">
+
+### Where cases are **highest** per capita
+
+<div class="state-grid svelte-1k2jhqw">
+
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/north-dakota-coronavirus-cases.html)
+
+<div class="chart-container svelte-1k2jhqw">
+
+</div>
+
+N.D.
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/south-dakota-coronavirus-cases.html)
+
+<div class="chart-container svelte-1k2jhqw">
+
+</div>
+
+S.D.
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/missouri-coronavirus-cases.html)
+
+<div class="chart-container svelte-1k2jhqw">
+
+</div>
+
+Mo.
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/iowa-coronavirus-cases.html)
+
+<div class="chart-container svelte-1k2jhqw">
+
+</div>
+
+Iowa
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/arkansas-coronavirus-cases.html)
+
+<div class="chart-container svelte-1k2jhqw">
+
+</div>
+
+Ark.
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/oklahoma-coronavirus-cases.html)
+
+<div class="chart-container svelte-1k2jhqw">
+
+</div>
+
+Okla.
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/tennessee-coronavirus-cases.html)
+
+<div class="chart-container svelte-1k2jhqw">
+
+</div>
+
+Tenn.
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/alabama-coronavirus-cases.html)
+
+<div class="chart-container svelte-1k2jhqw">
+
+</div>
+
+Ala.
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/wisconsin-coronavirus-cases.html)
+
+<div class="chart-container svelte-1k2jhqw">
+
+</div>
+
+Wis.
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/kansas-coronavirus-cases.html)
+
+<div class="chart-container svelte-1k2jhqw">
+
+</div>
+
+Kan.
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/nebraska-coronavirus-cases.html)
+
+<div class="chart-container svelte-1k2jhqw">
+
+</div>
+
+Neb.
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/south-carolina-coronavirus-cases.html)
+
+<div class="chart-container svelte-1k2jhqw">
+
+</div>
+
+S.C.
+
+</div>
+
+</div>
+
+</div>
+
+<div class="section svelte-18urhxx">
+
+<div class="maps svelte-1o24jha">
+
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html)
+
+### U.S. hot spots ›
+
+![US coronavirus
+cases](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/dc9015512110e68e5a8253678d9addff3b2167f7/images/orphan_usa-threeByTwoSmallAt2X.png)
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/covid-college-cases-tracker.html)
+
+### College cases ›
+
+![Worldwide coronavirus
+cases](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/dc9015512110e68e5a8253678d9addff3b2167f7/images/orphan_colleges-threeByTwoSmallAt2X.png)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+## 
+
+<div id="link-42324357" class="css-105iojl">
+
+</div>
+
+<div>
+
+<span height="1"></span>
+
+</div>
+
+AstraZeneca’s vaccine trials are resuming after a safety review, but
+only in
+Britain.
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:257.77777777777777px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">A laboratory
+technician on Friday at an Italian vaccine manufacturing facility near
+Rome on Friday. The manufacturer, Catalent Biologics, is preparing for
+large-scale production and packaging in the event that the vaccine being
+worked on by AstraZenaca and Oxford University is
+approved. </span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Vincenzo
+Pinto/Agence France-Presse — Getty Images</span></span>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+The University of Oxford said it was moving ahead in the United Kingdom
+with trials of a coronavirus vaccine it developed in partnership with
+the pharmaceutical company AstraZeneca, after passing a safety review
+that was prompted when a participant in the United Kingdom appeared to
+have developed a serious neurological condition.
+
+The trials were placed on hold less than a week ago, as researchers
+[investigated](Http://www.nytimes3xbfgragh.onion/2020/09/08/health/coronavirus-astrazeneca-vaccine-safety.html)
+whether the vaccine may have been the cause. A safety panel reviewed the
+findings and notified the government’s Medicines Health Regulatory
+Authority, which then confirmed it was safe to restart the trials in
+Britain.
+
+A statement from the university on Saturday did not mention the
+prospects for trials that have been suspended held in India, Brazil,
+South Africa and the United States.
+
+The statement also did not offer any clarity about the patient’s
+condition. “We cannot disclose medical information about the illness for
+reasons of participant
+confidentiality,”<span class="css-8l6xbc evw5hdy0"> </span>the
+statement said. [A statement from
+AstraZeneca](https://www.astrazeneca.com/media-centre/press-releases/2020/covid-19-vaccine-azd1222-clinical-trials-resumed-in-the-uk.html)
+added that the relevant information would be shared with “all trial
+investigators and participants” and would also “be disclosed on global
+clinical registries, according to the clinical trial and regulatory
+standards.”
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+To date, roughly 18,000 individuals worldwide have already received this
+particular vaccine.<span class="css-8l6xbc evw5hdy0"> </span>AstraZeneca
+is one of just three companies with vaccines in late-stage clinical
+trials in the United States.
+
+While late-stage trials are designed to test whether vaccines are indeed
+safe across large populations, the university said it anticipated that
+some participants would experience adverse effects.
+
+<div id="NYT_MAIN_CONTENT_1_REGION" class="css-9tf9ac">
+
+<div>
+
+</div>
+
+</div>
+
+“In large trials such as this, it is expected that some participants
+will become unwell and every case must be carefully evaluated to ensure
+careful assessment of safety,” it [said in a
+statement](https://covid19vaccinetrial.co.uk/trial-resumes).
+
+Scientists largely [praised AstraZeneca’s
+decision](https://www.nytimes3xbfgragh.onion/2020/09/10/health/covid-astrazeneca-vaccine-trans.html)
+to pause trials and defer to a thorough review by an independent board
+of experts. The suspension appeared to be the second time that
+AstraZeneca has halted vaccine trials because of questions surrounding
+severe neurological symptoms in
+recipients.
+
+</div>
+
+</div>
+
+<div class="css-1sngw6j">
+
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html)
+
+<div class="css-1eoytci">
+
+![](https://static01.graylady3jvrrxbe.onion/images/2020/09/10/us/coronavirus-vaccine-tracker-promo-1599751853248/coronavirus-vaccine-tracker-promo-1599751853248-articleLarge.png)
+
+</div>
+
+<div class="css-1rha1bf">
+
+## Coronavirus Vaccine Tracker
+
+A look at all the vaccines that have reached trials in humans.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+## 
+
+<div id="link-5e5e617e" class="css-105iojl">
+
+</div>
+
+<div>
+
+<span height="1"></span>
+
+</div>
+
+A Utah study reports that children infected in child-care spread the
+virus to their
+households.
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:257.77777777777777px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">A teacher
+directs students in the library at Freedom Preparatory Academy on
+Thursday in Provo,
+Utah.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>George
+Frey/Agence France-Presse — Getty Images</span></span>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+A [report](https://www.cdc.gov/mmwr/volumes/69/wr/mm6937e3.htm)
+published Friday by the Centers for Disease Control and Prevention found
+that young children at three child-care facilities in Utah transmitted
+the virus to staff members, family and the surrounding community, even
+while some of the children were asymptomatic.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+The findings undermine some previous assertions about the likelihood
+that the very young could spread the virus.
+[Studies](https://www.nytimes3xbfgragh.onion/2020/07/18/health/coronavirus-children-schools.html#:~:text=A%20large%20new%20study%20from,as%20well%20as%20adults%20do)
+from South Korea and other countries have suggested that children under
+10 are less likely to spread the virus than adults.
+
+The new research, published Friday, traced cases at three Salt Lake City
+facilities, including one in which an 8-month-old contracted the virus
+and transmitted it to both parents.
+
+Researchers reviewed the contact-tracing data related to outbreaks at
+the child-care facilities between April 1 and July 10. The study found
+that during that time at least 184 people, 74 adults and 110 children,
+had been exposed to someone with the virus in those facilities. At two
+of the facilities, the children were all younger than 10; the third had
+an age range up to 13.
+
+Of the 184 people exposed, 31 later tested positive for the virus,
+including 13 children.<span class="css-8l6xbc evw5hdy0"> </span>The
+study reported that 12 of those children had passed the virus along to
+at least 12 of their 46 contacts outside the centers. “Six of these
+cases occurred in mothers and three in siblings of the pediatric
+patients,” the study said. At least one parent was hospitalized.
+
+The study had several critical limitations:
+
+  - The source of an outbreak at one of the facilities was never found,
+    making it impossible to determine if transmission can be attributed
+    to the facility or to general community spread.
+
+<!-- end list -->
+
+  - The testing strategy changed over time. For at least part of the
+    study only symptomatic individuals were tested, which may have led
+    to an undercount of cases.
+
+  - Each of the three facilities was closed for some portion of the
+    study period, during a statewide lockdown, limiting is use in
+    suggesting patterns for child-care facilities at large.
+
+Between April and July 10, when the study was conducted, guidance from
+public health experts shifted drastically, most notably regarding face
+coverings. In Utah, a mask mandate was not issued until July 23 and
+[never applied to “children in a child-care
+setting.”](https://governor.utah.gov/wp-content/uploads/sites/40/2020/07/EO-2020-45-Extending-Face-Coverings-Requirement-in-State-Facilities.pdf)
+
+The study’s authors recommended that workers at child-care facilities
+wear masks at all times, especially when children are too young to wear
+them, and emphasized the importance of regular testing with timely
+results.
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+## 
+
+<div id="link-4f963cde" class="css-105iojl">
+
+</div>
+
+<div>
+
+<span height="1"></span>
+
+</div>
+
+‘A nightmare’: Those who battled Covid-19’s first wave at Brooklyn
+Hospital reflect as they brace for a
+second.<span class="css-8l6xbc evw5hdy0">
+</span>
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:257.77777777777777px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Anna
+Markovinovic is a nurse in the Neonatal Intensive Care Unit at The
+Brooklyn Hospital Center in New
+York.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Victor
+J. Blue for The New York Times</span></span>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+During the surge of Covid-19 cases this spring that filled the Brooklyn
+Hospital Center’s emergency room and intensive care unit with the
+critically ill and the dying, the staff went in day after day, trying to
+save as many lives as they could.
+
+A photographer for The Times, Victor J. Blue, created a series of
+portraits of these hospital workers during that grueling first wave. He
+and Sheri Fink, the reporter who spent days inside the hospital then,
+later interviewed them with a colleague, Catrin Einhorn, as they braced
+for a second wave.
+
+From the doctors and nurses to the workers serving behind the scenes,
+all [understood their roles were both critical and potentially
+fatal](https://www.nytimes3xbfgragh.onion/2020/09/11/nyregion/coronavirus-brooklyn-hospital-workers.html).
+Fighting the pandemic required sacrifice and courage from workers of all
+stripes, in the laundry room and the supply depot, the laboratory and
+the security desk, all the way to the chief executive’s office.
+
+Many spoke in battle metaphors. The virus seemed to come from all sides,
+they said, and threatened to spare no one. They talked about the front
+line, and being called to duty, and “training for war.”
+
+“Even when I think about it right now,” said Dr. Kiran Zaman, a critical
+care fellow, “it gives me goosebumps. It was a very scary, very
+overwhelming experience. It was a nightmare.”
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+## 
+
+<div id="link-5489dc38" class="css-105iojl">
+
+</div>
+
+<div>
+
+<span height="1"></span>
+
+</div>
+
+Protests grow over New Zealand’s continued lockdown measures.
+
+</div>
+
+</div>
+
+![<span class="css-16f3y1r e13ogyst0">More than 1,000 demonstrators
+marched in Auckland, New Zealand, on Saturday to oppose the country’s
+lingering coronavirus lockdown
+measures.</span><span class="css-cch8ym"><span class="css-1dv1kvn">Credit</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Associated
+Press</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/09/12/video/12vid-NZ-protest-still/12vid-NZ-protest-still-videoSixteenByNineJumbo1600.jpg)
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+More than 1,000 protesters gathered in Auckland, New Zealand, on
+Saturday for a “freedom rally” aimed at opposing the country’s lingering
+lockdown — a demonstration that included a woman who, for critics of the
+lockdown, has come to exemplify the harshness of the nation’s approach
+to the pandemic.
+
+Known simply as LK, the woman was sentenced last month to 14 days in
+jail for leading her three children out of a quarantine facility to
+attend a funeral for the children’s father after they had tested
+negative for the virus. On Saturday, she appeared but did not speak.
+
+“She is one New Zealander who has suffered a considerable loss because
+of the government’s responses to Covid-19,” said one of the day’s
+speakers.
+
+Auckland is still under Alert Level 2.5, meaning that social gatherings
+of more than 10 people are not allowed.
+
+But with only two new cases of community transmission reported on
+Saturday — and 108 active cases nationwide — critics are questioning
+whether the New Zealand government has been too slow to ease
+restrictions. Weekly protests against the lockdown have been growing.
+
+“We want our rights and freedom back,” Jami-Lee Ross, a leader of
+Advance NZ, a new fringe political party that says it stands for freedom
+and sovereignty. He told the crowd that living in lockdown was “wrong
+and needed to stop.”
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+The authorities were mostly passive. As the crowd marched peacefully
+through downtown Auckland, carrying signs and chanting “we do not
+consent,” police officers wearing masks simply watched.
+
+## 
+
+<div id="link-6ba08dd2" class="css-105iojl">
+
+</div>
+
+<div>
+
+<span height="1"></span>
+
+</div>
+
+How has the pandemic affected people’s
+honesty?
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:253.91111111111113px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">A recent
+study found that U.S. adults who believed they had contracted the
+coronavirus couldn’t always be counted on to be honest about their
+symptoms.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Jose
+Luis Magana/Associated Press</span></span>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+A recent Brock University study of 451 adults ages 20 to 82 in the
+United States found that people who believed they had contracted the
+coronavirus weren’t always honest about it. Thirty-four percent of
+participants who had tested positive said they had denied having
+symptoms when asked by others, and 55 percent reported some level of
+concealment of their symptoms.
+
+Twenty-five percent of participants reported that they had in some way
+concealed their physical distancing practices. That rate increased among
+those with Covid-19, according to the study, [published last month in
+The Journal of Health
+Psychology](https://journals.sagepub.com/doi/10.1177/1359105320951603).
+
+Women were more likely to disclose health symptoms than men were,
+researchers said, and older adults were more honest about their virus
+status and behaviors.
+
+But the exact reasoning behind lying during the pandemic is complicated
+and may be related to the environment, according to David M. Castro, a
+psychotherapist and adjunct professor of psychology at Adelphi
+University and the City College of New York.
+
+“I think that so much is barred from someone right now,” Dr. Castro
+said. “There’s a lot of loneliness, a lot of depression stemming from
+loneliness.”
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Robert Feldman, a professor of psychological and brain sciences at the
+University of Massachusetts Amherst and author of “[The Liar in Your
+Life: The Way to Truthful
+Relationships](https://www.hachettebookgroup.com/titles/robert-feldman/the-liar-in-your-life/9780446552196/),”
+said his research showed that people typically tell three lies within
+the first 10 minutes of meeting someone else.
+
+“It’s part of what we do as members of society,” he said. “We tell
+people that we’re feeling well when we’re not feeling so well.”
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+GLOBAL ROUNDUP
+
+## 
+
+<div id="link-2e6d7d13" class="css-105iojl">
+
+</div>
+
+<div>
+
+<span height="1"></span>
+
+</div>
+
+Canada reports zero Covid-19 deaths in a 24-hour
+period.
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:259.06666666666666px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Waiting to
+enter a coronavirus testing clinic in Montreal on
+Monday.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Graham
+Hughes/The Canadian Press, via Associated Press</span></span>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Canada reported zero deaths linked to Covid-19 in a 24-hour period on
+Friday night, according to government data, even as the number of new
+cases in the country has ticked slowly upward as [restrictions
+ease](https://www.nytimes3xbfgragh.onion/2020/06/26/world/canada/canada-reopens-but-little-returns-to-the-old-ways.html)
+and [schools
+reopen](https://www.nytimes3xbfgragh.onion/reuters/2020/09/03/us/03reuters-health-coronavirus-canada-education.html)
+for in-person classes.
+
+There had been at least 135,600 confirmed coronavirus cases in Canada as
+of Friday evening, [according to the
+government](https://www.nytimes3xbfgragh.onion/interactive/2020/world/canada/canada-coronavirus-cases.html).
+The number of new cases being reported daily has fallen significantly
+from an early May peak of nearly 3,000 cases, and now averages a few
+hundred a day. But as of Thursday, the average number of new daily cases
+was up nearly 50 percent compared with a few weeks earlier.
+
+Four Canadian provinces — Alberta, British Columbia, Ontario and Quebec
+— account for most of the cases that the country has reported over the
+past week. Those provinces also accounted for all of the 23 virus-deaths
+reported over the same period. This week, Ontario, Canada’s most
+populous province, said it would take a four-week “pause” before
+considering loosening restrictions or allowing further economic
+reopening.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Canada has previously reported zero Covid-19 deaths in 24-hour periods,
+although measuring that can be imprecise because of delays in reporting.
+The average number of daily reported deaths over the past week is three.
+
+In the United States, as of Thursday the average number of daily
+reported deaths over the past week was 702.
+
+Other pandemic developments around the world:
+
+  - **India** again broke a record for daily new cases, reporting 97,750
+    on Saturday, [according to a Times
+    database](https://www.nytimes3xbfgragh.onion/interactive/2020/world/asia/india-coronavirus-cases.html).
+    The previous record, set Friday, was 96,551.
+
+## 
+
+<div id="link-52626321" class="css-105iojl">
+
+</div>
+
+<div>
+
+<span height="1"></span>
+
+</div>
+
+When film festivals require social distance, generating a buzz is tough
+for smaller
+productions.
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:257.77777777777777px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">“Concrete
+Cowboy” had its debut this week in a Los Angeles parking
+lot.  </span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Alex
+Welsh for The New York Times</span></span>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+About 70 cars crammed into a downtown Los Angeles parking lot surrounded
+by high rises and a smattering of food trucks on Thursday night to watch
+“Concrete Cowboy,” a father-son film starring Idris Elba and set in
+northern Philadelphia’s Black cowboy community.
+
+In terms of movie premieres, it was unorthodox.
+
+“It is a dream come true,” Ricky Staub, the 37-year-old white filmmaker
+making his directorial debut, said while standing in front of a huge
+screen. “I don’t know when you dream of releasing your movie it’s at a
+drive-in, but I never dreamed that my first movie would be an all-Black
+western set in Philly.”
+
+Mr. Staub had ambitious plans when “Concrete Cowboy” landed coveted
+spots in the Telluride and Toronto film festivals. The plans all changed
+when Telluride was canceled because of the pandemic and Toronto opted
+for a hybrid model that features in-person screenings for Canadian
+audiences and a virtual version for everyone else.
+
+For small indie films like “Concrete Cowboy,” the loss of traditional
+film festivals means not having a chance to build word-of-mouth momentum
+that could be the difference between becoming an unlikely Oscar darling
+or another also-ran in the video-on-demand market.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+At the Venice Film Festival, held in person with certain safety
+restrictions, “One Night in Miami” — the directorial debut of the
+Oscar-winning actress Regina King — has already generated early awards
+chatter. Amazon recently bought it in a bidding war.
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+## 
+
+<div id="link-73bbaf5" class="css-105iojl">
+
+</div>
+
+<div>
+
+<span height="1"></span>
+
+</div>
+
+How China brought nearly 200 million students back to
+school.
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:257.1333333333334px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Students at
+Changchun Street Primary School in Wuhan, China, during a media tour
+organized by the local authorities last
+week.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Hector
+Retamal/Agence France-Presse — Getty Images</span></span>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Under bright blue skies, nearly 2,000 students gathered this month for
+the start of school at Hanyang No. 1 High School in Wuhan, the Chinese
+city where the coronavirus first emerged.
+
+Medical workers stood guard at school entrances, taking temperatures.
+Administrative officials reviewed the students’ travel histories and
+[coronavirus test
+results](https://www.nytimes3xbfgragh.onion/2020/05/26/world/asia/coronavirus-wuhan-tests.html).
+Local Communist Party cadres kept watch, making sure teachers followed
+detailed instructions on hygiene and showed an “anti-epidemic spirit.”
+
+“I’m not worried,” a music teacher at the school, Yang Meng, said in an
+interview. “Wuhan is now the safest place.”
+
+As countries around the world [struggle to safely reopen
+schools](https://www.nytimes3xbfgragh.onion/2020/09/01/world/schools-reopen-globe-students.html),
+China’s Communist Party is harnessing the power of its authoritarian
+system to offer in-person learning for about 195 million students in
+kindergarten through 12th grade at public schools.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+In many ways, China is applying the same heavy-handed model to reopen
+schools that it has used to [bring the virus under
+control](https://www.nytimes3xbfgragh.onion/2020/03/07/world/asia/china-coronavirus-cost.html).
+To stop the epidemic, the authorities imposed [harsh
+lockdowns](https://www.nytimes3xbfgragh.onion/2020/02/06/world/asia/coronavirus-china-wuhan-quarantine.html)
+and deployed [invasive technologies to track
+residents](https://www.nytimes3xbfgragh.onion/2020/05/26/technology/china-coronavirus-surveillance.html),
+raising public anger in some places and concerns about the erosion of
+privacy and civil liberties.
+
+China’s leader, [Xi Jinping, said in a
+speech](https://www.nytimes3xbfgragh.onion/2020/09/07/world/covid-19-coronavirus.html#link-adc17f7)
+on Tuesday that the country’s progress in fighting the virus, including
+the opening of schools, had “fully demonstrated the clear superiority of
+Communist Party leadership and our socialist system.
+
+“The Chinese system moves by itself,” said Yong Zhao, a scholar at the
+University of Kansas who has studied education in China. “The system is
+run like a military: It just goes for it, no matter what anyone thinks.”
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+## 
+
+<div id="link-347ca52" class="css-105iojl">
+
+</div>
+
+<div>
+
+<span height="1"></span>
+
+</div>
+
+A federal unemployment program provokes growing concern about fraudulent
+claims.
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:257.77777777777777px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">More than 30
+envelopes from the California unemployment office arrived at Barbara
+Lamb’s vacant rental unit, all with unfamiliar
+names.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Jim
+Wilson/The New York Times</span></span>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+California is at the center of increasing concerns about extensive fraud
+in a federal program that provides unemployment benefits to freelancers,
+part-time workers and others lacking a safety net in the pandemic.
+
+At the same time, there is growing evidence of problems keeping track of
+how many people are being paid through the program. The Labor Department
+has reported about 15 million claims for benefits nationwide. A
+comparison of state and federal records by The New York Times suggests
+that total may overstate the number of recipients by five million or
+more.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+The program, Pandemic Unemployment Assistance, is part of a $2.2
+trillion relief package enacted in March. In the latest Labor Department
+tally, the program accounted for nearly half the total recipients
+collecting jobless benefits of any kind.
+
+It appears that nearly seven million people are collecting Pandemic
+Unemployment Assistance benefits in California alone, far more than its
+population would suggest. The state’s own data suggests that the number
+may be less than two million. Experts on the unemployment system say
+such discrepancies seem to reflect multiple counting of individual
+applications as states rushed out payments.
+
+But a surge in new claims in California is attributed not to accounting,
+but to fraud.
+
+Fraud is not uncommon in hastily assembled disaster programs, but signs
+of trouble with this program have been surfacing for months as people
+who did not file claims found benefits issued in their names. A growing
+number of states have signaled that the problems with the program go
+beyond the routine.
+
+Colorado said on Thursday that in a six-week stretch this summer, 77
+percent of new claims under the program were not legitimate.
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Reporting was contributed by Noah Weiland, Sheryl Gay Stolberg, Abby
+Goodnough, Ben Casselman, Damien Cave, Patricia Cohen, Helene Cooper,
+Conor Dougherty, Rebecca Halleck, Javier C. Hernández, Jonathan Huang,
+Mike Ives, Apoorva Mandavilli, Zach Montague, Dan Powell, Nelson D.
+Schwartz, Nicole Sperling, Jim Tankersley, Derrick Bryson Taylor and
+Carl Zimmer.
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+<div id="bottom-wrapper" class="css-1ede5it">
+
+<div id="bottom-slug" class="css-l9onyx">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-bottom)
+
+<div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+</div>
+
+<div id="after-bottom">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+## Site Index
+
+<div>
+
+</div>
+
+## Site Information Navigation
+
+  - [© <span>2020</span> <span>The New York Times
+    Company</span>](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014792127-Copyright-notice)
+
+<!-- end list -->
+
+  - [NYTCo](https://www.nytco.com/)
+  - [Contact
+    Us](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115015385887-Contact-Us)
+  - [Work with us](https://www.nytco.com/careers/)
+  - [Advertise](https://nytmediakit.com/)
+  - [T Brand Studio](http://www.tbrandstudio.com/)
+  - [Your Ad
+    Choices](https://www.nytimes3xbfgragh.onion/privacy/cookie-policy#how-do-i-manage-trackers)
+  - [Privacy](https://www.nytimes3xbfgragh.onion/privacy)
+  - [Terms of
+    Service](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014893428-Terms-of-service)
+  - [Terms of
+    Sale](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014893968-Terms-of-sale)
+  - [Site
+    Map](https://spiderbites.nytimes3xbfgragh.onion)
+  - [Help](https://help.nytimes3xbfgragh.onion/hc/en-us)
+  - [Subscriptions](https://www.nytimes3xbfgragh.onion/subscription?campaignId=37WXW)
+
+</div>
+
+</div>
+
+</div>
+
+</div>

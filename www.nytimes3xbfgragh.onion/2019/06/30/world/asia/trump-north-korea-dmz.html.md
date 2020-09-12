@@ -1,0 +1,679 @@
+<div id="app">
+
+<div>
+
+<div>
+
+<div>
+
+<div class="NYTAppHideMasthead css-1q2w90k e1suatyy0">
+
+<div class="section css-ui9rw0 e1suatyy2">
+
+<div class="css-eph4ug er09x8g0">
+
+<div class="css-6n7j50">
+
+</div>
+
+<span class="css-1dv1kvn">Sections</span>
+
+<div class="css-10488qs">
+
+<span class="css-1dv1kvn">SEARCH</span>
+
+</div>
+
+[Skip to content](#site-content)[Skip to site index](#site-index)
+
+</div>
+
+<div id="masthead-section-label" class="css-1wr3we4 eaxe0e00">
+
+[Asia
+Pacific](https://www.nytimes3xbfgragh.onion/section/world/asia)
+
+</div>
+
+<div class="css-10698na e1huz5gh0">
+
+</div>
+
+</div>
+
+<div id="masthead-bar-one" class="section hasLinks css-15hmgas e1csuq9d3">
+
+<div class="css-uqyvli e1csuq9d0">
+
+</div>
+
+<div class="css-1uqjmks e1csuq9d1">
+
+</div>
+
+<div class="css-9e9ivx">
+
+[](https://myaccount.nytimes3xbfgragh.onion/auth/login?response_type=cookie&client_id=vi)
+
+</div>
+
+<div class="css-1bvtpon e1csuq9d2">
+
+[Today’s
+Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div data-aria-hidden="false">
+
+<div id="site-content" data-role="main">
+
+<div>
+
+<div class="css-1aor85t" style="opacity:0.000000001;z-index:-1;visibility:hidden">
+
+<div class="css-1hqnpie">
+
+<div class="css-epjblv">
+
+<span class="css-17xtcya">[Asia
+Pacific](/section/world/asia)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Trump
+Steps Into North Korea and Agrees With Kim Jong-un to Resume
+Talks</span>
+
+</div>
+
+<div class="css-k008qs">
+
+<div class="css-1iwv8en">
+
+<span class="css-18z7m18"></span>
+
+<div>
+
+</div>
+
+</div>
+
+<span class="css-1n6z4y">https://nyti.ms/2Xd8VQi</span>
+
+<div class="css-1705lsu">
+
+<div class="css-4xjgmj">
+
+<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+
+  - 
+  - 
+  - 
+  - 
+    
+    <div class="css-6n7j50">
+    
+    </div>
+
+  - 
+  - 
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-13pd83m">
+
+</div>
+
+<div id="top-wrapper" class="css-1sy8kpn">
+
+<div id="top-slug" class="css-l9onyx">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
+
+<div id="sponsor-wrapper" class="css-1hyfx7x">
+
+<div id="sponsor-slug" class="css-19vbshk">
+
+Supported by
+
+</div>
+
+[Continue reading the main
+story](#after-sponsor)
+
+<div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
+
+</div>
+
+<div id="after-sponsor">
+
+</div>
+
+</div>
+
+<div class="css-1vkm6nb ehdk2mb0">
+
+# Trump Steps Into North Korea and Agrees With Kim Jong-un to Resume Talks
+
+</div>
+
+![<span class="css-16f3y1r e13ogyst0">President Trump became the first
+American commander in chief to set foot in North Korea on Sunday. He
+greeted the country’s leader at a last-minute meeting at the
+Demilitarized
+Zone.</span><span class="css-cch8ym"><span class="css-1dv1kvn">Credit</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Erin
+Schaff/The New York
+Times</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2019/07/01/world/30prexy04/30prexy04-videoSixteenByNine3000.jpg)
+
+<div class="css-xt80pu e12qa4dv0">
+
+<div class="css-18e8msd">
+
+<div class="css-vp77d3 epjyd6m0">
+
+<div class="css-1baulvz">
+
+By [<span class="css-1baulvz" itemprop="name">Peter
+Baker</span>](https://www.nytimes3xbfgragh.onion/by/peter-baker) and
+[<span class="css-1baulvz last-byline" itemprop="name">Michael
+Crowley</span>](https://www.nytimes3xbfgragh.onion/by/michael-crowley)
+
+</div>
+
+</div>
+
+  - June 30,
+    2019
+
+  - 
+    
+    <div class="css-4xjgmj">
+    
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    
+      - 
+      - 
+      - 
+      - 
+        
+        <div class="css-6n7j50">
+        
+        </div>
+    
+      - 
+      - 
+    
+    </div>
+    
+    </div>
+
+</div>
+
+</div>
+
+<div class="section meteredContent css-1r7ky0e" name="articleBody" itemprop="articleBody">
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+SEOUL, South Korea — President Trump on Sunday became the first sitting
+American commander in chief to set foot in North Korea as he met Kim
+Jong-un, the country’s leader, at the heavily fortified Demilitarized
+Zone, and the two agreed to restart negotiations on a long-elusive
+nuclear agreement.
+
+Greeted by a beaming Mr. Kim, the president stepped across a low
+concrete border marker at 3:46 p.m. local time and walked 20 paces to
+the base of a building on the North Korean side for an unprecedented,
+camera-friendly demonstration of friendship intended to revitalize
+stalled talks.
+
+“It is good to see you again,” an exuberant Mr. Kim told the president
+through an interpreter. “I never expected to meet you in this place.”
+
+“Big moment, big moment,” Mr. Trump told him.
+
+After about a minute on officially hostile territory, Mr. Trump escorted
+Mr. Kim back over the line into South Korea, where the two briefly
+addressed a scrum of journalists before slipping inside the building
+known as Freedom House for a private conversation along with President
+Moon Jae-in of South Korea. Mr. Trump said he would invite Mr. Kim to
+visit him at the White House.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+“This has a lot of significance because it means that we want to bring
+an end to the unpleasant past and try to create a new future,” Mr. Kim
+told reporters. “So it’s a very courageous and determined act.”
+
+“Stepping across that line was a great honor,” Mr. Trump replied. “A lot
+of progress has been made, a lot of friendships have been made, and this
+has been in particular a great friendship.”
+
+A showman by nature and past profession, Mr. Trump delighted in the
+drama of the moment, which he had arranged with [a surprise invitation
+via
+Twitter](https://www.nytimes3xbfgragh.onion/2019/06/29/world/asia/trump-kim-dmz.html)barely
+24 hours earlier. Never before had American and North Korean leaders
+gotten together at the military demarcation line, where heavily armed
+forces have faced off across a tense divide for 66 years since the end
+of fighting in the Korean War.
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Mr. Trump
+and Mr. Kim meeting on the south side of the demarcation line between
+North and South Korea on
+Sunday.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Erin
+Schaff/The New York
+Times</span></span>](https://static01.graylady3jvrrxbe.onion/images/2019/06/30/world/30prexy05/20f650c54b6c448a9a8c73a5f3c3221d-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+The encounter in Panmunjom had been cast as a brief handshake, not a
+formal negotiation, but the two ended up together for a little more than
+an hour. After emerging from their conversation, Mr. Trump said he and
+Mr. Kim had agreed to designate negotiators to resume talks in the next
+few weeks, four months after they collapsed at a summit meeting in
+Hanoi, Vietnam.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+The American team will still be headed by Stephen Biegun, the special
+envoy, but it remained unclear who would be on the North Korean side
+after [reports of a purge of Mr. Kim’s
+team](https://www.nytimes3xbfgragh.onion/2019/06/02/world/asia/north-korean-purge-kim.html).
+Asked later if North Korean negotiators were still alive, Mr. Trump
+said: “I think they are. I can tell you who the main person is. And I
+would hope the rest are, too.”
+
+Mr. Trump was already scheduled to make an unannounced visit to the DMZ
+during his trip to South Korea, and he portrayed the idea of meeting Mr.
+Kim as a spontaneous one, although he had been musing out loud about it
+for days. Still, it caught even his own staff by surprise and forced an
+extraordinary scramble to arrange logistics and security, a task that
+would ordinarily take days or weeks.
+
+Mr. Trump gambled that the show of amity could crack the nuclear logjam,
+underscoring his faith in the power of his own personal diplomacy — even
+with brutal strongmen like Mr. Kim — to achieve what past presidents
+could not. More than halfway through his term, Mr. Trump is eager for a
+resolution to the longstanding dispute, seeing it as a signature element
+of the legacy he hopes to forge and a potential boost to his re-election
+campaign.
+
+Even in this symbolic moment of reconciliation, Mr. Trump seemed to
+toggle back and forth between glory and grievance, reveling one minute
+in the history of the day and then the next griping that he was not
+getting enough credit for reducing friction with North Korea.
+
+He seemed acutely defensive about criticism that he has yet to reach an
+agreement to eliminate North Korea’s nuclear arsenal despite summit
+meetings with Mr. Kim in Singapore in June 2018 and in Hanoi in
+February. Almost every time he saw a microphone, he complained that his
+achievement had not been appreciated.
+
+“There was great conflict here prior to our meeting in Singapore,” he
+said. “Tremendous conflict and death all around them. And it’s now been
+extremely peaceful. It’s been a whole different world.”
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+“That wouldn’t necessarily have been reported, but they understand it
+very well,” he added**,** referring to the news media. “I keep saying
+that for the people who say nothing has been accomplished. So much has
+been
+accomplished.”
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:257.77777777777777px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Mr. Trump
+said he and Mr. Kim had agreed to designate negotiators to resume
+conversations in the next few
+weeks.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Erin
+Schaff/The New York Times</span></span>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Since Mr. Trump took office, North Korea has suspended nuclear tests,
+released detained Americans and sent back to the United States the
+remains of some American soldiers killed in the war. South Korean
+officials and others in the region say tension has eased significantly,
+and Mr. Moon praised Mr. Trump as “the peacemaker of the Korean
+Peninsula.”
+
+But American intelligence agencies have concluded that North Korea “is
+unlikely” to give up its nuclear arsenal, as Mr. Trump has demanded, and
+even amid the rapprochement with the president, the North has produced
+enough fuel for a half-dozen additional nuclear weapons, [according to
+one
+study](https://www.reuters.com/article/us-northkorea-usa-nuclear-study/north-korea-may-have-made-more-nuclear-bombs-but-threat-reduced-study-idUSKCN1Q10EL).
+In May, it [launched short-range
+missiles](https://www.nytimes3xbfgragh.onion/2019/05/04/world/asia/north-korea-missiles-trump.html?module=inline)
+in violation of United Nations resolutions.
+
+Critics called the DMZ greeting an overhyped photo opportunity by a
+president who himself ratcheted up the conflict with North Korea in his
+first year in office by vowing to unleash “fire and fury” if it
+threatened American security.
+
+“Today is a victory for South Korea’s middle-power diplomacy and
+President Moon’s peace agenda,” said Leif-Eric Easley, associate
+professor of international studies at Ewha Womans University in Seoul.
+“But tomorrow, North Korea will still have nuclear weapons, and the
+U.S. will still maintain sanctions.”
+
+[Mr. Trump’s meeting with Mr. Kim in
+Singapore](https://www.nytimes3xbfgragh.onion/2018/06/12/world/asia/north-korea-summit.html)
+was the first time sitting American and North Korean leaders had met
+anywhere, and it produced vague promises to eliminate Pyongyang’s
+nuclear arsenal. Their second meeting, in Hanoi, [ended in
+failure](https://www.nytimes3xbfgragh.onion/2019/02/28/world/asia/trump-kim-vietnam-summit.html?module=inline)
+when Mr. Kim made an offer that fell far short of that.
+
+North Korean officials went dark after the collapse of the talks,
+refusing to respond to either the Americans or the South Koreans. In
+recent weeks, however, North Korea re-emerged on the world stage as Mr.
+Kim [exchanged
+letters](https://www.nytimes3xbfgragh.onion/2019/06/22/world/asia/north-korea-letter.html)
+with Mr. Trump in what was seen as a signal of its interest in resuming
+diplomacy.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+American officials have said they did not think a third meeting should
+be arranged unless a substantive agreement could be negotiated
+beforehand. But Mr. Trump was seized with the idea of an encounter at
+the DMZ.
+
+Panmunjom, which straddles the North-South border, is called the “truce
+village” because the two sides signed an armistice there in 1953 to halt
+the three-year Korean War. The two-and-a-half-mile-wide DMZ is a
+no-man’s zone, but Panmunjom is an exception, a “joint security area”
+where border guards face off with no buffer between
+them.
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:257.77777777777777px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">The
+encounter in the truce village of Panmunjom was cast as a brief
+greeting, not a formal negotiation, but the two leaders ended up
+together for a little more than an
+hour.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Erin
+Schaff/The New York Times</span></span>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Mr. Kim [crossed the
+DMZ](https://www.nytimes3xbfgragh.onion/2018/04/26/world/asia/korea-kim-moon-summit.html)
+in April 2018 to meet with Mr. Moon, becoming the first North Korean
+leader to step over the line since the war. Former Presidents Jimmy
+Carter and Bill Clinton each visited North Korea, flying into its
+capital, Pyongyang, but only after they left office. Sitting presidents,
+including Ronald Reagan, Mr. Clinton, George W. Bush and Barack Obama,
+visited the DMZ, but were never greeted by North Korea’s leader.
+
+Mr. Trump, wearing a dark suit, emerged from Freedom House on the South
+Korean side, walked along gravel between two blue huts to the
+demarcation line and stopped there to wait for Mr. Kim to approach. Mr.
+Kim, wearing his traditional Mao suit, bounded forward to greet him.
+
+They shook hands and Mr. Trump patted the younger man’s arm before they
+stepped across the barrier and strode across a dirt field. The two
+turned and shook hands again for the cameras, then walked back to the
+border marker, posed again, and finally headed toward Freedom House.
+
+The scene was fairly chaotic. North Korean security personnel were
+particularly aggressive, pushing and pulling journalists and even White
+House staff members, including the new press secretary, Stephanie
+Grisham, as she tried to get American media into the room. The jostling
+made television images from the scene look frenzied.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Accompanying the president were Secretary of State Mike Pompeo, the
+acting chief of staff, Mick Mulvaney, and other top aides, including
+Ivanka Trump and Jared Kushner. Asked how North Korea was, the
+president’s daughter answered, “Surreal.”
+
+Mr. Kim said he knew nothing about a possible meeting until the
+president’s tweet. “I don’t think this kind of surprise meeting would
+have happened without the excellent personal relationship between your
+excellency and me,” he told Mr. Trump in Freedom House.
+
+Mr. Trump expressed relief that Mr. Kim came. “If he didn’t show up, the
+press was going to make me look very bad,” he said. “So you made us both
+look good, and I appreciate it.”
+
+After their private conversation, which lasted about 50 minutes, Mr.
+Trump escorted Mr. Kim back to the demarcation line and then watched as
+the North Korean headed back to his country.
+
+“Certainly, this was a great day; this was a very legendary, very
+historic day,” Mr. Trump exulted afterward, before adding a cautionary
+note. “It’ll be even more historic if something comes out of it.”
+
+</div>
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+<div id="bottom-wrapper" class="css-1ede5it">
+
+<div id="bottom-slug" class="css-l9onyx">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-bottom)
+
+<div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+</div>
+
+<div id="after-bottom">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+## Site Index
+
+<div>
+
+</div>
+
+## Site Information Navigation
+
+  - [© <span>2020</span> <span>The New York Times
+    Company</span>](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014792127-Copyright-notice)
+
+<!-- end list -->
+
+  - [NYTCo](https://www.nytco.com/)
+  - [Contact
+    Us](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115015385887-Contact-Us)
+  - [Work with us](https://www.nytco.com/careers/)
+  - [Advertise](https://nytmediakit.com/)
+  - [T Brand Studio](http://www.tbrandstudio.com/)
+  - [Your Ad
+    Choices](https://www.nytimes3xbfgragh.onion/privacy/cookie-policy#how-do-i-manage-trackers)
+  - [Privacy](https://www.nytimes3xbfgragh.onion/privacy)
+  - [Terms of
+    Service](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014893428-Terms-of-service)
+  - [Terms of
+    Sale](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014893968-Terms-of-sale)
+  - [Site
+    Map](https://spiderbites.nytimes3xbfgragh.onion)
+  - [Help](https://help.nytimes3xbfgragh.onion/hc/en-us)
+  - [Subscriptions](https://www.nytimes3xbfgragh.onion/subscription?campaignId=37WXW)
+
+</div>
+
+</div>
+
+</div>
+
+</div>

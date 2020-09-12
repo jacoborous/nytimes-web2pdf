@@ -1,0 +1,935 @@
+<div id="suggestions" class="suggestions messenger nocontent robots-nocontent" style="display:none;">
+
+<div class="message-bed">
+
+<div class="message-container last-message-container">
+
+<div class="message">
+
+<span class="message-content"> **<span class="message-title">NYTimes.com
+no longer supports Internet Explorer 9 or earlier. Please upgrade your
+browser.</span> [LEARN MORE
+»](http://www.nytimes3xbfgragh.onion/content/help/site/ie9-support.html)
+</span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="shell" class="shell">
+
+<div class="container">
+
+<div class="quick-navigation button-group">
+
+**<span class="button-text">Sections</span>
+
+**<span class="button-text">Home</span>
+
+**<span class="button-text">Search</span>
+
+</div>
+
+<div class="branding">
+
+## [<span class="visually-hidden">The New York Times</span>](http://www.nytimes3xbfgragh.onion/)
+
+### <span class="label-text"> [Magazine](https://www.nytimes3xbfgragh.onion/section/magazine) </span>
+
+</div>
+
+<div class="story-meta">
+
+###### <span class="kicker-label"> [Magazine](https://www.nytimes3xbfgragh.onion/section/magazine) </span> <span class="pipe">|</span>What Makes ‘The Good Place’ So Good?
+
+</div>
+
+<div class="user-tools">
+
+<div id="sharetools-masthead" class="sharetools theme-classic sharetools-masthead" data-aria-label="tools" data-role="group" data-shares="facebook,twitter,email,show-all,save" data-url="https://www.nytimes3xbfgragh.onion/interactive/2018/10/04/magazine/good-place-michael-schur-philosophy.html" data-title="What Makes ‘The Good Place’ So Good?" data-author="By Sam Anderson" data-media="https://static01.graylady3jvrrxbe.onion/images/icons/t_logo_291_black.png" data-description="NBC gave Michael Schur total freedom. So the TV impresario made a sitcom that’s also a profound work of philosophy." data-publish-date="October 4, 2018">
+
+<div class="ad sharetools-inline-article-ad hidden nocontent robots-nocontent">
+
+</div>
+
+</div>
+
+<div class="user-tools-button-group button-group">
+
+</div>
+
+</div>
+
+</div>
+
+<div class="search-flyout-panel flyout-panel">
+
+**<span class="visually-hidden">Close search</span>
+
+## Site Search Navigation
+
+<div class="control">
+
+<div class="label-container visually-hidden">
+
+Search NYTimes.com
+
+</div>
+
+<div class="field-container">
+
+**<span id="clear-search-input" class="visually-hidden">Clear this text
+input</span>
+
+<div class="auto-suggest" style="display: none;">
+
+</div>
+
+Go
+
+</div>
+
+</div>
+
+</div>
+
+<div id="notification-modals" class="notification-modals">
+
+</div>
+
+<span class="story-short-url"><https://nyti.ms/2O8an6L></span>
+
+## Site Navigation
+
+## Site Mobile Navigation
+
+<div id="page" class="page">
+
+<div id="main" class="main" data-role="main">
+
+<div class="story-meta">
+
+# What Makes ‘The Good Place’ So Good?
+
+<div class="story-meta-footer interactive-meta-footer">
+
+<div class="interactive-byline">
+
+<span class="byline" itemprop="author creator" itemscope="" itemtype="http://schema.org/Person">
+By
+<span class="byline-author" data-byline-name="SAM ANDERSON" itemprop="name">SAM
+ANDERSON</span> </span> OCT. 4, 2018
+
+</div>
+
+<span class="summary-text">NBC gave Michael Schur total freedom. So the
+TV impresario made a sitcom that’s also a profound work of
+philosophy.</span>
+
+</div>
+
+</div>
+
+<div id="good-place-michael-schur-philosophy" class="interactive-graphic">
+
+<div class="rad-article" data-slug="07mag-goodplace">
+
+<div class="rad-cover headline-image-topper" style="background-color:#FFFFFF">
+
+![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+<div class="rad-header-wrapper">
+
+<div class="rad-head-wrap">
+
+# The Ultimate Sitcom
+
+</div>
+
+<div class="rad-sum-by">
+
+NBC gave Michael Schur total freedom. So the TV impresario made a sitcom
+that’s also a profound work of philosophy.
+
+<span class="rad-byline">By [SAM
+ANDERSON](https://www.nytimes3xbfgragh.onion/by/sam-anderson)</span>
+OCT. 4, 2018
+
+</div>
+
+</div>
+
+</div>
+
+<div class="rad-story-body">
+
+<span class="dropcap">H</span>ow do hands move in heaven? Ted Danson
+knows. Watch him in “The Good Place,” NBC’s circle-squaring
+philosophical sitcom about life, death, good, evil, redemption and
+frozen yogurt. As Danson speaks, his hands flutter and hover in front of
+him like a pair of trained birds. They poke and swirl, pinch and twist.
+They snap suddenly ahead to accent a word as if they’re plucking a
+feather from a passing breeze. Danson is tall and slim — he was a
+basketball star growing up — and his hands are expressively large. He
+can move them, when he needs to, with the long-fingered languor of
+Michelangelo’s God reaching out to touch Adam. On the show, Danson plays
+an “architect” of the afterlife named Michael, a sort of immortal Willy
+Wonka who dresses in bright suits and bow ties. He is always flying into
+spasms of delight over the fascinating novelties of human culture —
+paper clips, suspenders, karaoke, Skee-Ball — and in one scene he gets
+so celestially excited that he lunges into a squat, holds his arms out
+in front of him and gyrates his wrists like an electric mixer on full
+blast. “How do you pump your fist again?” he asks. “Is this it?”
+
+Danson is now 70, roughly twice the age he was when he started on
+“Cheers,” and he carries his seniority around as if it were the
+funniest thing in the world. In recent years, he has put together a
+virtuosic run of performances, including supporting roles in shows such
+as “Damages,” “Bored to Death” and “Fargo.” His turn on “The Good Place”
+seems like a culmination of this late-phase greatness: a role he was
+born, and then very carefully aged, to play. Although Danson still has
+the seductive good looks of Sam Malone, his hair has gone chalk white,
+and he delivers his lines with an ease so deep it looks effortless and
+instinctive — the kind of thing you couldn’t practice if you tried.
+
+In May, I happened to be on the set of “The Good Place,” watching the
+making of an episode of Season 3, when Danson arrived. They were filming
+that day inside an obscenely large mansion in Beverly Hills — the kind
+of gaudy faux-French superpalace you would find, in fact, by Googling
+the words “obscenely large mansion.” Danson walked in wearing a white
+suit jacket, munching on a bag of snacks. All around him was chaos.
+Bearded men with multicolored rolls of tape hanging from their belts
+hauled clattering carts past extras in formal wear holding glasses of
+fake red wine. Danson worked his way cheerfully through the noise. He
+wove past the ballroom’s titanic staircase and the giant kitchen with
+its archipelago of separate islands and the fireplace wide enough to
+consume whole small trees. I was excited to watch him step in front of
+the camera and do what I imagined would be his automatic Ted Danson
+thing.
+
+Instead, still munching his snacks, Danson slipped into one of the
+mansion’s back rooms. It, too, was crowded, full of people chatting and
+laughing, looking at their phones, watching monitors, ignoring the set’s
+constant calls of *“shhhhhhhh.”* Danson found an empty folding chair in
+the far corner and sat. He became very still. He started to speak
+softly, under his breath, whispering inaudible words into the space
+directly in front of him. Soon his large hands rose, poking and
+swirling, and then they fell, and then they rose, and then they fell.
+Danson was fine-tuning, move by move, the components of his next scene.
+He gripped the air in front of him and folded it like dough. It looked,
+at times, as if he were conducting his own invisible orchestra. I
+watched Danson do this, silently, for nearly half an hour. He may have
+gone on longer — he was still rehearsing, in total focus, when I had to
+go off and do something else.
+
+Maybe it’s faint praise to call a show the best sitcom on TV. It’s like
+calling a vehicle the best horse buggy on the autobahn. Sitcoms no
+longer sit anywhere near the vital center of American culture. We are
+not a nation of families squeezing onto couches to watch can’t-miss
+programming. Our entertainment metabolisms have sped up and scattered in
+a thousand
+directions.
+
+![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+And yet the fact remains. “The Good Place” — the story of a group of
+recently deceased earthlings navigating the afterlife — is the best
+sitcom on TV. It is, in many ways, charmingly old-fashioned: a 22-minute
+glossy confection of family-friendly LOLs, featuring beautiful
+multicultural characters with perfect hair trading tightly scripted
+jokes as they learn life lessons. Grandchildren and grandparents could
+watch it together in relative comfort, laughing in heartwarming unison.
+
+But the show is also, by network standards, quite radical. It attempts a
+clever gambit. The American sitcom, since its inception, has struggled
+with a fundamental tension at its core. Let’s call it “jester vs. guru.”
+We expect half-hour comedies to pull off an impossible double duty: to
+both inject jokes into the national bloodstream and to enlighten us with
+high-minded moral instruction. We want not only zany catchphrases but
+wise life lessons. The history of the form has been a constant tug of
+war between these two contradictory demands. Early sitcoms tended toward
+Very Special Episodes — morality plays in which we learned to honor our
+parents, say no to drugs and rat out even our most charming friends. The
+sitcoms that followed rebelled against such ham-fisted piety, replacing
+it with ironic cynicism. “Seinfeld” famously rejected the moral duties
+of the sitcom altogether; “30 Rock” was a pure fire hose of laughs. The
+control knob turned, further and further, from wisdom toward jokes.
+
+“The Good Place” tries, improbably, to fulfill both functions at once.
+It wants to sit at both ends of the control knob simultaneously. Like
+any good modern comedy, the show is a direct IV of laughs, but the trick
+is that all of those laughs are explicitly *about* morality.
+
+The premise of “The Good Place” is absurdly high concept. It sounds less
+like the basis of a prime-time sitcom than an experimental puppet show
+conducted, without a permit, on the woodsy edge of a large public park.
+The show’s action begins in a candy-colored heaven in which new
+residents are welcomed to find their perfect soul mate, an ideal home
+and an eternal supply of frozen yogurt. (Flavors include Double Rainbow,
+Four-Day Weekend, Full Cellphone Battery, Panoply of Exuberance and
+Beyoncé Compliments Your Hair.) There is just one problem: Eleanor
+Shellstrop, our foulmouthed protagonist, does not belong anywhere near
+any kind of paradise. Eleanor is a comically awful person — in
+flashbacks, we see her refusing to be a designated driver, ruining a
+stranger’s *quinceañera* and selling fake medicine to the elderly. Her
+arrival at the Good Place seems to be a result of some kind of
+existential clerical error. Eleanor is understandably reluctant to
+confess this, particularly when she learns about the many horrors of the
+Bad Place: bees with teeth, four-headed bears, volcanoes full of
+scorpions and — unfortunately — “butthole spiders.” Out of sheer
+desperation, she decides to try something drastic: to improve herself.
+Eleanor manages to persuade her alleged soul mate, a Senegalese
+professor of ethics and moral philosophy named Chidi, to teach her how
+to be good. “How do we do it?” she asks. “Is there a pill I can take or
+something I can vape?”
+
+This is the trick of “The Good Place.” Ethics is not some kind of
+moralistic byproduct; it’s baked into the very premise. The show is
+entirely life lessons. Every episode is Very Special. It synthesizes
+those old contradictory impulses — jester vs. guru — so completely that
+they cease to be in tension. If “Seinfeld” was a show about nothing,
+“The Good Place” is a show about everything — including, and
+especially, growing and learning. By all rights, it should probably be
+awful — preachy, awkward, tedious, wooden, labored and out of touch.
+Instead, it is excellent: a work of popular art that hits on many levels
+at once. It has been not only critically acclaimed but also widely
+watched, especially on streaming services, where its twists and
+intricate jokes lend themselves to bingeing and rebingeing. The modern
+world, perhaps, is hungrier for ethics than we have been led to believe.
+
+Back in the mansion, sometime after his private rehearsal session, Ted
+Danson thanked me, very sincerely, for coming to write about “The Good
+Place.” Then he corrected himself. “Well,” he said, “thanks for coming
+to write about Mike.” He was referring to Michael Schur, the show’s
+creator and driving force. I told Danson I wasn’t there to write just
+about Schur; I was there to write about the whole show. But Danson waved
+this off with one of his big, elegant hands. “It’s all Mike,” he told
+me. “We’re all just a bunch of little
+Mikes.”
+
+![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+As Michael is to the Good Place, Michael Schur is to “The Good Place” —
+the architect with everything on the line. (It is surely no coincidence
+that Schur named Ted Danson’s character after himself.) While the
+episode was being shot at the mansion, Schur was sitting five miles
+away, in his bungalow on the back lot of Universal Studios, worrying. He
+was thinking forward and backward, checking and rechecking his work,
+trying to exist in 10 different time signatures at once. Putting a TV
+show together — any TV show — is a crushing logistical nightmare. There
+are pitches and drafts and scripts and casting calls and table reads and
+revisions and rehearsals and budgets. You have to scout locations and
+then unleash huge quasi-military mobilizations of equipment. On top of
+which, “The Good Place” offers its own unique challenges. Its plot is an
+ongoing logic puzzle with twists that have to work across several
+different dimensions, and the integrity of that puzzle sometimes keeps
+Schur up at night.
+
+Schur grew up in Connecticut and has a classic New England comedy
+pedigree: president of The Harvard Lampoon, staff writer on “Saturday
+Night Live.” He is now 42. He has a boyish face on a squarish head, and
+his thick, dark hair is brushed at the temples with white. He speaks in
+earnest, open paragraphs, with the clear pleasure of someone who enjoys
+exploring his own brain. “To be totally honest,” he says as soon as I
+step into his office, “I’m having a hard time gauging whether I’m O.K.
+with being a writer who has a vintage typewriter on his coffee table.”
+(It was a gift.) Our conversation covered the prodigious gifts of
+Kristen Bell — “She just has a really low center of gravity for how she
+approaches her job; you can give her 40 notes on a line, and she’ll go,
+‘Yep, got it,’ and she’ll do all 40 of those notes at once” — and
+Schur’s own struggle with what he calls directional insanity: “If I
+don’t put a tremendous amount of concentration into it, I will get
+lost even going from my office to my house.” He lamented the persistence
+of toxic masculinity in show business. “People in general are far too
+tolerant of bad behavior,” he told me, “because they think it’s
+necessary for creativity. But I don’t think you should ever think they
+are one and the same.”
+
+Schur is famous in the industry for his policy of — as he puts it in
+polite company — “no jerks.” This applies to every level of every
+project, from writers to directors to actors, and people say it is
+life-changing; there is a dedicated group of talent that follows Schur
+from show to show. His rise to network power has corresponded with a new
+tone in prime-time comedy, an era of good-hearted humanistic warmth. One
+of Schur’s signature early achievements was helping NBC, as part of the
+writing team, transform the original British version of “The Office” —
+the revered but bitterly cynical BBC mockumentary — into its softer
+American incarnation. The show flipped the ratio of cringing to pleasure
+and ran for nine seasons. Afterward, Schur co-created “Parks and
+Recreation,” which took the humanistic impulse even further. It was a
+sort of course correction from the shows Schur grew up on, the
+irony-drenched sitcoms of the 1990s.
+
+“I’m not a huge fan of the ‘Seinfeld’ era, personally,” he told me. “I
+liked it when it was on — it broke the form and put it back together in
+this new way, and it was revolutionary and wonderful, and I consumed it
+like candy. But I don’t find the urge to go back and watch it again.
+It’s like doing a crossword puzzle for the second time. I think
+there’s a reason that shows where there is growth and learning are
+more rewatchable.”
+
+A few years ago, after all of Schur’s success, NBC offered him a dream
+opportunity: total freedom for his next project. He was ambitious enough
+to see this not only as an opportunity but as a perverse creative
+challenge. Schur is a big literary-fiction reader, and he loves formal
+experimentation, and he especially reveres the late American writer
+David Foster Wallace — another innovator obsessed with goodness. In his
+office, Schur keeps various Wallace quotes for inspiration. One, from a
+1993 interview, reads like a mission statement for “The Good Place”:
+
+> Look, man, we’d probably most of us agree that these are dark times,
+> and stupid ones, but do we need fiction that does nothing but
+> dramatize how dark and stupid everything is? In dark times, the
+> definition of good art would seem to be art that locates and applies
+> CPR to those elements of what’s human and magical that still live and
+> glow despite the times’ darkness. Really good fiction could have as
+> dark a worldview as it wished, but it’d find a way both to depict this
+> world and to illuminate the possibilities for being alive and human in
+> it.
+
+The idea that excited Schur, for his next sitcom, was both simple and
+infinitely complex: what it means to be a good person. It was an idea he
+had been obsessed with in different forms for many years — and that had
+crystallized for him back in 2005, when Jennifer Philbin, who is now his
+wife, got into a very minor traffic accident with a man driving a Saab.
+No one was hurt, and no visible damage was done, and yet the incident
+would become, Schur later wrote, “one of the most interesting and
+complicated events of my adult life.” When the Saab driver filed what
+Schur thought was an unnecessary insurance claim and demanded $836 for
+bumper damage, Schur countered with a grandly high-minded alternative.
+If the man would drop his claim, Schur said, he would donate the $836 to
+victims of Hurricane Katrina. Schur’s plan went viral, and friends and
+supporters jumped in to pledge more than $30,000 — an incredible
+philanthropic victory — and yet Schur began to feel a growing sense of
+unease. He suspected that his mission was not, perhaps, entirely
+righteous. There was an element of grandstanding to the gesture, of
+moral one-upmanship, and Schur spoke about it with his family and
+colleagues and even professors of ethics. He became fascinated by the
+ways people can rack up ethical credits and debits all at the same time.
+This, eventually, would become the subject of his show.
+
+Goodness is a notoriously difficult topic — a tangled knot at which
+religions and philosophers have been picking for all of human history. A
+22-minute network comedy seems like exactly the wrong tool for the job.
+It’s like trying to hammer a nail with a banana peel. And yet that was
+the tool that Michael Schur had. So he was going to
+try.
+
+![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+Schur’s initial premise, in true sitcom fashion, was a kind of joke.
+What if life was, ethically speaking, a sort of video game — if every
+action had a point value, positive or negative, and the goal was to rack
+up the highest score? This is where “The Good Place” started. In the
+show’s first episode, during Michael’s orientation session, you can read
+dozens of scored behaviors, positive and negative, on his celestial
+presentation board: everything from “pet a lamb” (+0.89 points),
+“remember sister’s birthday” (+15.02) and “save a child from drowning”
+(+1,202.33) to “stiff a waitress” (-6.83), “disturb coral reef with
+flipper” (-53.83) and “poison a river” (-4,010.55).
+
+Then things got complicated. As Schur began to plan the show, he
+embarked on an intense program of philosophical self-education. He read
+the classics (Aristotle, Mill, Bentham, Rawls) and hunted new academic
+papers online. He compiled thick reading packets and gave them to
+colleagues. He started to wish that he could go back to college to study
+philosophy full time. Philbin, who is also a writer, was overwhelmed by
+the number of boxes arriving at their front door. One night, she walked
+into the bedroom, brushing her teeth, to find Schur in bed studying a
+slim black book with a raven on its cover — the title of which was
+simply “Death.” (“What do we make of ourselves,” the book asks, “if the
+death that undermines us is a necessary feature of our lives being
+worthwhile?”)
+
+“This show is going to ruin my life, isn’t it?” she asked.
+
+One day out of the blue, Pamela Hieronymi, a professor at U.C.L.A., got
+an email from Schur, asking if she would speak to him about ethics.
+Hieronymi is not a TV watcher and had no idea who Schur was, but she
+agreed, and they ended up talking for three hours, largely about whether
+it is possible to become a good person by trying — about how intention
+and motivation color our moral behavior. Hieronymi was impressed by
+Schur’s earnestness and curiosity. It was clear that he didn’t just want
+to make jokes about philosophy; he wanted to actually understand the
+ideas. Eventually, Schur asked Hieronymi to join the show as a
+“consulting philosopher” — surely a first in sitcom history. Later he
+brought on Todd May, the author of that slim book about death. The
+consultants spoke not only to Schur but also to the writers’ room,
+giving lectures on existentialism and the famous thought experiment
+known as the Trolley Problem, ideas which were later woven into the
+show. All of which is to say “The Good Place” is not about philosophy in
+the way that “The Big Bang Theory” is about science — as a set of
+clichés to tap for silly jokes. A sitcom is not a grad school seminar,
+obviously, so the philosophy is highly abridged. But it is not
+insubstantial, and philosophical ideas actually determine and shape the
+plot.
+
+At the beginning of Episode 6, Chidi holds up a book: a thick academic
+paperback with one of those devastatingly quiet covers (earth tones,
+Morandi still-life) that make you feel as if you will never be allowed
+to leave the library again.
+
+Eleanor reads its title aloud — “What We Owe to Each Other” — and gasps.
+
+“I saw this movie\!” she says. “Laura Linney cries in a lake house
+because Jude Law left her for his ex-wife’s ghost.”
+
+This synopsis, of course, is incorrect. The book is actually a dense
+work of philosophy by the Harvard emeritus professor T.M. Scanlon. It
+introduces an idea called “contractualism.” As Chidi explains it to
+Eleanor: “Imagine a group of reasonable people are coming up with the
+rules for a new society. ... But anyone can veto any rule that they
+think is unfair.” (“Well, my first rule would be that no one can veto my
+rules,” Eleanor responds, to which Chidi counters, “That’s called
+tyranny, and it’s generally frowned
+upon.”)
+
+![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+The book seeks to explain how human societies might find moral authority
+without appealing to a deity or inherited laws. The answer comes from a
+sort of idealized social negotiation — the process of thinking, in good
+faith, with a community of other good-faith thinkers. As Scanlon puts
+it: “Thinking about right and wrong is, at the most basic level,
+thinking about what could be justified to others on grounds that they,
+if appropriately motivated, could not reasonably reject.”
+
+Pamela Hieronymi introduced Schur to “What We Owe to Each Other”;
+Scanlon was her dissertation adviser at Harvard. It was the perfect way
+to deepen the show’s original premise — that mechanistic notion of an
+ethical points system. It was richer, Hieronymi argued, to think of
+morality in terms of cooperative human relationships — the way networks
+of people, with their interdependencies and conflicts, have to find a
+way to coexist and sacrifice and treat one another with respect. In such
+messy human environments, ethical choices rarely map directly onto
+obvious results. There are no leader boards. The problems can be almost
+infinitely complex.
+
+Schur loved not only the central thesis of “What We Owe to Each Other”
+but also the book’s title. “It *assumes* that we owe things to each
+other,” he told me. “It starts from that place. It’s not like: Do we owe
+anything to each other? It’s like: Given that we owe things to each
+other, let’s try to figure out what they are. It’s a very quietly
+subversive idea.”
+
+It is, in a way, deeply un-American — an affront to our central
+mythology of individual rights, self-interest and the sanctity of the
+free market. As an over-the-top avatar of all our worst impulses,
+Eleanor is severely allergic to any notion of community. And yet her
+salvation will turn out to depend on the people around her, all of whom
+will in turn depend on her. What makes us good, Chidi tells her, is “our
+bonds to other people and our innate desire to treat them with dignity.”
+As the show progresses, “What We Owe to Each Other” becomes a recurring
+character, popping up onscreen at several crucial plot points. This
+amazed Hieronymi — the last thing she had expected to see was her
+dissertation adviser’s book featured prominently on a network sitcom.
+
+Watching at home, Hieronymi was pleased with the show’s evolution.
+“What’s going to save the characters is the relationships they have
+with one another,” she said. “That seems exactly right to me.”
+
+The cast of “The Good Place” is its own little experiment in
+contractualism. Ted Danson and Kristen Bell are, in different ways,
+Hollywood royalty — experienced, award-winning, brand-name celebrities.
+By contrast, the show’s other core actors are so new to the business
+that everyone on set refers to them, affectionately, as “the babies.”
+Jameela Jamil, who plays a magnetically self-absorbed British socialite
+named Tahani, had never acted before her audition. Manny Jacinto was a
+hip-hop dancer before he landed the part of Jason, a scene-stealing
+doofus from Florida. William Jackson Harper and D’Arcy Carden, who play
+Chidi and a heavenly version of Siri named Janet, were both in their mid
+30s and had given up on dreams of mainstream acting success. (Carden
+says she still has frequent “daymares,” driving home from the set, that
+none of this is really happening.) And yet the actors on “The Good
+Place” seem to coexist in a spirit of radical egalitarianism. The
+younger actors notice Danson arriving early to obsessively work on his
+scenes, despite the fact that he is literally Ted Danson. And they
+notice that Kristen Bell memorizes not only her own lines but everyone
+else’s too, and that she reads all the crazy philosophical course
+packets Schur sends out, so that she can discourse at length about moral
+particularism vs. the categorical
+imperative.
+
+![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+Making a sitcom is incredibly tedious. Every scene is repeated infinite
+times, with tiny variations — and then the cameras are moved and the
+scene is repeated infinitely again. On set, Bell is a technician,
+precise and rational and systematic. She has a bright, quick energy, and
+she can change direction, multiple times, in a single line. In the
+mansion, I watched her working and reworking a scene in which Eleanor
+has a meltdown — a moment of insecurity that escalates into an angry
+retreat. Bell is small, barely five feet tall, and she was dressed that
+day in jeans and a pink sweatshirt. In the middle of the mansion’s
+chaos, she seemed like the rock-solid center around which everything
+else rotated.
+
+I watched her perform the same scene over and over, take by take, as if
+she were slowly turning up an emotional dial. The writer of the episode,
+Joe Mande, stood a few yards away, with one headphone on and one off,
+mouthing the script as Bell performed it. D’Arcy Carden watched on a
+monitor and shook her head. “What a lil’ squirt,” she muttered. “She’s
+so good.” After many takes, Bell reached what she called her “big” take
+— one in which her rising anger basically blew the gilded doors off
+the room. (Later, editors would patch pieces of these performances
+together, deciding which precise emotional shades served the episode
+best.) Before storming out of the room, Bell had to rip out a chunk of a
+giant cake with her hands, and she approached that task with similar
+precision. She tried it standing on one side of the table and then the
+other, with one hand and then two, pulling the chunk violently up or
+dragging it straight back. “I want a rough rip,” she declared finally.
+The cake was huge, and there were only two backups, so it was important
+not to mess it up. But Bell needed only one cake. The rip, indeed, was
+rough.
+
+<span class="dropcap">W</span>hy is such a strange show so popular?
+There are, of course, many reasons. There are the hundreds of hours of
+effort that go into Ted Danson’s fleeting hand gestures, as well as the
+hundreds of hours of reading that undergird Schur’s understanding of
+philosophical ideas. But a bigger reason might just be about timing. The
+sitcom is arguably the defining commercial art form of the American 20th
+century. Here in the ugly adolescence of the 21st century, “The Good
+Place” is using that old artistic form to take an honest moral
+accounting of the modern American soul. In doing so, it raises questions
+that have always been essential but that now glow with a special
+radioactivity.
+
+Imagine, if you will, that a person, or a group of people, have done
+something bad. They have knowingly chosen to gain an advantage at the
+expense of someone else. Perhaps they lied to potential investors about
+a building’s actual value. Maybe they bullied the vulnerable and then
+laughed. Or maybe it was something worse: They took an entire continent
+from its indigenous peoples. They enslaved, tortured, kidnapped,
+murdered, lied, stole. Maybe the people who benefited from all these
+various crimes are also willing to argue, strenuously, that none of it
+actually happened — or that if it did happen, it didn’t matter, or even
+that it was all actually for the good. Maybe these people have managed,
+through further bad actions, to put themselves into positions of power,
+where they will have outsize influence on everything that happens next.
+
+Can a person, or a nation, that finds itself in such a situation — can
+it ever change? Is such deep badness redeemable? Is there any hope?
+
+In a low moment, I mentioned to Hieronymi that American culture seems to
+have abandoned ethics. She disagreed strongly. “It’s amazing to me how
+moralized and moralistic we seem to be,” she said, “especially right
+now. It’s just a cultural blamefest.” All the arguments that rage every
+day across social media and cable news — racism, reverse racism,
+statutes of limitations, reparations — are fundamentally about ethics.
+Even the top-down distractions meant to derail these conversations are
+conducted under the guise of earnest concern for right and wrong. “I
+think that’s got to be part of the popularity of ‘The Good Place,’ ”
+Hieronymi
+said.
+
+![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+Schur told me he wants to stress, in his show, the hard work of
+morality. So much of our ethical life is about thankless grinding
+drudgery, daily feats of internal strength, a constant invisible
+resistance.
+
+“It feels, all the time in life, like a bad decision is right in front
+of you,” Schur said. “No matter who you are, there’s the opportunity to
+make bad decisions and hurt people. And it takes work just to keep not
+making those bad decisions. It takes a lot of concentrated effort to do
+the right thing all the time. Hopefully, you get so used to it, and it
+becomes such a part of who you are, that it doesn’t take work — you’re
+on autopilot making good decisions. But not always, and for a lot of
+people, not ever. You don’t have to look very hard to see a group of
+people in this country who have given in and are just making the worst
+decisions you can make. Like the most selfish, the most corrupt, the
+most evil decisions — and they’re just doing it as a matter of course.
+And it’s way too late. They’re never gonna go the other way.”
+
+In the face of so much badness, Schur said, it is always tempting to
+give up. But the heroic thing is simply to try.
+
+“You have to work at it, every day,” he said. “It’s so hard. The
+temptation will always be there to go: ‘Oh, no one’s watching. No one’s
+looking. I’ll just do this.’ Whatever ‘this’ is. If you throw a coffee
+cup at a garbage can and you miss, you could just walk away. The amount
+of bad you put into the universe is very minimal. But someone else is
+gonna have to come along and pick that thing up, and it sucks. It’s not
+that person’s problem, it’s your problem. And it’s a very slippery
+slope. As you get accustomed to one kind of bad action as permissible,
+then the Overton window shifts, right?
+
+“And now the next thing is like, whatever — you cheat on your taxes. And
+you get away with it, because government bureaucracy is bad at picking
+up on tiny errors people make. And you’re like: All right, nobody got
+hurt. Because you’re not thinking about the school 82 miles away that
+couldn’t afford new textbooks because they didn’t get enough tax revenue
+and had to lower the school budget. All you’re thinking about is, I
+saved $400 by cheating on my taxes, that’s pretty cool. The window just
+keeps shifting, and eventually you become the kind of person who is
+making the bad, selfish, wrong decision by default instead of the good
+one. And then 15 years have gone by.”
+
+As he wrote this new season of “The Good Place,” Schur couldn’t get an
+image out of his head. It was a scene from the end of “Saving Private
+Ryan” in which Tom Hanks, moments after being shot in the chest out in
+the middle of the battlefield, turns to see a German tank rumbling
+toward him. Bullets are pinging all around him, and the battle is
+clearly lost, and he is almost certainly going to die. He is absolutely
+not going to stop a tank. But in that moment, he decides to try. Hanks
+takes out his little handgun and, arm trembling, fires bullet after
+bullet at the oncoming tank.
+
+“It’s the weirdest source material,” Schur said, “but it is a good
+analogy. That’s the essence of ‘The Good Place’ — to put people in a
+very difficult situation and have them say: ‘What’s the next thing we
+can do? What’s the next thing we can do?’ To point out that there’s more
+value in trying than in not trying, basically. I don’t want to spoil
+anything, but in the third season the characters get to a point where
+they have a choice. Do you give up or do you try? And they decide to
+try. And that is what the whole season is like. We’ll keep trying as
+long as we can. We’ll keep trying. No one is perfect. No one will ever
+win the race to be the best person. It’s impossible. But, especially
+since starting this show, I just think everyone should try harder.
+Including me.”
+
+</div>
+
+<div class="rad-article-credits">
+
+Sam Anderson is a staff writer for the magazine who frequently writes
+the New Sentences column. He recently wrote the [introductory essay to
+the magazine’s New York
+issue.](https://www.nytimes3xbfgragh.onion/interactive/2018/06/06/magazine/love-city-new-york-introduction.html)
+
+</div>
+
+</div>
+
+<div class="rad-series-nav" data-slug="07mag-goodplace">
+
+## The Culture Issue
+
+<div class="rad-series-link-wrapper">
+
+  - [](https://www.nytimes3xbfgragh.onion/interactive/2018/10/03/magazine/lady-gaga-movie-star-is-born.html)
+    <div class="promo-image">
+    ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    </div>
+    <div class="promo-info">
+    ### Lady Gaga Isn’t Done Shape-Shifting Yet
+    Oct. 3,
+    2018
+    </div>
+  - [](https://www.nytimes3xbfgragh.onion/interactive/2018/10/03/magazine/morality-social-justice-art-entertainment.html)
+    <div class="promo-image">
+    ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    </div>
+    <div class="promo-info">
+    ### Should Art Be a Battleground for Social Justice?
+    Oct. 3,
+    2018
+    </div>
+  - [](https://www.nytimes3xbfgragh.onion/interactive/2018/10/04/magazine/good-place-michael-schur-philosophy.html)
+    <div class="promo-image">
+    ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    </div>
+    <div class="promo-info">
+    ### What Makes ‘The Good Place’ So Good?
+    Oct. 4,
+    2018
+    </div>
+  - [](https://www.nytimes3xbfgragh.onion/interactive/2018/10/04/magazine/barry-jenkins-james-baldwin-if-beale-street-could-talk.html)
+    <div class="promo-image">
+    ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    </div>
+    <div class="promo-info">
+    ### Barry Jenkins’s Films of Love, Pain and Black Male Vulnerability
+    Oct. 4,
+    2018
+    </div>
+  - [](https://www.nytimes3xbfgragh.onion/interactive/2018/10/05/magazine/instagram-cindy-sherman-ugly-beauty.html)
+    <div class="promo-image">
+    ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    </div>
+    <div class="promo-info">
+    ### The Ugly Beauty of Cindy Sherman’s Instagram Selfies
+    Oct. 5,
+    2018
+    </div>
+  - [](https://www.nytimes3xbfgragh.onion/interactive/2018/10/05/magazine/culture-moments-2018.html)
+    <div class="promo-image">
+    ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    </div>
+    <div class="promo-info">
+    ### Seven Boundary-Pushing Cultural Moments of 2018
+    Oct. 5,
+    2018
+    </div>
+
+</div>
+
+</div>
+
+<div class="rad-series-box">
+
+## Related Coverage
+
+<div class="rad-series-link-wrapper">
+
+  - [](https://www.nytimes3xbfgragh.onion/interactive/2018/10/03/magazine/lady-gaga-movie-star-is-born.html)
+    <div class="promo-image">
+    ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    </div>
+    <div class="promo-info">
+    ### Lady Gaga Isn’t Done Shape-Shifting Yet
+    Oct. 3,
+    2018
+    </div>
+  - [](https://www.nytimes3xbfgragh.onion/interactive/2018/10/03/magazine/morality-social-justice-art-entertainment.html)
+    <div class="promo-image">
+    ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    </div>
+    <div class="promo-info">
+    ### Should Art Be a Battleground for Social Justice?
+    Oct. 3,
+    2018
+    </div>
+  - [](https://www.nytimes3xbfgragh.onion/interactive/2018/10/04/magazine/good-place-michael-schur-philosophy.html)
+    <div class="promo-image">
+    ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    </div>
+    <div class="promo-info">
+    ### What Makes ‘The Good Place’ So Good?
+    Oct. 4,
+    2018
+    </div>
+  - [](https://www.nytimes3xbfgragh.onion/interactive/2018/10/04/magazine/barry-jenkins-james-baldwin-if-beale-street-could-talk.html)
+    <div class="promo-image">
+    ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    </div>
+    <div class="promo-info">
+    ### Barry Jenkins’s Films of Love, Pain and Black Male Vulnerability
+    Oct. 4,
+    2018
+    </div>
+  - [](https://www.nytimes3xbfgragh.onion/interactive/2018/10/05/magazine/instagram-cindy-sherman-ugly-beauty.html)
+    <div class="promo-image">
+    ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    </div>
+    <div class="promo-info">
+    ### The Ugly Beauty of Cindy Sherman’s Instagram Selfies
+    Oct. 5,
+    2018
+    </div>
+  - [](https://www.nytimes3xbfgragh.onion/interactive/2018/10/05/magazine/culture-moments-2018.html)
+    <div class="promo-image">
+    ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    </div>
+    <div class="promo-info">
+    ### Seven Boundary-Pushing Cultural Moments of 2018
+    Oct. 5,
+2018
+    </div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="related-coverage" class="section related-coverage nocontent robots-nocontent">
+
+<div class="nocontent robots-nocontent">
+
+## More on NYTimes.com
+
+</div>
+
+</div>
+
+<div id="BottomAd" class="ad bottom-ad nocontent robots-nocontent">
+
+<div class="accessibility-ad-header">
+
+Advertisement
+
+</div>
+
+</div>
+
+</div>
+
+## Site Information Navigation
+
+  - [©
+    <span itemprop="copyrightYear">2020</span><span itemprop="copyrightHolder provider sourceOrganization" itemscope="" itemtype="http://schema.org/Organization" itemid="http://www.nytimes3xbfgragh.onion"><span itemprop="name">
+    The New York Times
+    Company</span></span>](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014792127-Copyright-notice)
+  - [Home](https://www.nytimes3xbfgragh.onion)
+  - [Search](https://www.nytimes3xbfgragh.onion/search/)
+  - Accessibility concerns? Email us at <accessibility@NYTimes.com>. We
+    would love to hear from you.
+  - [Contact
+    Us](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115015385887-Contact-Us)
+  - [Work with us](https://www.nytco.com/careers/)
+  - [Advertise](https://nytmediakit.com/)
+  - [Your Ad
+    Choices](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014892108-Privacy-policy#pp)
+  - [Privacy](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014892108-Privacy-policy)
+  - [Terms of
+    Service](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014893428-Terms-of-service)
+  - [Terms of
+    Sale](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014893968-Terms-of-sale)
+
+## Site Information Navigation
+
+  - [Site Map](https://spiderbites.nytimes3xbfgragh.onion)
+  - [Help](https://help.nytimes3xbfgragh.onion/hc/en-us)
+  - [Site
+    Feedback](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115015385887-Contact-Us?redir=myacc)
+  - [Subscriptions](https://www.nytimes3xbfgragh.onion/subscription?campaignId=37WXW)
+
+</div>
+
+</div>
+
+<div id="Inv1" class="ad inv1-ad hidden">
+
+</div>
+
+<div id="Inv2" class="ad inv2-ad hidden">
+
+</div>
+
+<div id="Inv3" class="ad inv3-ad hidden">
+
+</div>
+
+<div id="ab1" class="ad ab1-ad hidden">
+
+</div>
+
+<div id="ab2" class="ad ab2-ad hidden">
+
+</div>
+
+<div id="ab3" class="ad ab3-ad hidden">
+
+</div>
+
+<div id="prop1" class="ad prop1-ad hidden">
+
+</div>
+
+<div id="prop2" class="ad prop2-ad hidden">
+
+</div>
+
+<div id="Anchor" class="ad anchor-ad hidden">
+
+</div>
+
+<div id="ADX_CLIENTSIDE" class="ad adx-clientside-ad hidden">
+
+</div>

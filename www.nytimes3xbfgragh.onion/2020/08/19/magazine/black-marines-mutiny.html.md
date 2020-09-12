@@ -1,0 +1,1133 @@
+<div id="app">
+
+<div>
+
+<div>
+
+<div>
+
+</div>
+
+<div data-aria-hidden="false">
+
+<div id="site-content" data-role="main">
+
+<div>
+
+<div class="css-1aor85t" style="opacity:0.000000001;z-index:-1;visibility:hidden">
+
+<div class="css-1hqnpie">
+
+<div class="css-epjblv">
+
+<span class="css-z6pdnw">The Untold Story of the Black Marines Charged
+With Mutiny at
+Sea</span>
+
+</div>
+
+<div class="css-k008qs">
+
+<div class="css-1iwv8en">
+
+<span class="css-18z7m18"></span>
+
+<div>
+
+<div>
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-1n6z4y">https://nyti.ms/2Qjqe1f</span>
+
+<div class="css-1705lsu">
+
+<div class="css-4xjgmj">
+
+<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+
+  - 
+  - 
+  - 
+  - 
+    
+    <div class="css-6n7j50">
+    
+    </div>
+
+  - 
+  - 
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-11qgg8s">
+
+</div>
+
+<div id="fullBleedHeaderContent">
+
+<div class="css-1mre5cn">
+
+![<span class="css-i48y28 e13ogyst0" data-aria-hidden="true">Pfc.
+Alexander Jenkins Jr. (back left, in glasses) and Pfc. Roy L. Barnwell
+(far right) with other Black Marines on the U.S.S.
+Sumter.</span><span class="css-ach9cc e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>From
+Bart
+Lubow</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/magazine/19ATWAR-24/19ATWAR-24-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+<div class="css-hy7cq4">
+
+<div class="css-6cn7ki">
+
+<div class="NYTAppHideMasthead css-1bcu9v6 e1suatyy0">
+
+<div class="section css-1o1qe8k e1suatyy2">
+
+<div class="css-cu5p7t er09x8g0">
+
+<div class="css-6n7j50">
+
+</div>
+
+<span class="css-1dv1kvn">Sections</span>
+
+[Skip to content](#site-content)[Skip to site index](#site-index)
+
+</div>
+
+<div class="css-10698na e1huz5gh0">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-10ej3is ezdmqqa0">The Great Read</span>At War
+
+<div class="css-1sojcmr ehdk2mb0">
+
+# The Untold Story of the Black Marines Charged With Mutiny at Sea
+
+</div>
+
+Racial strife aboard a Navy ship left three men facing the threat of the
+death penalty. They became little more than statistics in the military’s
+dismal record of race relations in the Vietnam era.
+
+</div>
+
+</div>
+
+<div class="css-nwzfg5 e1gnum310">
+
+<span class="css-1f9pvn2 magazine">Pfc. Alexander Jenkins Jr. (back
+left, in glasses) and Pfc. Roy L. Barnwell (far right) with other Black
+Marines on the U.S.S.
+Sumter.</span><span class="css-ach9cc e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>From
+Bart Lubow</span></span></span>
+
+</div>
+
+<div id="sponsor-wrapper" class="css-1hyfx7x">
+
+<div id="sponsor-slug" class="css-19vbshk">
+
+Supported by
+
+</div>
+
+[Continue reading the main
+story](#after-sponsor)
+
+<div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
+
+</div>
+
+<div id="after-sponsor">
+
+</div>
+
+</div>
+
+<div class="css-1fl1393 e1gnum311">
+
+<div class="css-18e8msd">
+
+<div class="css-vp77d3 epjyd6m0">
+
+<div class="css-hus3qt ey68jwv0" data-aria-hidden="true">
+
+[![John
+Ismay](https://static01.graylady3jvrrxbe.onion/images/2018/07/12/multimedia/author-john-ismay/author-john-ismay-thumbLarge.png
+"John Ismay")](https://www.nytimes3xbfgragh.onion/by/john-ismay)
+
+</div>
+
+<div class="css-1baulvz">
+
+By [<span class="css-1baulvz last-byline" itemprop="name">John
+Ismay</span>](https://www.nytimes3xbfgragh.onion/by/john-ismay)
+
+</div>
+
+</div>
+
+  - Aug. 19,
+    2020
+
+  - 
+    
+    <div class="css-4xjgmj">
+    
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    
+      - 
+      - 
+      - 
+      - 
+        
+        <div class="css-6n7j50">
+        
+        </div>
+    
+      - 
+      - 
+    
+    </div>
+    
+    </div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="section meteredContent css-1r7ky0e" name="articleBody" itemprop="articleBody">
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+One evening in late August 1972, as the American tank-landing ship
+U.S.S. Sumter was steaming off the coast of Vietnam, a Marine onboard
+dropped the needle on the turntable in front of him, sending music to
+the loudspeakers bolted to the bulkheads in the cavernous spaces where
+hundreds of sailors and Marines slept and hung out. Some members of the
+crew were not ready for what they heard. “Sun, up down. On the corner,
+uptown. I turn around and hear the sound. A voice is talking about who’s
+gonna die next. Cause the white man’s got a God complex.”
+
+Though nobody knew it at the moment, that song was about to set off a
+series of events that would leave three Black Marines facing charges of
+mutiny and the possibility of execution or lengthy imprisonment. Others
+were at risk of being thrown out of the Marine Corps with discharges
+that would maim their job prospects in civilian America for the rest of
+their lives. They were caught up in events that were not only about race
+but also about structural racism; not just a matter of individuals and
+personalities but of a U.S. military establishment that treated people
+of color differently from white service members — starting with
+recruitment and induction, through combat deployments, right on through
+the charges and punishments that arose when conflicts boiled over.
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+![<span class="css-i48y28 e13ogyst0" data-aria-hidden="true">Barnwell
+(second from left) and Jenkins (right, in glasses) in formation with
+other
+Marines.</span><span class="css-ach9cc e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>From
+Alexander Jenkins
+Jr.</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/magazine/19ATWAR-11/19ATWAR-11-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+The Marine spinning records that day was Pfc. Alexander Jenkins Jr., a
+19-year-old from Newport News, Va., whose outgoing personality had
+earned him a turn as the ship’s D.J. During tedious weeks at sea, music
+was one way to pass the time, but while Black Marines listened to songs
+by white artists with no complaints, some white service members were not
+so open in their tastes. Jenkins quickly found himself under verbal
+attack from white sergeants and officers — part of a campaign of
+harassment and poor treatment that included mess cooks intentionally
+handing him and his friends cold and inedible food, surprise uniform
+inspections and capricious punishments from noncommissioned officers.
+Eventually, it escalated to Black and white Marines physically fighting
+each other on a ship at sea.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Jenkins kept playing the newest records and tapes he could find by Black
+artists, many of which reflected the antiwar and Black-liberation
+movements happening at home, alongside country and western albums and
+hits by the Beatles. “I was playing ‘What’s Going On’ by Marvin Gaye,
+and I was playing ‘Bring the Boys Home’ by Freda Payne,” Jenkins
+recalls. “But playing ‘White Man’s Got a God Complex’ by the Last Poets
+really set the white guys off.”
+
+Jenkins remembers being pulled into a small room on the ship and
+questioned by a group of higher-ranking white Marines about the
+Harlem-based hip-hop pioneers’ spoken-word song, which touched on
+poverty, prostitution, drugs, the military-industrial complex, white
+supremacy and the killings of Native Americans and Blacks. They accused
+Jenkins of playing music that would incite a riot. “If you don’t have a
+God complex, then this doesn’t apply to you, now does it?” Jenkins told
+them. “But if you do have a God complex, then you’ve got to listen,” he
+added. A white Marine captain jumped out of his chair so forcefully that
+it flipped over. “You think you’re so smart, don’t you?” the Marine
+screamed in Jenkins’s face. “I’m sorry, sir. I really don’t understand,”
+Jenkins countered. “It’s a damn record, OK? It’s got a nice beat.”
+Jenkins was incensed, but he decided against pushing things much
+further. “I didn’t want to get shot without a trial,” he recalled.
+Despite Jenkins’s attempt to keep tensions from escalating, relations
+between white and Black Marines aboard the Sumter were about to get much
+worse.
+
+**Put into service just** two years earlier, the Sumter steamed off the
+coast of Vietnam with more than 150 Marines from a hodgepodge of
+different units from the American bases on Okinawa, Japan. Among them
+were Black servicemen who had been pushed to become truck drivers or
+infantry troops because of racial bias in assessment tests. They were
+part of a quick-reaction force that could be put ashore anywhere along
+the coast to fight the Viet Cong and North Vietnamese Army should the
+need arise. Until that time, though, they waited.
+
+Even as the Marine Corps publicly announced efforts to reduce racist
+attacks within the ranks, harassment, mistreatment and violence against
+Blacks was commonplace and accepted, both in the United States (on bases
+like Camp Lejeune in North Carolina, where the Ku Klux Klan posted a
+billboard reading “This Is Klan Country” on a nearby highway) and on its
+outposts in Okinawa and elsewhere. The more besieged the Black Marines
+on the Sumter felt, the tighter they drew together for mutual support
+and protection. But such security was ephemeral. Jenkins and two of his
+close friends were about to have their young lives upended by an
+incident that was hardly reported and remained almost invisible to the
+public. The three Marines became little more than statistics in the
+Corps’s dismal record of race relations in the Vietnam era.
+
+\[[*Sign up for the weekly At War
+newsletter*](https://www.nytimes3xbfgragh.onion/newsletters/at-war) *to
+receive stories about duty, conflict and consequence.*\]
+
+Trouble had already flared up in July outside the gates of the U.S.
+Navy’s base in Subic Bay, Philippines, during a port call. There, in
+the town of Olongapo, sailors and Marines availed themselves of every
+kind of vice in the de facto racially segregated entertainment district.
+Black Marines and sailors tended to hang out in a neighborhood called
+the Jungle, while their white counterparts had the run of the bars and
+brothels elsewhere. An investigation by the director of naval
+intelligence mentioned “racial incidents” between whites and Blacks
+during Sumter’s port visit there, where fistfights in the streets and
+bars were not unusual. Sailors and Marines used the port visit to bring
+a fresh supply of marijuana and heroin onto the ship for some diversion
+during long days at sea.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Back on the ship, white officers harassed Black Marines for minor
+infractions involving their hair and uniforms. Tight quarters left
+little room for the men to blow off steam, and small routine squabbles
+soon escalated. The ship’s radio station — the loudspeaker system
+Jenkins played music on in the evenings — was one of the few sources of
+entertainment, and now even that became a point of contention.
+
+Days after Jenkins was reprimanded, larger and more intense fights among
+the Marines broke out. There are varying accounts of what happened and
+why. Black and white Marines alike recall that a series of fistfights
+throughout the deployment increased in frequency in the early days of
+September on Sumter. In interviews with The Times, a half-dozen sailors
+and Marines who were on the Sumter recalled these fights — some started
+by whites, others by Blacks. The Marines’ leadership, however, zeroed in
+on Jenkins, along with Pfc. Roy L. Barnwell and Lance Cpl. James S.
+Blackwell, as the “ringleaders” who were instigating general unrest and
+resistance to their orders.
+
+After Jenkins was told he couldn’t play the Last Poets, 64 of the 65
+Black Marines on the ship submitted an informal complaint to the
+highest-ranking Marine officer on board, Capt. John B. Krueger,
+according to an account written a few months afterward by the defense
+team that Jenkins, Barnwell and Blackwell soon needed. In their note,
+the Black Marines told Krueger that they were being denied the right to
+play their own music. “Being that races are different in certain
+aspects, and music being one,” it read, “then the proper officials must
+make way as to the satisfaction of each and every race regardless of
+minority.” The Marines then submitted a request for a formal meeting
+with their battalion commander, who was located on another ship nearby.
+It was denied, further inflaming interactions between the men on board.
+
+Tense conditions and simmering violence are detailed in the 1973 account
+written by the legal team. White noncommissioned officers prowled the
+berthing areas, harassing Black Marines. And when they talked back, they
+were formally punished. One white lieutenant is said to have had a Black
+Marine thrown into the ship’s brig — a jail with barred cells — and fed
+only bread and water for three days for nothing more than not having his
+uniform completely in order. The same officer returned to the brig to
+further harass and physically beat the man, according to the legal
+team’s account. In three separate incidents, one Black Marine had a
+wrench thrown at him, another was cut with a sharp object and a third
+was attacked with a knife, though those incidents were never
+investigated by Marine
+leadership.
+
+</div>
+
+</div>
+
+<div class="css-1h0maa8 e73j0it0">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:257.1333333333334px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-i48y28 e13ogyst0" data-aria-hidden="true">The U.S.S.
+Sumter steamed off the coast of Vietnam with more than 150 Marines from
+a hodgepodge of different
+units.</span><span class="css-ach9cc e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Alexander
+Jenkins
+Jr.</span></span>
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:260.35555555555555px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-i48y28 e13ogyst0" data-aria-hidden="true">Incidents
+like what happened on the Sumter were not uncommon on military bases
+around the world in the late 1960s and early
+1970s.</span><span class="css-ach9cc e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Alexander
+Jenkins Jr.</span></span>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Joe Mueller, a white Marine officer who was then a second lieutenant on
+his first deployment, remembers differently. In an interview, he
+recalled Black Marines testing the limits of discipline in a number of
+ways, including humming the tune of “White Man’s Got a God Complex” as a
+form of protest. On duty as the officer of the day on Sept. 7, he heard
+a verbal disagreement outside the mess decks that quickly escalated into
+the smacking sounds of fists. Somebody hit the switch that flipped the
+overhead lights from nighttime red to bright white, and everyone froze.
+Among the dozen or more men involved in the fight, Mueller says, he saw
+three Black Marines — Jenkins, Barnwell and Blackwell — standing over a
+white Marine. Forty-eight years later, Jenkins has no recollection of
+this particular incident.
+
+Another fight between Black and white Marines broke out the next day on
+the ship’s tank deck at lunchtime. First Lt. Al Vargas, the commander of
+the embarked infantry company, remembers being struck in his side as he
+dove in to help break up the melee. He then ordered all of the men under
+his command back to their bunks. That’s when Krueger, two first
+lieutenants, a gunnery sergeant and a staff sergeant came to arrest
+Jenkins. Jenkins doesn’t deny that he was involved in this fight, but
+his memory isn’t clear on the details. “I don’t think I hit him, but I’m
+the one they arrested for it,” Jenkins says.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+A twin-rotor CH-46 helicopter landed on the Sumter, loaded at least six
+Marines — Jenkins, Barnwell and Blackwell among them — and flew off. A
+Marine officer assured the ship’s leaders that the “troublemakers,” the
+oldest of whom was 22 years old, would face discipline elsewhere. For
+Jenkins, Barnwell and Blackwell, the days and weeks that followed would
+have lasting repercussions on the rest of their lives.
+
+The helicopter put the men ashore in Vietnam. In Danang, Jenkins
+recalled, a colonel sat him down in a room and accused him of either
+being a communist or a part of the Black power movement. Jenkins was
+mystified, pointing out that he had volunteered for the Marine Corps,
+and being on a ship in the middle of the Pacific, he had no telephone
+and no possible communication with either group. “I said, ‘Sir, this is
+what’s going on: We’re being treated unfairly. Black men are getting
+written up for the length of our hair, and harassed about our
+uniforms.’”
+
+Jenkins says that all the Marines on the ship wanted to go ashore and
+fight the Viet Cong, but now, without any other outlets, they were
+fighting each other. “I got to love and trust that guy next to me,”
+Jenkins told the colonel. “And I’m not going to fight the enemy with him
+if he doesn’t like Black people.”
+
+**The incidents on the** Sumter led the Marine Corps to charge Jenkins,
+Barnwell and Blackwell with mutiny, for which they could have faced the
+death penalty if found guilty. It was the first time since the Civil War
+that American sailors or Marines had been charged with mutiny at sea,
+according to two people who worked on the case in 1973. They were also
+charged with various counts of assault, riot and resisting arrest.
+Although two white Marines initially were charged with assault and one
+with inciting to riot, all three were acquitted. Only one white Marine,
+Sgt. Gary L. Wright, was convicted of any crime: dereliction of duty for
+having “refereed” a fight between Barnwell and a white Marine rather
+than breaking it up, but he received no punishment. The case did not
+attract wide public attention, though it was one of many that revealed
+the institutional racial biases that held strong across the American
+military decades after the armed forces were desegregated.
+
+Incidents like what happened on the Sumter were common on military bases
+and warships around the world in the late 1960s and early 1970s — a
+reflection of what was happening more broadly as the civil rights
+movement gained traction across the United States. Pervasive
+mistreatment of Black inmates in base stockades — essentially military
+jails — sparked riots in 1968 and 1969 at Fort Bragg in North Carolina,
+Fort Carson in Colorado, Fort Dix in New Jersey, Fort Riley in Kansas,
+Camp Pendleton in California and at Long Binh and Danang in Vietnam. In
+May 1971, a fight between hundreds of Black and white airmen at Travis
+Air Force Base in California resulted in the officers’ club being burned
+to the ground.
+
+Camp Lejeune in North Carolina saw some of the most vicious and
+persistent fighting between Black and white Marines in 1969. On
+[Jul. 20](https://www.nytimes3xbfgragh.onion/1969/07/24/archives/3-marines-hurt-in-lejeune-fight-hospitalized-after-a-racial.html),
+three white Marines were hospitalized — one with stab wounds to the back
+— after 44 Marines fought it out on base; one white Marine [later
+died](https://www.nytimes3xbfgragh.onion/1969/07/28/archives/corporal-20-dies-of-injuries-week-after-marine-base-fight.html)
+from his injuries. The commanding officer of the Second Marine Division
+there called it an isolated incident, but his Army counterpart at the
+82nd Airborne at nearby Fort Bragg recognized the seriousness of the
+problem,
+[saying](https://www.nytimes3xbfgragh.onion/1969/08/23/archives/airborne-general-derides-marines-on-racial-fights.html)
+“my men will not sink to the level of the Marines at Camp Lejeune.” A
+1971 report by the Congressional Black Caucus laid out the issues in
+stark relief, saying “subtle racism” had “crippled and impaired the
+effectiveness of American troops” and observed that “the explosiveness
+which prevails is made more serious by the amazing fact that many of
+those in command positions on all levels refuse to realize that even in
+a relatively controlled society as the military racism can and does
+exist.”
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:390.53333333333336px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-i48y28 e13ogyst0" data-aria-hidden="true">Jenkins in
+March 1972 in the barracks on base at Camp Foster, where he was
+stationed for one
+year.</span><span class="css-ach9cc e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>From
+Alexander Jenkins
+Jr.</span></span>
+
+</div>
+
+</div>
+
+<div class="css-a7yk8a e73j0it0">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:578.8423153692614px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-i48y28 e13ogyst0" data-aria-hidden="true">Barnwell
+(right) and a fellow Marine on the Sumter’s flight deck in September
+1972.</span><span class="css-ach9cc e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Alexander
+Jenkins Jr.</span></span>
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:580px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-i48y28 e13ogyst0" data-aria-hidden="true">Lance Cpl.
+James S. Blackwell (right) with a sailor on the flight
+deck.</span><span class="css-ach9cc e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Alexander
+Jenkins Jr.</span></span>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Just a month after the Sumter fights, a riot aboard the aircraft carrier
+[U.S.S. Kitty
+Hawk](https://www.nytimes3xbfgragh.onion/1972/11/29/archives/kitty-hawk-back-at-home-port-sailors-describe-racial-conflict.html),
+a tense sit-down strike on the carrier [U.S.S.
+Constellation](https://www.nytimes3xbfgragh.onion/1973/02/18/archives/the-constellation-incident-a-sort-of-mutiny.html),
+and a beating on the supply ship [U.S.N.S.
+Hassayampa](https://www.nytimes3xbfgragh.onion/1972/11/11/archives/zumwalt-rebukes-top-navy-leaders-on-racial-unrest-chief-berates.html)
+made national headlines and moved the military to investigate the
+broader source of the unrest. Adm. Elmo Zumwalt, the Navy’s top admiral,
+ordered an investigation into racial strife. The resulting report found
+that from July 10 to Nov. 5, 1972, a total of 318 race-related incidents
+were documented at major Marine Corps installations and that nearly half
+of those took place on two of the service’s bases in Okinawa, where
+Jenkins, Blackwell, Barnwell and the rest of the Marines aboard the
+Sumter had come from. Despite these findings, there would be little
+accountability among leaders for the racial injustices that were
+festering within the ranks.
+
+The House Armed Services Committee, led by the staunch segregationist
+[F. Edward
+Hébert](https://www.nytimes3xbfgragh.onion/1979/12/30/archives/f-edward-hebert-exlawmaker-dies-conservative-louisiana-democrat.html)
+of Louisiana, immediately ordered an investigation of the events aboard
+the two carriers. The Sumter incident was not included. On Jan. 2, 1973,
+the subcommittee issued its report, placing all of the blame on Black
+sailors it called “thugs” and deemed to be mostly of “below-average
+mental capacity.” It further blamed the programs Zumwalt had instituted
+to eradicate systemic racism within the Navy for creating a culture of
+“permissiveness” instead of taking a strict law-and-order approach
+with Black sailors and Marines.
+
+“The idea of this committee was to show that these equal-opportunity
+programs were fomenting racial unrest,” said the Navy historian John
+Sherwood. “The congressmen felt the reforms were the problem, and
+hopefully Zumwalt would be fired, his programs abolished and the Navy
+would go back to the way it was in the 1950s.”
+
+Sherwood notes that Hébert was part of a broad coalition of Southern
+segregationists in Congress — two of whom, Representative [Carl
+Vinson](https://www.nytimes3xbfgragh.onion/1981/06/02/obituaries/carl-vinson-97-ex-congressman-who-was-with-house-50-years-dies.html)
+of Georgia and Senator John C. Stennis of Mississippi, the Navy later
+named aircraft carriers for — that had a great deal of influence on the
+Navy, and by extension, the Marine Corps, in the pre-Zumwalt era. For
+members of Congress like Hébert, Vinson and Stennis, the civil rights
+movement was an existential threat to the established order.
+
+Zumwalt held onto his job, retiring in 1974. In the years that followed,
+his successor continued his efforts on racial equity, but over time the
+attention to reform petered out. The services have made progress in
+adding Black and female officers, but have largely failed to place
+people of color into leadership roles at the very top, which in 2020 are
+still [almost entirely filled by white
+men](https://www.nytimes3xbfgragh.onion/2020/05/25/us/politics/military-minorities-leadership.html).
+Recently the service chiefs announced a new round of task forces devoted
+to stamping out structural racism. “We must work to identify and
+eliminate individual and systemic racism within our force,” the Navy’s
+top uniformed officer, Adm. Mike Gilday, said in June, adding that the
+new program would “work to identify and remove racial barriers and
+improve inclusion within our Navy.” But even as these top-down
+initiatives are being put into place, experts are repeatedly warning of
+[white
+supremacy](https://www.nytimes3xbfgragh.onion/2019/02/27/us/military-white-nationalists-extremists.html)
+in the ranks.
+
+**Back on the ship,** 20-year-old Lance Cpl. Alexander Holmes of
+Brooklyn realized that Jenkins, Barnwell and Blackwell were in real
+trouble. He felt that if things on the Sumter quieted down completely,
+the Marine leadership would think that those three were the only
+problem. “I wanted to keep the tension up,” Holmes recalls.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Holmes was joined by Pfc. Harry R. Wilson and Pfc. Charles S. Ross in
+trying to keep the heat off their friends who had just been flown off
+the ship. Holmes passed out butter knives to other Black Marines while
+on the mess deck at mealtime, just so the white Marines would know that
+things had not smoothed over. “I knew from listening to Malcolm X and
+Martin Luther King Jr. that the oppressor always feels like when they
+cut the head off the snake that things will go back to normal,” Holmes
+says. “But we wanted them to know that, no, the tension is still here.”
+
+It was only when Holmes disembarked the ship in Okinawa in October that
+he learned that he too was in trouble. He was shown 20 to 25 witness
+statements from white Marines recounting the incident with the butter
+knives. Holmes readily admitted what happened and expressed regret.
+“This white Marine lawyer sits me down and says if I just blame
+everything on Jenkins, Barnwell and Blackwell, I’d be home for
+Christmas,” Holmes said. “He knew I was supposed to be out of the Marine
+Corps in November anyway, so he was just trying to get me to flip on my
+friends.” Holmes refused. The Marines eventually dropped their charges
+of incitement against Holmes, and he flew to Naval Station Treasure
+Island in San Francisco in February 1973, collected his
+honorable-discharge paperwork and returned to Brooklyn to begin college.
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Back in their jail cells on Okinawa, Jenkins, Barnwell and Blackwell
+awaited the arrival of a lawyer from the States. One of Blackwell’s
+cousins in Chicago got the attention of the National Conference of Black
+Lawyers, who promised to send a defense attorney. They tapped Ed Bell, a
+young Oakland-based lawyer who planned to catch a military cargo flight
+to meet his clients in Okinawa. After informing a Marine officer in
+nearby Alameda that he intended to spread word of the Black liberation
+movement among the troops in Okinawa upon his arrival, Bell was told by
+Marine officials that all charges against Jenkins, Barnwell and
+Blackwell had been dropped. Bell took them at their word, turned around
+and went home. But it was a lie.
+
+The three Marines in Okinawa were never told why the lawyer promised to
+them never arrived, and they came to rely on a free legal clinic in
+Koza, outside of Kadena Air Base, where Bart Lubow, a 25-year-old
+civilian from Long Island, N.Y., worked as a legal assistant. Along with
+the lawyers Bill Schaap and Doug Sorensen, the legal assistants Ellen
+Ray and Lubow helped Jenkins, Barnwell and Blackwell mount a defense
+during the military’s equivalent of a grand jury hearing. It was Lubow
+who wrote the near-contemporaneous account of the clashes on the ship.
+That record, which he shared with The Times, details a military justice
+system on Okinawa rife with racial animus that disproportionately
+punished Black Marines, even for noncrimes like dapping, or for showing
+a closed-fist gesture among other Black service members.
+
+Jenkins denies that he, Barnwell and Blackwell were ringleaders, saying
+instead that they were perhaps three of the most visible Black Marines
+who challenged senior leaders for mistreating them on the Sumter. “I
+think I was singled out not just for the music, but because I was the
+most boisterous,” Jenkins recalls. “We held classes on Black history on
+the ship, and I would talk to the other Black Marines about nonviolent
+resistance.” That didn’t matter. The response the Black Marines received
+to their organizing, Jenkins said, was
+violence.
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:300.31111111111113px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-i48y28 e13ogyst0" data-aria-hidden="true">From left:
+Jenkins, Barnwell and Blackwell at the judge advocate general’s office
+for a meeting with their lawyers in early
+1973.</span><span class="css-ach9cc e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>From
+Bart Lubow</span></span>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+**Jenkins, Barnwell and** Blackwell, who spent months in the brig in
+Okinawa, became known as the “Sumter Three” in the Black and underground
+G.I. newspapers that covered their case. The former Marine lawyer David
+Nelson recalls that the matter consumed the entire legal office on
+Okinawa for months. With Schaap and Sorensen pushing for exoneration and
+the Marine Corps not eager for more bad publicity, the prosecutor
+eventually felt pressured to resolve the case. The mutiny charges were
+dropped and eventually the other charges were too, in exchange for the
+three Marines accepting unfavorable administrative separations in lieu
+of courts-martial. The outcome could have been much worse. The
+prosecutor had been pushing for 65 years of prison for each man, with
+Blackwell facing an additional charge of slander for calling his
+commanding officer a racist. Jenkins received a general discharge under
+honorable conditions — a discharge status that is not considered fully
+honorable and denies veterans certain government benefits — and Lubow
+recalls that Barnwell and Blackwell each received an “undesirable
+discharge,” which is another step worse than the one Jenkins received.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Between 1950 and 1980, 1.5 million service members received less than
+fully honorable discharges, often referred to as “bad paper” discharges,
+through administrative separations — with racial bias often playing a
+role in those decisions. In 1972, a Department of Defense task force
+found that Black service members “received a higher proportion of
+general and undesirable discharges than whites of similar aptitude and
+education.” That same year, the rate of service members being discharged
+with general or other-than-honorable discharges from the Marine Corps
+was 13 percent — the highest percentage of all of the services. (While
+the military has taken some steps to rectify racial disparities within
+its ranks, people of color continue to suffer disproportionately under
+the military justice system. As recently as 2015, Black service members
+were “substantially more likely than white service members to face
+military justice or disciplinary action,” according to the legal justice
+group Protect Our Defenders.)
+
+The consequences of less than fully honorable discharges are lifelong.
+Numerous studies have found higher rates of unemployment, homelessness,
+substance abuse and suicide among veterans with bad paper. The 1972 task
+force, which even then called for greater protections of service
+members’ “fundamental rights,” argued that the issuance of bad paper
+to a veteran “will haunt him forever: affecting the respect of his
+family, his standing in the community, impeding his effort to regain a
+productive and meaningful role in society. The bad discharge is a
+constant reinforcement of a negative self-image, a reminder that the
+individual is ‘unsuitable, unfit or undesirable’ in the eyes of his
+country.” With that stigma, the Sumter Three were all but guaranteed a
+life of hardship without reprieve.
+
+**Upon being released** from Okinawa, Jenkins briefly returned to live
+with his mother and father in Virginia, but feeling that he had outgrown
+his hometown, he moved to Detroit, where he stayed with his sister and
+enrolled in college. Using the G.I. Bill to fund his education, he
+started in the pre-med program at Wayne State University but soon found
+himself interested in the new up-and-coming technology of computer
+programming. He married, and when he had a family to support, he left
+school in favor of getting a full-time job as a truck driver. But
+Jenkins had trouble sleeping and suffered from depression, paranoia and
+frequent anxiety attacks that developed after he returned home from
+Japan. For self-defense, he bought an AR-15 for $500, similar to the M16
+he carried in the Marines. One night he fired it at a thief who tried to
+steal a barbecue from his yard. The experience so shook Jenkins that he
+sold the rifle for almost half of what he paid, just to get it out of
+his house. “I felt besieged by the system,” Jenkins says, “because the
+system was always trying to get me, on something.”
+
+In Detroit’s withering economy, jobs came and went — but sometimes the
+layoffs were unexplained, in ways that suggested that employers were
+acting out of racial bias or had found out about his discharge from the
+Marines. In one case, after excelling as a computer programmer for a
+bank and earning promotions, Jenkins was called in one day and
+terminated, with no explanation other than an ominous hint that they had
+found out something about his past. The stress and frustration grew over
+decades, leading to an emotional collapse at age 38 that left him
+briefly hospitalized.
+
+James Blackwell also struggled when he got home. His sister Linda Page
+puts it bluntly: “When he got out he was a total mess.” In one of Page’s
+spare bedrooms, he kicked the heroin habit he brought back with him, but
+he continued to drink heavily. In 1994, at 43 years old, he died
+suddenly of an aneurysm right outside the Cook County Circuit Courthouse
+in Chicago. Page says Blackwell worked for the Yellow Pages delivering
+telephone books and made money as an alley mechanic on the side. She
+recalls him talking about his time on Okinawa awaiting his
+court-martial. “They kept him in a shed, and he could only see from
+peeking out through the cracks,” she says. “He had real bad
+PTSD.”
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:257.77777777777777px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-i48y28 e13ogyst0" data-aria-hidden="true">Jenkins at
+home in Detroit in
+July.</span><span class="css-ach9cc e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Cydni
+Elledge for The New York Times</span></span>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Barnwell seems to have fared even worse. His sister Patricia Gorman says
+Barnwell lived in San Diego after leaving the Marine Corps, frequently
+moving from one apartment to another. But she only learned that from him
+much later: When he returned from Okinawa, he didn’t contact his family
+for more than 25 years. He got in touch in 1998, and she bought him a
+round-trip train ticket to visit her in Choctaw County, Ala., where they
+grew up. It was the first time she saw him since he went away to boot
+camp in 1970. It was soon apparent that he wasn’t about to make himself
+at home there. Encountering slow service at a restaurant run by white
+people, he suspected racism and wasn’t quiet about it. On a different
+day, he was pulled over by the police while driving. After that visit,
+he never went back to Alabama. In 2001, Barnwell called Gorman to say
+the cancer he had once beaten was back and he might have H.I.V. Public
+records indicate Barnwell died April 9, 2001, in Los Angeles of
+complications from AIDS. His family was never notified of his death, and
+after 90 days, his remains were cremated and his ashes interred in a
+mass grave for unclaimed bodies in Los Angeles County.
+
+Jenkins still lives in Detroit, where he has quietly spent the last four
+decades distancing himself from what happened on the Sumter, while still
+maintaining a fierce pride in having been a Marine. Jenkins had wanted
+to join the Corps since he was very young, and studied its history
+before joining at age 17. He initially hoped to make the military a
+career, but quickly chafed against systemic racism in the service. “I
+was full of piss and vinegar back then,” Jenkins says. “I look back to
+my 19-year-old self and think, What the hell was I thinking?”
+
+He says the only thing that saved him was some advice he got from his
+uncle, John A. Jenkins, a Korean War combat vet, when he first got home
+from Okinawa. “I was mad as hell, angry at the world then,” Jenkins
+says. “He drove it into me that if the cops stop you, that’s their
+chance to mess you up. It’s almost like coming to America as a
+foreigner: You have to learn the rules as a Black man to survive. You
+have to know what to do and what not to do.” Jenkins set out on the
+straight and narrow, opting out of joints passed around at parties and
+being meticulous about observing traffic laws. He says he has been
+pulled over by the police only once or twice since 1973.
+
+After his brief hospitalization in 1991, Jenkins stopped working outside
+his home and devoted himself to helping his wife, Jerry, advance in her
+career, and shepherding his daughter, Tanzania, through school to a
+successful life as a systems engineer. Being charged with mutiny at sea
+in a time of war shattered Jenkins emotionally — and readily brought
+tears 48 years later as he discussed it. “I’ve been a recluse all these
+years, because I didn’t want these questions asked, and didn’t want to
+talk about it,” Jenkins says. About 15 years ago, he joined a local
+V.F.W. post to try to meet people. “Most of the guys were Korea and
+World War II guys who carried these same issues,” Jenkins says. It
+became difficult for him to keep going back, because so many appeared to
+be drinking themselves to death.
+
+As Jenkins slowly rebuilt his life, he lost track of the only two people
+who truly understood what happened to him: Barnwell and Blackwell.
+Jenkins only just learned of their deaths. “I was hoping that at least
+one of the two of them would be in a stable situation and be able to be
+here now,” Jenkins says. “That’s why I feel so alone, you know. I feel
+very — almost guilty about this situation that neither of those two are
+here.”
+
+While most days are better, Jenkins struggled with thoughts of suicide
+as recently as 10 years ago. On days when his mind goes back to the
+Sumter, his wife can tell, because he falls quiet for hours at a time.
+“That situation on the Sumter screwed up my whole life,” Jenkins says.
+“I had to put on a different face to the world just to survive.”
+
+-----
+
+**Sign up for** **[our
+newsletter](https://www.nytimes3xbfgragh.onion/newsletters/at-war)**
+**to get the best of At War delivered to your inbox every week. For more
+coverage of conflict, visit**
+**[NYTimes.com/atwar](https://www.nytimes3xbfgragh.onion/spotlight/atwar).**
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+<div id="bottom-wrapper" class="css-1ede5it">
+
+<div id="bottom-slug" class="css-l9onyx">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-bottom)
+
+<div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+</div>
+
+<div id="after-bottom">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+## Site Index
+
+<div>
+
+</div>
+
+## Site Information Navigation
+
+  - [© <span>2020</span> <span>The New York Times
+    Company</span>](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014792127-Copyright-notice)
+
+<!-- end list -->
+
+  - [NYTCo](https://www.nytco.com/)
+  - [Contact
+    Us](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115015385887-Contact-Us)
+  - [Work with us](https://www.nytco.com/careers/)
+  - [Advertise](https://nytmediakit.com/)
+  - [T Brand Studio](http://www.tbrandstudio.com/)
+  - [Your Ad
+    Choices](https://www.nytimes3xbfgragh.onion/privacy/cookie-policy#how-do-i-manage-trackers)
+  - [Privacy](https://www.nytimes3xbfgragh.onion/privacy)
+  - [Terms of
+    Service](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014893428-Terms-of-service)
+  - [Terms of
+    Sale](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014893968-Terms-of-sale)
+  - [Site
+    Map](https://spiderbites.nytimes3xbfgragh.onion)
+  - [Help](https://help.nytimes3xbfgragh.onion/hc/en-us)
+  - [Subscriptions](https://www.nytimes3xbfgragh.onion/subscription?campaignId=37WXW)
+
+</div>
+
+</div>
+
+</div>
+
+</div>

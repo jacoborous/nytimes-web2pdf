@@ -1,0 +1,701 @@
+<div id="app">
+
+<div>
+
+<div>
+
+<div>
+
+</div>
+
+<div data-aria-hidden="false">
+
+<div id="site-content" data-role="main">
+
+<div>
+
+<div class="css-1aor85t" style="opacity:0.000000001;z-index:-1;visibility:hidden">
+
+<div class="css-1hqnpie">
+
+<div class="css-epjblv">
+
+<span class="css-z6pdnw">The Mystery of the Wasting
+House-Cats</span>
+
+</div>
+
+<div class="css-k008qs">
+
+<div class="css-1iwv8en">
+
+<span class="css-18z7m18"></span>
+
+<div>
+
+<div>
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-1n6z4y">https://nyti.ms/2rllKIE</span>
+
+<div class="css-1705lsu">
+
+<div class="css-4xjgmj">
+
+<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+
+  - 
+  - 
+  - 
+  - 
+    
+    <div class="css-6n7j50">
+    
+    </div>
+
+  - 
+  - 
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-11qgg8s">
+
+</div>
+
+<div id="fullBleedHeaderContent">
+
+<div class="css-1mre5cn">
+
+![<span class="css-ach9cc e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Mark
+Peckmezian for The New York
+Times</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2017/05/21/magazine/21cat1/21cat1-articleLarge-v2.jpg?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+<div class="css-hy7cq4">
+
+<div class="css-6cn7ki">
+
+<div class="NYTAppHideMasthead css-1bcu9v6 e1suatyy0">
+
+<div class="section css-1o1qe8k e1suatyy2">
+
+<div class="css-cu5p7t er09x8g0">
+
+<div class="css-6n7j50">
+
+</div>
+
+<span class="css-1dv1kvn">Sections</span>
+
+[Skip to content](#site-content)[Skip to site index](#site-index)
+
+</div>
+
+<div class="css-10698na e1huz5gh0">
+
+</div>
+
+</div>
+
+</div>
+
+The Health Issue
+
+<div class="css-1sojcmr ehdk2mb0">
+
+# The Mystery of the Wasting House-Cats
+
+</div>
+
+Forty years ago, feline hyperthyroidism was virtually nonexistent. Now
+it’s an epidemic — and some scientists think a class of everyday
+chemicals might be to
+blame.
+
+</div>
+
+</div>
+
+<div class="css-nwzfg5 e1gnum310">
+
+<span class="css-1f9pvn2 magazine"></span><span class="css-ach9cc e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Mark
+Peckmezian for The New York Times</span></span></span>
+
+</div>
+
+<div id="sponsor-wrapper" class="css-1hyfx7x">
+
+<div id="sponsor-slug" class="css-19vbshk">
+
+Supported by
+
+</div>
+
+[Continue reading the main
+story](#after-sponsor)
+
+<div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
+
+</div>
+
+<div id="after-sponsor">
+
+</div>
+
+</div>
+
+<div class="css-1fl1393 e1gnum311">
+
+<div class="css-18e8msd">
+
+<div class="css-vp77d3 epjyd6m0">
+
+<div class="css-1baulvz">
+
+By <span class="css-1baulvz last-byline" itemprop="name">Emily
+Anthes</span>
+
+</div>
+
+</div>
+
+  - May 16,
+    2017
+
+  - 
+    
+    <div class="css-4xjgmj">
+    
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    
+      - 
+      - 
+      - 
+      - 
+        
+        <div class="css-6n7j50">
+        
+        </div>
+    
+      - 
+      - 
+    
+    </div>
+    
+    </div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="section meteredContent css-1r7ky0e" name="articleBody" itemprop="articleBody">
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+<span class="css-ggqk20 ethc9we0">M</span>ost days, the back room of the
+Animal Endocrine Clinic in Manhattan is home to half a dozen cats
+convalescing in feline luxury. They lounge in their own individual
+“condos,” each equipped with a plush bed, a raised perch and a cozy
+box for hiding. Classical music plinks softly from speakers overhead. A
+television plays cat-friendly videos — birds chirping, squirrels
+scampering. Patients can also tune in to the live version: A
+seed-stuffed bird feeder hangs directly outside each window.
+
+One afternoon in April, a jet-black cat named Nubi assumed a predatory
+crouch in his condo as a brawny pigeon landed on a feeder. Dr. Mark
+Peterson, the soft-spoken veterinarian who runs the clinic, opened the
+door to Nubi’s condo and greeted the 12-year-old tom in a lilting,
+high-pitched voice. “How are you?” Peterson asked, reaching in to
+scratch his patient’s soft chin. Nubi, who typically is so temperamental
+that his owner jokes about needing a priest to perform an exorcism,
+gently acquiesced, then turned back to the bird. Peterson seemed eager
+to linger with each of Nubi’s four feline neighbors — Maggie, Biggie,
+Fiji and Napoleon — but, he warned, “these cats back here are
+radioactive.”
+
+He meant that literally. The previous day, all five animals received
+carefully titrated doses of radioactive iodine, designed to destroy the
+overactive cells that had proliferated in their thyroid glands and
+flooded their bodies with hormones. These cats are among the millions
+suffering from hyperthyroidism, one of the most mysterious diseases in
+veterinary medicine. When Peterson entered veterinary school in 1972,
+feline hyperthyroidism seemingly didn’t exist; today, he treats nothing
+else. In the intervening decades, hyperthyroidism somehow became an
+epidemic in cats, and no one knows why. “I’ve devoted most of my time in
+the last 35 years to this,” said Peterson, who noted that he has treated
+more than 10,000 hyperthyroid cats, “and I still have more questions
+than I have answers.”
+
+Although definitive answers remain elusive, scientists are narrowing in
+on one possible explanation: A steady drumbeat of research links the
+strange feline disease to a common class of flame retardants that have
+blanketed the insides of our homes for decades. But even as the findings
+may answer one epidemiological question, they raise another in its
+place. If household chemicals are wreaking havoc on the hormones of
+cats, what are they doing to us?
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+**By the time Peterson** met Sasha in the fall of 1978, the scrawny
+tuxedo cat was a regular at the Animal Medical Center in Manhattan. The
+15-year-old had lost a profound amount of weight, despite a seemingly
+insatiable appetite. Her case stumped veterinarians, who had already
+ruled out many of the obvious culprits, including parasites,
+irritable-bowel disease and diabetes.
+
+Peterson, who had become restless with his veterinary residency, was
+spending his time off attending endocrine rounds at New York Hospital.
+When he heard about Sasha’s symptoms, he thought of the thyroid, a gland
+that sits at the base of the neck and secretes hormones that regulate
+metabolism. In humans, weight loss and increased appetite are among the
+hallmark symptoms of hyperthyroidism, in which the gland churns out huge
+quantities of hormones, sending the body’s internal systems into
+overdrive.
+
+</div>
+
+</div>
+
+<div style="max-width:100%;margin:0 auto">
+
+<div class="css-17dprlf" data-id="100000005099794" data-slug="21mag-health-nav" style="max-width:300px">
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Although cats weren’t known to develop the condition, Peterson thought
+the possibility was worth at least investigating. And so, one afternoon,
+he ferried Sasha to the hospital, where a sympathetic doctor had agreed
+to give the cat a thyroid scan. The image was unambiguous: There was a
+large mass on Sasha’s thyroid. The tumor was benign, but its
+inexhaustible cells were dumping thyroid hormones into her bloodstream.
+“We got all excited, and we didn’t know exactly what we were doing,
+but we removed the tumor,” Peterson says. “And the cat got better and
+gained like five pounds in six months.”
+
+It was a happy ending for Sasha, but for Peterson and Gerald Johnson,
+the gastroenterologist at the Animal Medical Center, it was just the
+beginning. “Dr. Johnson said, ‘You know, I have these other cases that I
+haven’t been able to figure out,’ ” Peterson recalls. “So we thought:
+We’ll get them back. Let’s test them.” They quickly found four more
+cats with benign thyroid tumors and elevated levels of thyroid hormones.
+And the more they looked, the more hyperthyroid cats they found. “It
+didn’t take very long to get a dozen cases, and then 30 cases, and then
+100 cases,” Peterson says. It was an astonishing discovery — dozens of
+pets wasting away from a disease that nobody knew existed.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+In the summer of 1979, Peterson presented the first five cases of feline
+hyperthyroidism to a standing-room-only crowd at a veterinary conference
+in Seattle. There, he learned that hyperthyroid cats had recently begun
+turning up in Boston; the vets at Angell Memorial Animal Hospital would
+soon publish a paper on their first 10 patients. The reports set the
+veterinary world abuzz and raised some unsettling questions. “The first,
+among specialists, was, ‘How did we miss this?’ ” recalls Duncan
+Ferguson, a veterinarian and pharmacologist who was a co-author of a
+1982 paper on the first cluster of cases to appear in Philadelphia. “We
+can’t believe it just sort of appeared. Is this a new disease?”
+
+It seemed to be. When Peterson later combed through old pathology
+reports for 7,000 feline necropsies, he found that the thyroid
+abnormalities he was seeing were rare until the late 1970s. But once the
+outbreak started, it spread fast. From 1979 to 1983, the vets at the
+Animal Medical Center saw three cases a month on average; by 1993, they
+were seeing more than 20. The disease hopscotched across the United
+States and then the world, striking cats in Canada, Europe, Japan,
+Australia and New Zealand.
+
+Today, senior cats are routinely screened for hyperthyroidism, and about
+10 percent will be found to have the disease. Owners can choose from a
+variety of treatments, including drugs, surgery or radioactive iodine,
+which destroys the hyperactive thyroid cells while sparing the healthy
+tissue. At his two clinics — the one in Manhattan and another in Bedford
+Hills, N.Y. — Peterson administers radioiodine to more than 300 cats
+each year. But for all the progress veterinarians have made in
+diagnosing and treating the disorder, it has been far trickier to
+determine its origin.
+
+**When hyperthyroidism** first surfaced in cats, Peterson was confident
+that scientists would soon make sense of the curious condition. A number
+of researchers, including Peterson, became epidemiological detectives,
+searching for dietary, environmental and lifestyle factors that
+distinguished the hyperthyroid cats from healthy ones, and they turned
+up many leads. Among the many behaviors that appeared to put cats at
+risk: spending time indoors, using cat litter, eating canned food,
+eating fish-flavored canned food, eating liver-and-giblet-flavored
+canned food, drinking puddle water, sleeping on the floor, sleeping on
+bedding treated with flea-control products and living in a home with a
+gas fireplace.
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+![<span class="css-i48y28 e13ogyst0" data-aria-hidden="true">Dr. Mark
+Peterson with a patient at his Manhattan
+clinic.</span><span class="css-ach9cc e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Mark
+Peckmezian for The New York
+Times</span></span>](https://static01.graylady3jvrrxbe.onion/images/2017/05/21/magazine/21cat2/21cat2-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+It was a long and eclectic list, and from the 1980s to the early 2000s,
+scientists proposed a wide range of potential culprits, including
+chemicals used in canning and a toxic mystery substance in cat litter.
+Eventually, researchers homed in on another possibility: a class of
+flame retardants known as polybrominated diphenyl ethers (PBDEs).
+Beginning in the 1970s, large quantities of the chemicals were routinely
+added to many household goods, including couch cushions, carpet padding
+and electronics. PBDEs can be itinerant compounds; they leach from our
+sofas and TVs and latch onto particles of house dust, coating our floors
+and furniture. They drift into soil, water and air and slip into the
+bodies of animals, collecting in everything from the eggs of peregrine
+falcons to the blubber of beluga whales.
+
+PBDEs also happen to have a chemical structure that resembles thyroid
+hormones and may mimic or compete with these hormones in the body,
+binding to their receptors and interfering with their transport and
+metabolism. By the mid-2000s, it was clear that they could alter thyroid
+function in rodents, birds and fish, and the United States and the
+European Union have now largely phased the chemicals out. (They remain
+ubiquitous, however; PBDEs take years to degrade, and many people still
+own products manufactured before they were taken off the market.)
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+As the health risks of PBDEs became clear, two scientists at the
+Environmental Protection Agency — Linda Birnbaum, a toxicologist, and
+Janice Dye, a veterinarian — began to wonder whether the chemicals might
+also be responsible for the rise of hyperthyroidism in cats. “How do
+cats behave?” says Birnbaum, who now directs the National Institute of
+Environmental Health Sciences and its National Toxicology Program. “They
+crawl on the floor. They sit on the couch. They lick their paws all the
+time. So anything in the dust, they’re going to end up ingesting.” If
+PBDEs were to blame, it would explain why the disease didn’t appear
+until the late 1970s, why it first emerged in the United States — where
+use of the chemicals was especially heavy — and why indoor cats seemed
+to be at particular risk.
+
+Birnbaum and Dye started a small pilot study to scour the blood of 23
+cats, including 11 with hyperthyroidism, for traces of PBDEs. The
+volumes of blood they collected were so small that the graduate student
+conducting the lab work worried that she might not detect anything. Her
+fears were unfounded: The cats had PBDE levels 20 to 100 times as high
+as those typically observed in American adults. Birnbaum and Dye, who
+reported their results in a 2007 paper, also found relatively large
+quantities of PBDEs in several types of cat food, particularly
+seafood-flavored canned foods.
+
+Several years later, a group in Illinois discovered that pet cats had
+higher PBDE levels than feral ones and that hyperthyroid cats tended to
+live in homes that were particularly saturated with the flame
+retardants. In 2015, a Swedish team found that hyperthyroid cats had
+significantly higher levels of three types of PBDEs in their blood than
+healthy cats did. Last year, researchers in California reported a
+similar result: Total PBDE levels were higher in cats with
+hyperthyroidism than those without.
+
+The findings are tantalizing but not definitive. Cats’ lengthening life
+spans may explain some of the increased incidence of the disease, and
+it’s possible that high PBDE levels are a result of hyperthyroidism,
+rather than a cause; the compounds, which are stored in fat, may be
+released into the bloodstream when cats lose weight. Even if flame
+retardants do contribute to the disease, they may not be the sole cause.
+Researchers at the California Department of Toxic Substances Control
+recently identified more than 70 different compounds that seem to be
+present in especially high concentrations in hyperthyroid cats. “It’s
+terribly complicated to nail,” says Ake Bergman, who led the Swedish
+study and is the director of the Swedish Toxicology Sciences Research
+Center. “Because you are, and I am, and we are all, including the cats,
+exposed to such a mixture of
+chemicals.”
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:483.33333333333326px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-i48y28 e13ogyst0" data-aria-hidden="true">The cat
+condos at the Animal Endocrine Clinic in
+Manhattan.</span><span class="css-ach9cc e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Mark
+Peckmezian for The New York Times</span></span>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+**In the early 1950s,** the cats of Minamata, Japan, seemed to go mad
+all at once. They began to stagger, stumble and convulse, limbs flailing
+in every direction. They salivated uncontrollably. They hurled
+themselves at stone walls and drowned themselves in the sea. This
+“dancing-cat disease,” as it came to be known, was a warning — one
+that went unheeded.
+
+In the spring of 1956, a 5-year-old Minamata girl suddenly lost control
+of her body. She dropped her food, wobbled when she walked and shuddered
+with convulsions, biting her tongue until it bled. Other city residents,
+including the girl’s 2-year-old sister, soon began to exhibit similar
+symptoms. Thousands of people eventually fell ill; many slipped into
+comas and died. In 1959, a physician identified the cause of the
+catastrophe: A local chemical plant had been dumping methylmercury into
+the bay, poisoning the fish and, ultimately, the humans and cats who ate
+them. “In retrospect, if we’d paid more attention to the dancing cats,
+we might have prevented some of the problems of mercury poisoning in the
+people,” says Peter Rabinowitz, who directs the University of
+Washington’s Center for One Health Research, which explores
+connections among human, animal and environmental health.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Environmental toxicants are equal-opportunity hazards; mercury,
+asbestos, pesticides and other compounds can cause health problems in
+humans and animals alike. For at least a century — since coal miners
+began using caged canaries to alert them to the presence of toxic gases
+— we have known that we can put these shared vulnerabilities to
+practical use. Sick animals can be sentinels, warning of looming threats
+to human health. For household chemicals, cats and dogs, which tend to
+spend nearly all their time in the home and happily hoover up whatever
+detritus falls on the floor, may be particularly useful sentinels. “Our
+household pets are exposed to many of the same kinds of chemicals that
+we are,” Birnbaum says. “I think if we see a health problem in our
+animals, especially one that has arisen very recently — genetics doesn’t
+change that quickly — I think it’s kind of raising the
+canary-in-the-coal-mine issue.”
+
+Could hyperthyroid cats be modern-day canaries? We know that flame
+retardants accumulate in our own bodies; scientists find PBDEs in nearly
+every person they test, including newborns. “It’s almost 100 percent
+detection,” says Heather Stapleton, an environmental chemist and
+exposure scientist at Duke University. The compounds turn up in human
+blood, breast milk and tissue and can persist for years in fat.
+
+Over the course of decades, human PBDE levels skyrocketed, increasing
+100-fold from the 1970s to the early 2000s. (These levels now appear to
+be declining, most likely as a result of the phasing out of the
+chemicals.) The rate of human thyroid cancer more than doubled over the
+same time period. These parallel trends may be more than coincidence:
+Multiple studies have shown that men and women with high concentrations
+of PBDEs in their bodies tend to have altered levels of thyroid hormones
+circulating in their bloodstreams. Last year, researchers reported that
+thyroid problems were more common among American women with elevated
+levels of PBDEs in their blood. And at a conference this spring,
+Stapleton and her colleagues presented findings suggesting that
+long-term exposure to PBDEs may be a risk factor for papillary thyroid
+cancer; according to the unpublished data, living in a home with high
+levels of one type of PBDE in the dust more than doubled the odds of
+having the disease.
+
+Thyroid hormones also play a crucial role in brain development; a
+deficiency of these hormones, known as hypothyroidism, may cause
+neurological abnormalities. If PBDEs cause unusual fluctuations in
+hormone levels in early life, they may do lasting damage. Scientists
+have found that those who are exposed to high concentrations of PBDEs in
+utero or during early childhood score lower on tests of motor skills and
+cognition. These findings are particularly worrisome given that young
+children — who are not uncatlike in their behavior, ingesting up to 200
+milligrams of dust a day — tend to have higher body burdens of PBDEs
+than adults. The data are not conclusive, and the underlying mechanisms
+remain unclear. But further studies of cats could help scientists
+clarify what’s happening. “I remain convinced that paying more attention
+to what the animals are trying to tell us is a really good idea,”
+Rabinowitz says. “There are still many disease outbreaks in animals that
+remain sort of unexplored or unexplained.”
+
+Rabinowitz, who created the online Canary Database to index papers on
+animal outbreaks that may be relevant to human health, thinks scientists
+and clinicians could be more strategic about connecting the dots between
+species. When he and his colleagues recently investigated the potential
+health risks of hydraulic fracturing, they discovered that skin problems
+were common in both the people and the dogs living near gas-extraction
+sites. “We’re finding that there was really some utility in asking about
+both people and animals when looking at a new hazard,” Rabinowitz says.
+He suggests that we consider linking the health records of pets and
+their owners.
+
+For his part, Peterson remains steadfastly focused on cats, which keep
+showing up with thyroid hot spots that need to be injected with
+radiation. He will keep them as comfortable as possible during their
+stay at the “Hypurrcat Spa,” which is why he has converted the
+floor-to-ceiling pipe into a scratching post and keeps towel-lined
+baskets on the cold exam table. At his Bedford Hills clinic, which lacks
+windows for bird-watching, he has even installed a cage of gerbils in
+the cats’ line of sight. (“People always say, ‘Are the gerbils upset?’ ”
+he told me. “I think the gerbils like it, because they get to see new
+cats.”) Sitting in his Manhattan clinic’s waiting room, where the cats
+are encouraged to relax on the furniture, he said: “I love the animals.
+I love the animals more than people, I think.”
+
+</div>
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+<div id="bottom-wrapper" class="css-1ede5it">
+
+<div id="bottom-slug" class="css-l9onyx">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-bottom)
+
+<div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+</div>
+
+<div id="after-bottom">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+## Site Index
+
+<div>
+
+</div>
+
+## Site Information Navigation
+
+  - [© <span>2020</span> <span>The New York Times
+    Company</span>](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014792127-Copyright-notice)
+
+<!-- end list -->
+
+  - [NYTCo](https://www.nytco.com/)
+  - [Contact
+    Us](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115015385887-Contact-Us)
+  - [Work with us](https://www.nytco.com/careers/)
+  - [Advertise](https://nytmediakit.com/)
+  - [T Brand Studio](http://www.tbrandstudio.com/)
+  - [Your Ad
+    Choices](https://www.nytimes3xbfgragh.onion/privacy/cookie-policy#how-do-i-manage-trackers)
+  - [Privacy](https://www.nytimes3xbfgragh.onion/privacy)
+  - [Terms of
+    Service](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014893428-Terms-of-service)
+  - [Terms of
+    Sale](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014893968-Terms-of-sale)
+  - [Site
+    Map](https://spiderbites.nytimes3xbfgragh.onion)
+  - [Help](https://help.nytimes3xbfgragh.onion/hc/en-us)
+  - [Subscriptions](https://www.nytimes3xbfgragh.onion/subscription?campaignId=37WXW)
+
+</div>
+
+</div>
+
+</div>
+
+</div>

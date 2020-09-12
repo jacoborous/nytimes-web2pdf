@@ -1,0 +1,469 @@
+<div id="app">
+
+<div>
+
+<div>
+
+<div>
+
+<div class="NYTAppHideMasthead css-1q2w90k e1suatyy0">
+
+<div class="section css-ui9rw0 e1suatyy2">
+
+<div class="css-eph4ug er09x8g0">
+
+<div class="css-6n7j50">
+
+</div>
+
+<span class="css-1dv1kvn">Sections</span>
+
+<div class="css-10488qs">
+
+<span class="css-1dv1kvn">SEARCH</span>
+
+</div>
+
+[Skip to content](#site-content)[Skip to site
+index](#site-index)
+
+</div>
+
+<div class="css-10698na e1huz5gh0">
+
+</div>
+
+</div>
+
+<div id="masthead-bar-one" class="section hasLinks css-15hmgas e1csuq9d3">
+
+<div class="css-uqyvli e1csuq9d0">
+
+</div>
+
+<div class="css-1uqjmks e1csuq9d1">
+
+</div>
+
+<div class="css-9e9ivx">
+
+[](https://myaccount.nytimes3xbfgragh.onion/auth/login?response_type=cookie&client_id=vi)
+
+</div>
+
+<div class="css-1bvtpon e1csuq9d2">
+
+[Today’s
+Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div data-aria-hidden="false">
+
+<div id="site-content" data-role="main">
+
+<div>
+
+<div class="css-1aor85t" style="opacity:0.000000001;z-index:-1;visibility:hidden">
+
+<div class="css-1hqnpie">
+
+<div class="css-epjblv">
+
+<span class="css-100wwgy">How Studio KO Redefines
+Minimalism</span>
+
+</div>
+
+<div class="css-k008qs">
+
+<div class="css-o5pzib">
+
+<span class="css-18z7m18"></span>
+
+<div>
+
+</div>
+
+</div>
+
+<span class="css-1n6z4y">https://nyti.ms/1R09x3i</span>
+
+<div class="css-1705lsu">
+
+<div class="css-4xjgmj">
+
+<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+
+  - 
+  - 
+  - 
+  - 
+    
+    <div class="css-6n7j50">
+    
+    </div>
+
+  - 
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-13pd83m">
+
+</div>
+
+<div id="top-wrapper" class="css-1sy8kpn">
+
+<div id="top-slug" class="css-l9onyx">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
+
+<div id="sponsor-wrapper" class="css-1hyfx7x">
+
+<div id="sponsor-slug" class="css-19vbshk">
+
+Supported by
+
+</div>
+
+[Continue reading the main
+story](#after-sponsor)
+
+<div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
+
+</div>
+
+<div id="after-sponsor">
+
+</div>
+
+</div>
+
+[By
+Design](/column/by-design "By Design")
+
+<div class="css-1vkm6nb ehdk2mb0">
+
+# How Studio KO Redefines Minimalism
+
+</div>
+
+<div class="sizeMedium layoutHorizontal css-134dzg0 ejvbdkh1">
+
+[](https://www.nytimes3xbfgragh.onion/slideshow/2015/09/27/t-magazine/a-home-designed-by-studio-ko.html)
+
+<div class="css-5nx6oe">
+
+## A Home Designed by Studio KO
+
+<div class="css-1xhl2m">
+
+7 Photos
+
+View Slide Show
+<span class="css-t4350i">›</span>
+
+</div>
+
+</div>
+
+<div class="css-79elbk">
+
+<div class="css-hyytny">
+
+</div>
+
+![](https://static01.graylady3jvrrxbe.onion/images/2015/09/27/t-magazine/27tmag-studioko-t-slide-J3PJ/27tmag-studioko-t-slide-J3PJ-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+<div class="css-17ai7jg e15qwgfe0">
+
+<span class="css-1l9o2ey e13ogyst0">François Halard</span>
+
+</div>
+
+</div>
+
+<div class="css-xt80pu e12qa4dv0">
+
+<div class="css-18e8msd">
+
+<div class="css-vp77d3 epjyd6m0">
+
+<div class="css-1baulvz">
+
+By <span class="css-1baulvz last-byline" itemprop="name">Nancy
+Hass</span>
+
+</div>
+
+</div>
+
+  - Sept. 23,
+    2015
+
+  - 
+    
+    <div class="css-4xjgmj">
+    
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    
+      - 
+      - 
+      - 
+      - 
+        
+        <div class="css-6n7j50">
+        
+        </div>
+    
+      - 
+    
+    </div>
+    
+    </div>
+
+</div>
+
+</div>
+
+<div class="section meteredContent css-1r7ky0e" name="articleBody" itemprop="articleBody">
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+*The celebrated design firm transforms the idea of spare elegance, with
+rich color and quietly luxurious finishings in a Paris apartment.*
+
+THE AESTHETIC of [Studio KO](http://www.studioko.fr/#en-intro) is born
+of an intriguing paradox: What if you steep pared-down ideals in a brew
+of excess? For nearly 20 years, the Paris-based firm’s principals,
+Olivier Marty and Karl Fournier, have played with that dynamic, most
+notably for the holiday homes of Marella Agnelli and Pierre Bergé in
+Morocco — hardly a locale that calls to mind the unadorned. They have
+created deceptively simple and serene environments in the midst of the
+pattern-mad, color-saturated traditional culture of North Africa.
+
+And so the pied-à-terre in the Eighth Arrondissement that they recently
+completed for a couple — one a financier and the other a fashion
+designer — may represent the apotheosis of their evolving approach.
+While edited to a fine edge, and full of the layered surface textures
+that are the studio’s trademark, it is more exuberant than much of their
+past work, even a bit zany — for KO, at least. ‘‘This took us further in
+some way than we had gone,’’ says Marty. ‘‘For years we stayed away from
+color, but as we go on, there is more and more confidence, and now we’re
+letting it back into our work.’’
+
+The clients, who split their time between a townhouse in Manhattan and a
+high-rise in Hong Kong, sought out KO after seeing their interiors in
+magazines. They were so sure about the firm that they signed a contract
+after one initial phone conversation — a first, Fournier concedes. ‘‘We
+knew that they were very idea-driven, and so are we,’’ says the fashion
+designer.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+At the beginning, there were challenges. The 1,800-square foot
+two-bedroom apartment is in a 19th-century building, a period that most
+French designers, including Marty and Fournier, generally do not care
+for, preferring the 17th and 18th centuries with their Louis pedigree
+and simpler lines, or the Modernism of such 20th-century Gallic idols as
+Jean-Michel Frank and Jean Prouvé. But this apartment was among the
+finest of its era, with disciplined lines and none of the over-the-top
+revival touches, and the designers, who are also partners in life,
+warmed to it quickly.
+
+They started by asking their clients if there was an object or talisman
+that epitomized the feeling they wanted to capture. The couple, who love
+’70s kinetic artists, sent a photo of a daringly curvy leather-and-brass
+contemporary chair by the British designer Mark Brazier-Jones. ‘‘It had
+all the flair we wanted,’’ says the fashion designer. ‘‘It was modern
+and beautiful and a little crazy.’’
+
+Unlike some people with several residences who want a uniform style from
+place to place, the couple believes a home should uniquely reflect its
+surroundings. They’ve cultivated a cozy glow in their New York
+townhouse, and their Hong Kong apartment is made of steel and glass. For
+Paris, they wanted to allude to the provenance of the building, layer it
+with a modern sensibility and add a touch of surrealism. They come to
+the city a few times a year, simply to eat and drink and revel at their
+luck in living such a life, and they wanted to be surrounded by a dose
+of sophisticated humor. Even though the central room is nearly 600
+square feet, they didn’t want to break it up into conventional
+conversation areas. That would feel too dowdy.
+
+‘‘We thought it would be great to have it like being in the clouds,’’
+says Fournier. Consequently, the living room is dominated by a massive
+curved sofa covered in vibrant blue velvet with a subtly celestial
+mottled pattern. The black and white rug emphasizes the geometry, as do
+the barrel chairs. The stained-glass windows in the master bedroom add
+another angular juxtaposition to the space’s ornate original ceilings:
+When the light shines in, it casts gridlike shadows on the carpet.
+
+The apartment had a set of built-in vitrines, several of which the
+designers kept, lining the shelves with an unexpected tangerine velvet.
+Inside is a set of 19th-century ceramics that wink at the financier’s
+Chinese heritage: Upon close inspection the designs are cleverly ribald.
+The couple’s taste for strong statements and KO’s newly enthusiastic
+embrace of color are writ large in the guest room, which has
+Majorelle-blue walls — a Moroccan fetish — and a lynx-patterned carpet.
+‘‘When you have eccentric clients, the telling moment about how far
+they will go is when you show them the lynx carpet,’’ Marty says.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+As in all KO projects, which tend to contain a minimum of objects, many
+of the surface treatments are themselves a focus. The living room was
+originally lined in stenciled boiserie stained dark, which the designers
+removed; they then asked a decorative painter to preserve and emphasize
+‘‘ghost’’ images of the paneling in what Marty calls ‘‘a dirty
+American way.’’ Adding layers of a sort of papier mâché — and then
+artfully distressing them — the artisans were able to create a custom
+pale gray surface that is as complex as an abstract painting. The
+baseboards echo the common areas of the building, which are done in an
+elaborate pattern of faux marble in a riot of shades common in the 19th
+century. ‘‘That is a beautiful thing, if it is done in the right amount,
+in the right way, in the right place,’’ says Marty. ‘‘We got really into
+it.’’
+
+Perhaps the entire project — and the evolution it represents for the
+complex, intellectual Studio KO — can be summed up by a corner of the
+main room: The original posh gold-leafed fireplace is flanked by two
+huge brutalist sconces on the deconstructed wall with its elegantly
+marbled baseboards. ‘‘You get older,’’ says Marty, ‘‘and you get more
+wild.’’
+
+</div>
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+<div id="bottom-wrapper" class="css-1ede5it">
+
+<div id="bottom-slug" class="css-l9onyx">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-bottom)
+
+<div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+</div>
+
+<div id="after-bottom">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+## Site Index
+
+<div>
+
+</div>
+
+## Site Information Navigation
+
+  - [© <span>2020</span> <span>The New York Times
+    Company</span>](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014792127-Copyright-notice)
+
+<!-- end list -->
+
+  - [NYTCo](https://www.nytco.com/)
+  - [Contact
+    Us](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115015385887-Contact-Us)
+  - [Work with us](https://www.nytco.com/careers/)
+  - [Advertise](https://nytmediakit.com/)
+  - [T Brand Studio](http://www.tbrandstudio.com/)
+  - [Your Ad
+    Choices](https://www.nytimes3xbfgragh.onion/privacy/cookie-policy#how-do-i-manage-trackers)
+  - [Privacy](https://www.nytimes3xbfgragh.onion/privacy)
+  - [Terms of
+    Service](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014893428-Terms-of-service)
+  - [Terms of
+    Sale](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014893968-Terms-of-sale)
+  - [Site
+    Map](https://spiderbites.nytimes3xbfgragh.onion)
+  - [Help](https://help.nytimes3xbfgragh.onion/hc/en-us)
+  - [Subscriptions](https://www.nytimes3xbfgragh.onion/subscription?campaignId=37WXW)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
